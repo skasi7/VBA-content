@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.SetLineSpacing
 ms.assetid: 32e5b233-8415-2373-7423-18b66df3a5ea
-ms.locale: en-US
+
 ---
 
 

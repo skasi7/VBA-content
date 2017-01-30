@@ -2,7 +2,7 @@
 title: ColorCMYK Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 75ba3182-9bd1-40e0-be3d-1eb01a6cbc64
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.VerticalScale
 ms.assetid: ff83d1bc-798b-5b42-7087-9b45f3ff573d
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebOptions.ShowOnlyWebFonts
 ms.assetid: d18197f4-9abe-d523-77fd-f33a8ecc8076
-ms.locale: en-US
+
 ---
 
 

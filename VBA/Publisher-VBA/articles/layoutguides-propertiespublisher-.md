@@ -2,7 +2,7 @@
 title: LayoutGuides Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6fce7e75-7344-4b90-9e80-90afdc9fc980
-ms.locale: en-US
+
 ---
 
 

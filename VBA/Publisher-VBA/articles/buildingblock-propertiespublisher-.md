@@ -2,7 +2,7 @@
 title: BuildingBlock Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: be90a4b3-ee2d-4fce-8e40-062110f338dc
-ms.locale: en-US
+
 ---
 
 

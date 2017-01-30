@@ -2,7 +2,7 @@
 title: CatalogMergeShapes Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e5c7a3f8-dc73-470d-8421-b165c704c6f0
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: WebCheckBox Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 1696165b-e75f-4f41-833c-cffd499c35c5
-ms.locale: en-US
+
 ---
 
 

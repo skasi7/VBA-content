@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CalloutFormat.Length
 ms.assetid: 878fdb7b-fca6-49b6-1ec0-143243ce014c
-ms.locale: en-US
+
 ---
 
 

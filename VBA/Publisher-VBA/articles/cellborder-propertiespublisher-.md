@@ -2,7 +2,7 @@
 title: CellBorder Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e19df0a3-08f3-4065-b02a-9dd3fe833cf5
-ms.locale: en-US
+
 ---
 
 

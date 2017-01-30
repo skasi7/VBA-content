@@ -2,7 +2,7 @@
 title: Options Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: af864646-2c21-47f7-aa7b-8ff0bce9ef01
-ms.locale: en-US
+
 ---
 
 

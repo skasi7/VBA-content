@@ -2,7 +2,7 @@
 title: ConnectorFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: cefd8516-5dc5-4882-9bcc-d901afc9e297
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Pages Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 19137572-3287-4143-84f7-a32f3502841f
-ms.locale: en-US
+
 ---
 
 

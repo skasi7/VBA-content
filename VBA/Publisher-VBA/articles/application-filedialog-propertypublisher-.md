@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.FileDialog
 ms.assetid: 65d73a9d-be4c-d809-d10d-468181ef9eb0
-ms.locale: en-US
+
 ---
 
 

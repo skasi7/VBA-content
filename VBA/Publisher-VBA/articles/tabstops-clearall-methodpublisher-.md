@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TabStops.ClearAll
 ms.assetid: bb7e2a0e-c044-872d-aa74-2683886e77a6
-ms.locale: en-US
+
 ---
 
 

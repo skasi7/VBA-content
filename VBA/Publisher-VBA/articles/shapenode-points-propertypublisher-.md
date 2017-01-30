@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeNode.Points
 ms.assetid: 30235d5a-9f05-4cc4-f62f-ac3cf4916e0d
-ms.locale: en-US
+
 ---
 
 

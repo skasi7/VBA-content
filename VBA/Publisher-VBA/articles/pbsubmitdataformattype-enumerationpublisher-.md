@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbSubmitDataFormatType
 ms.assetid: 650c0362-afd8-18f2-f9a8-119baba4acf6
-ms.locale: en-US
+
 ---
 
 

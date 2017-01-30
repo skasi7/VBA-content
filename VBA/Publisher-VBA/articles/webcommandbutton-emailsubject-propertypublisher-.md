@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebCommandButton.EmailSubject
 ms.assetid: 4d29dacd-0da6-c706-515e-219daf5e349d
-ms.locale: en-US
+
 ---
 
 

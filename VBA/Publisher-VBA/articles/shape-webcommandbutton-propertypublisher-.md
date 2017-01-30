@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.WebCommandButton
 ms.assetid: c20b937b-6f53-fdc1-830a-4044831c351a
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Selection Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 525008fc-c392-4c1b-9e09-cb376758b888
-ms.locale: en-US
+
 ---
 
 

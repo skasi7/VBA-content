@@ -2,7 +2,7 @@
 title: CalloutFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c9b4eb3b-c6fb-4e97-780d-448fa422746b
-ms.locale: en-US
+
 ---
 
 

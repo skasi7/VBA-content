@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Table.GrowToFitText
 ms.assetid: d8822df7-a252-a5bb-be26-83df8ec5eb94
-ms.locale: en-US
+
 ---
 
 

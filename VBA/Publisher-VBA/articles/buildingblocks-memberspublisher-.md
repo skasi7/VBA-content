@@ -2,7 +2,7 @@
 title: BuildingBlocks Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b123ad8d-b48a-6761-48bc-d8d2e49c5faa
-ms.locale: en-US
+
 ---
 
 

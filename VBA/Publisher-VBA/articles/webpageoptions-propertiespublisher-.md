@@ -2,7 +2,7 @@
 title: WebPageOptions Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 511f9bfc-f785-4f93-82a0-dd941849283f
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: ColorsInUse Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3dbe406e-d31b-4437-b22f-26837e3f1798
-ms.locale: en-US
+
 ---
 
 

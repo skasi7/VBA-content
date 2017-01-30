@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.Story
 ms.assetid: 7bbe0967-83aa-745b-ad13-8a7dfe61811c
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: PictureFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ef7709d9-1a47-86af-6717-eaf2ba9ca9fc
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.CommandBars
 ms.assetid: 21537c04-d406-6016-4f35-2f6ce6851db2
-ms.locale: en-US
+
 ---
 
 

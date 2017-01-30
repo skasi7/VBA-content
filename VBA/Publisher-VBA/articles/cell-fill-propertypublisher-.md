@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Cell.Fill
 ms.assetid: 3ff3fda8-aca7-534e-6a56-99d6a3d9e9e2
-ms.locale: en-US
+
 ---
 
 

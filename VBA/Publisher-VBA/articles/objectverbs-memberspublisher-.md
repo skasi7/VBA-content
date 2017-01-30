@@ -2,7 +2,7 @@
 title: ObjectVerbs Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 8805a9b5-daba-fc4d-7bcb-90216ca49282
-ms.locale: en-US
+
 ---
 
 

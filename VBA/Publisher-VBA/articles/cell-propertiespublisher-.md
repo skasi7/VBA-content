@@ -2,7 +2,7 @@
 title: Cell Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 605f9d8a-d1b0-4b63-8b50-ed428b3a6bb6
-ms.locale: en-US
+
 ---
 
 

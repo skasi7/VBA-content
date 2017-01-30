@@ -2,7 +2,7 @@
 title: PageSizes Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d4c6ec6a-6a77-4089-ab6d-80adbc756600
-ms.locale: en-US
+
 ---
 
 

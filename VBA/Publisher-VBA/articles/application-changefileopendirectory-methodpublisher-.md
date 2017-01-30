@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.ChangeFileOpenDirectory
 ms.assetid: 9178881c-2f7f-9063-31d1-14d4745f0666
-ms.locale: en-US
+
 ---
 
 

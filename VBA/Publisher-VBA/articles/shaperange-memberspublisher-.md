@@ -2,7 +2,7 @@
 title: ShapeRange Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 50146f74-1df4-8123-f42f-d4f5d1efba7b
-ms.locale: en-US
+
 ---
 
 

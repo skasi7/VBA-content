@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageBackground.Parent
 ms.assetid: d9c10256-8c8a-4008-a892-57346b403173
-ms.locale: en-US
+
 ---
 
 

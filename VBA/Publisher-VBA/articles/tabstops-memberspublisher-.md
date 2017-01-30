@@ -2,7 +2,7 @@
 title: TabStops Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 98f6e989-ae13-e393-85de-41b29e3de01b
-ms.locale: en-US
+
 ---
 
 

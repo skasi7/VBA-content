@@ -2,7 +2,7 @@
 title: MailMergeFilterCriterion Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6e17db17-85fc-2e92-1b95-e25656e26b84
-ms.locale: en-US
+
 ---
 
 

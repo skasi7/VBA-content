@@ -2,7 +2,7 @@
 title: MasterPages Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e4880ffa-57e8-484e-9276-452ff6833aaf
-ms.locale: en-US
+
 ---
 
 

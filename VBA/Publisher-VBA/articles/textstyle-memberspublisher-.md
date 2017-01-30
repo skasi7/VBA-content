@@ -2,7 +2,7 @@
 title: TextStyle Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 32662844-441e-ac73-0cb4-a246af9a394b
-ms.locale: en-US
+
 ---
 
 

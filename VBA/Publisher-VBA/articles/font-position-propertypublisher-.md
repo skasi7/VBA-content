@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Position
 ms.assetid: 24573faf-1627-3b10-5a8e-2f76a9f8831d
-ms.locale: en-US
+
 ---
 
 

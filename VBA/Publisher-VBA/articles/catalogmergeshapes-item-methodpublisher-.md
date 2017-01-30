@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CatalogMergeShapes.Item
 ms.assetid: 0892aa01-0f15-4078-ef51-047c950c135d
-ms.locale: en-US
+
 ---
 
 

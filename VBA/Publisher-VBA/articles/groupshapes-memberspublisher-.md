@@ -2,7 +2,7 @@
 title: GroupShapes Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 72e9f731-fba3-c8d3-fe5f-3d81d59321b8
-ms.locale: en-US
+
 ---
 
 

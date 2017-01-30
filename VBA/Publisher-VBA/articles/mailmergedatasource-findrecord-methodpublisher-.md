@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.FindRecord
 ms.assetid: a4b37255-bdff-ac61-6d18-05a4fe008beb
-ms.locale: en-US
+
 ---
 
 

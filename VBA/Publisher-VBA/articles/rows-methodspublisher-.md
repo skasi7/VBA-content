@@ -2,7 +2,7 @@
 title: Rows Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 21a96e2d-ebd1-4522-bdf6-75e05fee2141
-ms.locale: en-US
+
 ---
 
 

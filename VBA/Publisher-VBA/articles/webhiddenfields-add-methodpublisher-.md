@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebHiddenFields.Add
 ms.assetid: c3035138-f369-b561-b1f8-9977bd9e080c
-ms.locale: en-US
+
 ---
 
 

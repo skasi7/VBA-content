@@ -2,7 +2,7 @@
 title: ReaderSpread Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 34aee36d-1c3b-7aa6-3594-eb76e5602174
-ms.locale: en-US
+
 ---
 
 

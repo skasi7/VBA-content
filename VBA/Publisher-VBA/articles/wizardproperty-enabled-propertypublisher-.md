@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WizardProperty.Enabled
 ms.assetid: c66741c8-1493-ac90-4ecb-ed8d58743c69
-ms.locale: en-US
+
 ---
 
 

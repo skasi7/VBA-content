@@ -2,7 +2,7 @@
 title: RulerGuide Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4585db71-bb6c-40eb-b14d-4cf1223cf36b
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebListBoxItems.Selected
 ms.assetid: 2db3b8cb-2922-1cca-9613-67402772ee27
-ms.locale: en-US
+
 ---
 
 

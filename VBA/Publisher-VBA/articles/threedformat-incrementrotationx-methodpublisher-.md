@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ThreeDFormat.IncrementRotationX
 ms.assetid: d64204d6-ff4e-aa25-7795-858006ba2cf2
-ms.locale: en-US
+
 ---
 
 

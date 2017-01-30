@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorCMYK.Parent
 ms.assetid: e2086402-d8b4-1414-9b09-67fd142083b1
-ms.locale: en-US
+
 ---
 
 

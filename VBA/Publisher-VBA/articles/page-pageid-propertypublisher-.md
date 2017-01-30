@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Page.PageID
 ms.assetid: 07a87780-fb97-93ff-6f7d-1f1b72d3cb6a
-ms.locale: en-US
+
 ---
 
 

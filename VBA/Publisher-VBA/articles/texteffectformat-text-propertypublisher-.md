@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextEffectFormat.Text
 ms.assetid: eae1e95f-b0e6-559b-39a5-40291e758915
-ms.locale: en-US
+
 ---
 
 

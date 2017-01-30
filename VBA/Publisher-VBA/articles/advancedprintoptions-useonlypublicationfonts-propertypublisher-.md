@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts
 ms.assetid: f5973b32-37f3-8f65-1437-a465aa488ef4
-ms.locale: en-US
+
 ---
 
 

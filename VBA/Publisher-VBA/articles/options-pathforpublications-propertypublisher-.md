@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.PathForPublications
 ms.assetid: d33d5eab-eb52-b533-8968-31ddb5e12d99
-ms.locale: en-US
+
 ---
 
 

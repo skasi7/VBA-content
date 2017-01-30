@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbReplaceScope
 ms.assetid: 17c0eb7e-9572-40cf-843b-451ef6c1fb93
-ms.locale: en-US
+
 ---
 
 

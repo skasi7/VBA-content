@@ -2,7 +2,7 @@
 title: CellRange Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3a29eb78-185f-4e52-9308-3e3dd0effae5
-ms.locale: en-US
+
 ---
 
 

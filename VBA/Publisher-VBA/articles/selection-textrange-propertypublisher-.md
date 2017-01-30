@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Selection.TextRange
 ms.assetid: 7de96171-630a-40ae-9e21-92d681601cf2
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CaptionStyles
 ms.assetid: 43978df8-0c1c-ab0b-deda-211fad29f5c2
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Document Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 1f394034-20e3-4f7d-b313-182a71592ef3
-ms.locale: en-US
+
 ---
 
 

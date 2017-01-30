@@ -2,7 +2,7 @@
 title: CatalogMergeShapes Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 241558cc-93c7-4ffb-82d0-16b58ab8ad47
-ms.locale: en-US
+
 ---
 
 

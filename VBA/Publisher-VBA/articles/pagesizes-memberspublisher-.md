@@ -2,7 +2,7 @@
 title: PageSizes Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: fcf08cf4-2a6f-6706-3963-4b2700967d30
-ms.locale: en-US
+
 ---
 
 

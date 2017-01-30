@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.InstalledPrinters.Count
 ms.assetid: 8ca9ed0b-2a7d-b53a-b5de-4d0405f11fab
-ms.locale: en-US
+
 ---
 
 

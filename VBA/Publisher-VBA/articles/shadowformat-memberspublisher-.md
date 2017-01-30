@@ -2,7 +2,7 @@
 title: ShadowFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 52eb5508-4f8e-ed26-82f2-7f617d67a4a0
-ms.locale: en-US
+
 ---
 
 

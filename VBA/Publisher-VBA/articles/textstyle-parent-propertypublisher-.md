@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextStyle.Parent
 ms.assetid: f5593305-b41e-5ad6-5028-d83ff974510a
-ms.locale: en-US
+
 ---
 
 

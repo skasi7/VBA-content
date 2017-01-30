@@ -2,7 +2,7 @@
 title: CellRange Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 98bbe4e2-9150-1bf1-6e77-b81558c801bd
-ms.locale: en-US
+
 ---
 
 

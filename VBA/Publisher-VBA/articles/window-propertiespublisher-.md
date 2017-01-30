@@ -2,7 +2,7 @@
 title: Window Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6e664955-a972-42d0-809f-68633291b5c5
-ms.locale: en-US
+
 ---
 
 

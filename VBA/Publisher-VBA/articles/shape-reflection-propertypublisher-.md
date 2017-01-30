@@ -2,7 +2,7 @@
 title: Shape.Reflection Property (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: a9a12d07-8edc-2f1b-9f7d-4aeae43b1335
-ms.locale: en-US
+
 ---
 
 

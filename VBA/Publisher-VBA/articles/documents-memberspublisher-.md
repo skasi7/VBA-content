@@ -2,7 +2,7 @@
 title: Documents Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bd4c2b72-2f8a-8bfc-be5e-886fcef9af16
-ms.locale: en-US
+
 ---
 
 

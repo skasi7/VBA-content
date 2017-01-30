@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorsInUse
 ms.assetid: ced0028a-8ab5-d9b1-b28c-24b794bdcbfe
-ms.locale: en-US
+
 ---
 
 

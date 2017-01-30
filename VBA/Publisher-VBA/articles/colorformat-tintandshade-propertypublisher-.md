@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorFormat.TintAndShade
 ms.assetid: 1c4897e0-ac55-08a8-8c43-dbd25d097ecc
-ms.locale: en-US
+
 ---
 
 

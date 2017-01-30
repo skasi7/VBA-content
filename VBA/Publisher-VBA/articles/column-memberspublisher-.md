@@ -2,7 +2,7 @@
 title: Column Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 47c18f2c-36de-feef-e998-acdb322ab8ef
-ms.locale: en-US
+
 ---
 
 

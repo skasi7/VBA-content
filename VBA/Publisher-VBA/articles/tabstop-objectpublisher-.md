@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TabStop
 ms.assetid: 74e71d75-503f-ef57-ddeb-24a788402df2
-ms.locale: en-US
+
 ---
 
 

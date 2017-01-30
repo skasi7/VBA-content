@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Fields.Count
 ms.assetid: a8a6b0d4-b029-0b45-6d76-6fb237c31c97
-ms.locale: en-US
+
 ---
 
 

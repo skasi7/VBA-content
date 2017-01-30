@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMerge.ViewMailMergeFieldCodes
 ms.assetid: 05b5e6e2-10ae-c6e0-3214-7016295703e2
-ms.locale: en-US
+
 ---
 
 

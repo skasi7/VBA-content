@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.ReplaceEx
 ms.assetid: 0f1b9eaf-51b6-ae21-518f-55663184ab87
-ms.locale: en-US
+
 ---
 
 

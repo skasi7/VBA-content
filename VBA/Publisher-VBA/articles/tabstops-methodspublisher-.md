@@ -2,7 +2,7 @@
 title: TabStops Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 28860ff7-f36f-46a4-86d3-fea2c4055480
-ms.locale: en-US
+
 ---
 
 

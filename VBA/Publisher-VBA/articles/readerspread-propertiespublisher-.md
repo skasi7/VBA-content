@@ -2,7 +2,7 @@
 title: ReaderSpread Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 0f7a3f63-5bf9-4ad5-98fc-0c9fbfc32743
-ms.locale: en-US
+
 ---
 
 

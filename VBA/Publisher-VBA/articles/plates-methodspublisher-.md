@@ -2,7 +2,7 @@
 title: Plates Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 23f58256-4297-4934-a0de-48aff26ba030
-ms.locale: en-US
+
 ---
 
 

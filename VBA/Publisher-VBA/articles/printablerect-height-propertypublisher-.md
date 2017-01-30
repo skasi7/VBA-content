@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PrintableRect.Height
 ms.assetid: 55d07c00-ee9f-c177-3277-9355618dce6d
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: TabStops Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d6acb0aa-15a0-46bc-abf7-3abc7c9ad969
-ms.locale: en-US
+
 ---
 
 

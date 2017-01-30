@@ -2,7 +2,7 @@
 title: DropCap Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4ea9c961-07db-7529-7d0f-ff45e2249e68
-ms.locale: en-US
+
 ---
 
 

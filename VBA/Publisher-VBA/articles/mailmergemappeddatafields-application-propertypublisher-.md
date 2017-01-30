@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeMappedDataFields.Application
 ms.assetid: 74d102da-4979-4b95-a36f-f187852f99c2
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: ThreeDFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4a5f4e59-1c35-4637-96b3-93dcfd8e1d8e
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: EmailMergeEnvelope Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 38a3b0b7-e5b0-4cc3-b7dc-ad1e31dd6483
-ms.locale: en-US
+
 ---
 
 

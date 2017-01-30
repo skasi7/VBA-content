@@ -2,7 +2,7 @@
 title: MailMergeFilters Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 67438468-4faf-4444-a7bf-d4f19a03039e
-ms.locale: en-US
+
 ---
 
 

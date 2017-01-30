@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Hyperlink.Shape
 ms.assetid: afd1dab7-472a-2aa5-f5da-1e2f783b5270
-ms.locale: en-US
+
 ---
 
 

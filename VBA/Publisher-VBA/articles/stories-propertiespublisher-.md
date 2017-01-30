@@ -2,7 +2,7 @@
 title: Stories Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 23762182-6aa7-4d78-82cd-be566efff0c3
-ms.locale: en-US
+
 ---
 
 

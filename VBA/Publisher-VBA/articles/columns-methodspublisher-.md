@@ -2,7 +2,7 @@
 title: Columns Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 21d3b750-578d-4e81-aa1d-3f7d5441c974
-ms.locale: en-US
+
 ---
 
 

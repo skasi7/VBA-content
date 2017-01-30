@@ -2,7 +2,7 @@
 title: LineFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3cd47530-e104-34b9-9f14-937061830a61
-ms.locale: en-US
+
 ---
 
 

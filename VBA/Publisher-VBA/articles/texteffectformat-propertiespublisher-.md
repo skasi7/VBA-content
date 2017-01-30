@@ -2,7 +2,7 @@
 title: TextEffectFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7b0e2f0b-ad9a-4e26-ba82-d1a81d63fe4d
-ms.locale: en-US
+
 ---
 
 

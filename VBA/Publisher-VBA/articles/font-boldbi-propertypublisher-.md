@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.BoldBi
 ms.assetid: f3a9fa27-6c9c-4d77-0f0d-962afa211d9d
-ms.locale: en-US
+
 ---
 
 

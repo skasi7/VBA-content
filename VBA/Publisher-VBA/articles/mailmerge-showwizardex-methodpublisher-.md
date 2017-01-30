@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMerge.ShowWizardEx
 ms.assetid: 3815204f-5f09-5a25-a2e4-5de4889c9919
-ms.locale: en-US
+
 ---
 
 

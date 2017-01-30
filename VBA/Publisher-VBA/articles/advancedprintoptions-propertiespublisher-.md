@@ -2,7 +2,7 @@
 title: AdvancedPrintOptions Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: cdf4623e-ec03-4729-8bc8-7a88baeaa65d
-ms.locale: en-US
+
 ---
 
 

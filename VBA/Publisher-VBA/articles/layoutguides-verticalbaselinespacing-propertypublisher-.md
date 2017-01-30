@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.VerticalBaseLineSpacing
 ms.assetid: 49391fbd-86c0-b53f-ff57-009af9341e74
-ms.locale: en-US
+
 ---
 
 

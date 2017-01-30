@@ -2,7 +2,7 @@
 title: MailMergeDataSources Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 24a8c805-ff81-4ec3-8f0e-9af055454ca8
-ms.locale: en-US
+
 ---
 
 

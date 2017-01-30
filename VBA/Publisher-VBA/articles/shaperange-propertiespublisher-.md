@@ -2,7 +2,7 @@
 title: ShapeRange Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ed51c793-07f2-48ea-92f6-75f4013c5265
-ms.locale: en-US
+
 ---
 
 

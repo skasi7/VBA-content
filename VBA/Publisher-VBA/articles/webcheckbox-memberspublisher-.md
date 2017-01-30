@@ -2,7 +2,7 @@
 title: WebCheckBox Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 623d2b13-88e7-404b-6191-246a9064e837
-ms.locale: en-US
+
 ---
 
 

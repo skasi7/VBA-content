@@ -2,7 +2,7 @@
 title: WebOptionButton Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 1f3c21b1-6134-5f05-55e9-7b8ffecb52a7
-ms.locale: en-US
+
 ---
 
 

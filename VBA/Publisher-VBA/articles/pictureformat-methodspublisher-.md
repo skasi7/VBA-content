@@ -2,7 +2,7 @@
 title: PictureFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6add2da2-a18d-4038-b505-e9f84da95a24
-ms.locale: en-US
+
 ---
 
 

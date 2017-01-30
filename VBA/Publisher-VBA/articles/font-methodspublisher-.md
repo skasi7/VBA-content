@@ -2,7 +2,7 @@
 title: Font Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 082fa6e8-2291-4821-81e8-bca3f88fad0c
-ms.locale: en-US
+
 ---
 
 

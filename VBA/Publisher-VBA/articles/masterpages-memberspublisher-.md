@@ -2,7 +2,7 @@
 title: MasterPages Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 380658ad-3326-075b-cddc-95a54a927dda
-ms.locale: en-US
+
 ---
 
 

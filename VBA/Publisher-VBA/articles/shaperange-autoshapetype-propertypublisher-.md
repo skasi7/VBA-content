@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.AutoShapeType
 ms.assetid: fa079239-07d8-0783-db34-77ee0f2d5391
-ms.locale: en-US
+
 ---
 
 

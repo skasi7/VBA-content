@@ -2,7 +2,7 @@
 title: Shapes Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 657d14c8-3fdc-4ba9-9894-1a7c16909208
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbVerticalTextAlignmentType
 ms.assetid: 7941c2b5-3b96-2abb-f942-0cb03776a0fe
-ms.locale: en-US
+
 ---
 
 

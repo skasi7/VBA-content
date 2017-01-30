@@ -2,7 +2,7 @@
 title: EmailMergeEnvelope Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e75454a4-aa7b-480d-3f1d-b1c196eeea9f
-ms.locale: en-US
+
 ---
 
 

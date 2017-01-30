@@ -2,7 +2,7 @@
 title: MailMergeDataSource Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f60895f3-518c-4a04-b1a1-85c2363b6e92
-ms.locale: en-US
+
 ---
 
 

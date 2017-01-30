@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.CropTop
 ms.assetid: b235898d-addf-6a4c-5693-229431545e6c
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ColorSchemes
 ms.assetid: f5002de1-5e91-fc92-eedb-0e13dce57802
-ms.locale: en-US
+
 ---
 
 

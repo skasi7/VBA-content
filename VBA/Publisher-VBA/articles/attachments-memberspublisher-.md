@@ -2,7 +2,7 @@
 title: Attachments Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: fbc479ab-ac16-7ee6-f585-5fe63f66b757
-ms.locale: en-US
+
 ---
 
 

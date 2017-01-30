@@ -2,7 +2,7 @@
 title: MailMerge Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: fef041e9-e6fb-4b7b-977a-cde310c2a4ef
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.MailMergeDataSourceLoad
 ms.assetid: afca3a05-d6a6-15f1-8cbf-593777066757
-ms.locale: en-US
+
 ---
 
 

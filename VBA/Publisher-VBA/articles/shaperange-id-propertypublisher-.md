@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.ID
 ms.assetid: d7ad646b-be40-2ac4-9d3e-faa37f8bf456
-ms.locale: en-US
+
 ---
 
 

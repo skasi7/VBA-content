@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Selection.Unselect
 ms.assetid: 08290d5a-f349-6ec1-582c-3e30df8b9230
-ms.locale: en-US
+
 ---
 
 

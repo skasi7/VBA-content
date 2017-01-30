@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Options.UseWizardForBlankPublication
 ms.assetid: c8afb883-03db-0ec4-1a7a-ebac697fc72f
-ms.locale: en-US
+
 ---
 
 

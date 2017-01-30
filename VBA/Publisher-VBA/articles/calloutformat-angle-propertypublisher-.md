@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CalloutFormat.Angle
 ms.assetid: b65a1c87-db52-8703-135e-1fbb1efbeebe
-ms.locale: en-US
+
 ---
 
 

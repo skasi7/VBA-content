@@ -2,7 +2,7 @@
 title: WebNavigationBarHyperlinks Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: da109283-ae03-4bd6-b9bd-64da0dc9f1c4
-ms.locale: en-US
+
 ---
 
 

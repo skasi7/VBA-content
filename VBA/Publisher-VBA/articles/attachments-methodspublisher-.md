@@ -2,7 +2,7 @@
 title: Attachments Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d466cc84-6ea5-4c73-b554-c6140dc4385d
-ms.locale: en-US
+
 ---
 
 

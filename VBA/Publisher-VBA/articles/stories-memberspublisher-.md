@@ -2,7 +2,7 @@
 title: Stories Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b390b206-5789-8eb8-6e44-04aa6c3dbb73
-ms.locale: en-US
+
 ---
 
 

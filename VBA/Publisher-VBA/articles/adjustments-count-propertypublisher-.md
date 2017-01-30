@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Adjustments.Count
 ms.assetid: 1b32f1c3-0bbc-a175-4f59-36cc76df12fd
-ms.locale: en-US
+
 ---
 
 

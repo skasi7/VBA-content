@@ -2,7 +2,7 @@
 title: Shape Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7a6cf332-6f30-6444-bcd9-2fd98ecd611d
-ms.locale: en-US
+
 ---
 
 

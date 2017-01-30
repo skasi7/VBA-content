@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbWizardGroup
 ms.assetid: e033ffde-0124-8c46-9ffc-3eefdfcdd436
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Column Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d9fe83bb-a515-4acc-907a-c3786270a57b
-ms.locale: en-US
+
 ---
 
 

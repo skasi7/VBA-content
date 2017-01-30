@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.Remove
 ms.assetid: 23bfc598-166d-ee0a-aeaa-e21dd157ced3
-ms.locale: en-US
+
 ---
 
 

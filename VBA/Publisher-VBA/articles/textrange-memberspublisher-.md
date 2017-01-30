@@ -2,7 +2,7 @@
 title: TextRange Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b565a83f-a2a9-8e2a-f7d0-28fbe5435e20
-ms.locale: en-US
+
 ---
 
 

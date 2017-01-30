@@ -2,7 +2,7 @@
 title: Options Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: da3ce703-1c0c-d683-c8d7-aa1c8f1ab928
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: WizardValues Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c4755f20-ad19-a373-5f40-5cd894d779e5
-ms.locale: en-US
+
 ---
 
 

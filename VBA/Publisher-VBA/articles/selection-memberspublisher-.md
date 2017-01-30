@@ -2,7 +2,7 @@
 title: Selection Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bcc0f7af-be9f-917a-1920-d0c2946d95f7
-ms.locale: en-US
+
 ---
 
 

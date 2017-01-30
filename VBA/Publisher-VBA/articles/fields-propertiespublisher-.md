@@ -2,7 +2,7 @@
 title: Fields Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 84f638fb-c19d-4b74-a1b0-6e981bd06f65
-ms.locale: en-US
+
 ---
 
 

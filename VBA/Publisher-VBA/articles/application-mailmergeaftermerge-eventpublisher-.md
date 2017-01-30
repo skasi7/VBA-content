@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.MailMergeAfterMerge
 ms.assetid: dd01d8f5-f95e-e833-bb8b-708ced54240c
-ms.locale: en-US
+
 ---
 
 

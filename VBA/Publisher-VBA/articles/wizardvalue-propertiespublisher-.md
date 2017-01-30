@@ -2,7 +2,7 @@
 title: WizardValue Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 341ae791-1d74-42d0-b2dd-e907abaa4106
-ms.locale: en-US
+
 ---
 
 

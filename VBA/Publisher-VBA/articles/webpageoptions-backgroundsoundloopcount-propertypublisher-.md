@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebPageOptions.BackgroundSoundLoopCount
 ms.assetid: 34d34a04-5fdb-3d43-9140-fcf10b420efd
-ms.locale: en-US
+
 ---
 
 

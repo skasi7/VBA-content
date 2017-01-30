@@ -2,7 +2,7 @@
 title: Tags Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bc8215eb-43eb-4f10-8e75-7953015e9b1a
-ms.locale: en-US
+
 ---
 
 

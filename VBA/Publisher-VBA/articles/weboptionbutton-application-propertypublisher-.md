@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebOptionButton.Application
 ms.assetid: 36caa60c-1534-0bbf-f73d-992b199dafd6
-ms.locale: en-US
+
 ---
 
 

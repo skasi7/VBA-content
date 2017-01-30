@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSetup.PageWidth
 ms.assetid: 547f2881-d9fa-fa5f-1643-ab08084fb423
-ms.locale: en-US
+
 ---
 
 

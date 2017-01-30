@@ -2,7 +2,7 @@
 title: ObjectVerbs Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b75b70f9-1d7d-4bcf-9284-364491793bf0
-ms.locale: en-US
+
 ---
 
 

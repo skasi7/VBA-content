@@ -2,7 +2,7 @@
 title: Plates Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7bdb1f58-1d07-4de3-8ed2-ec3998463fd3
-ms.locale: en-US
+
 ---
 
 

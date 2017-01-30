@@ -2,7 +2,7 @@
 title: ParagraphFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: dcf1cac6-1abd-4c71-b74b-379566c7a1ad
-ms.locale: en-US
+
 ---
 
 

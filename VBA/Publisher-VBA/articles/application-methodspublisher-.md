@@ -2,7 +2,7 @@
 title: Application Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 479c08a3-c0cb-47be-abcd-fed01c94c54c
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Adjustments Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: da3464e5-bec2-4b83-8929-e0a0658a48be
-ms.locale: en-US
+
 ---
 
 

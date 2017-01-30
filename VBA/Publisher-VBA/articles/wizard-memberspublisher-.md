@@ -2,7 +2,7 @@
 title: Wizard Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: cc935bea-db91-eba8-062e-0be94683d020
-ms.locale: en-US
+
 ---
 
 

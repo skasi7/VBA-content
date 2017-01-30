@@ -2,7 +2,7 @@
 title: MailMergeDataFields Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 78d78c8d-8139-4616-9f05-6fe3c12c079b
-ms.locale: en-US
+
 ---
 
 

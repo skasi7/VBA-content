@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.OriginalHasAlphaChannel
 ms.assetid: e58a97d2-4ced-d3cf-56b2-6a89df02bcdf
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: SoftEdgeFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 9cd0fb12-33e1-2caf-bed3-53b199a7e77b
-ms.locale: en-US
+
 ---
 
 

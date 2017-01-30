@@ -2,7 +2,7 @@
 title: LineFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 73b94abd-4228-447f-9eb7-93be69ce24b3
-ms.locale: en-US
+
 ---
 
 

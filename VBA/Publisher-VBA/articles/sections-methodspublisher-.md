@@ -2,7 +2,7 @@
 title: Sections Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: daa57a43-8cf3-4551-91d2-79b6b76aee69
-ms.locale: en-US
+
 ---
 
 

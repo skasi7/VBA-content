@@ -2,7 +2,7 @@
 title: WebListBox Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 61602f05-cf8d-4d83-9ef5-3110db2ce147
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: InstalledPrinters Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 474f4c23-6cea-52a4-42c5-fe3d3012df32
-ms.locale: en-US
+
 ---
 
 

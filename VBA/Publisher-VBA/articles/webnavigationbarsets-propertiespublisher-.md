@@ -2,7 +2,7 @@
 title: WebNavigationBarSets Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 90567b0a-cc86-4346-9e3a-8b94d1450ca2
-ms.locale: en-US
+
 ---
 
 

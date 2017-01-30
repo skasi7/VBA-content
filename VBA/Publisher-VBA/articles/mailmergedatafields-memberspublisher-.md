@@ -2,7 +2,7 @@
 title: MailMergeDataFields Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2da69f7b-c54b-d7c0-952f-c57b1ab280f0
-ms.locale: en-US
+
 ---
 
 

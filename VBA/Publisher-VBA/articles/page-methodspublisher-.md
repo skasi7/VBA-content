@@ -2,7 +2,7 @@
 title: Page Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 8fedb618-1381-47e6-8c65-4ee6bc6112c2
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: PrintableRect Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 74dca1c3-cb92-46fb-885a-8cb86ad96302
-ms.locale: en-US
+
 ---
 
 

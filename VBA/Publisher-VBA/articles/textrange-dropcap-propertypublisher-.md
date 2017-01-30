@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.DropCap
 ms.assetid: a5c29dd4-62f4-39fb-4b76-390d62bd8e32
-ms.locale: en-US
+
 ---
 
 

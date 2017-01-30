@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebHiddenFields.Delete
 ms.assetid: 7911f9fb-b578-ee20-b9fc-d1bca99b88e0
-ms.locale: en-US
+
 ---
 
 

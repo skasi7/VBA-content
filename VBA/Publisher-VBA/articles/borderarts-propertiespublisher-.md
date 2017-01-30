@@ -2,7 +2,7 @@
 title: BorderArts Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 318e5ab1-d145-4208-ac64-bb04ebc0f352
-ms.locale: en-US
+
 ---
 
 

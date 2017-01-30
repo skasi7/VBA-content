@@ -2,7 +2,7 @@
 title: DropCap Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: aaf325fb-89cf-4708-8331-bd191e43de13
-ms.locale: en-US
+
 ---
 
 

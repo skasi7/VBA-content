@@ -2,7 +2,7 @@
 title: WebCommandButton Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d5c4b7d3-be79-23dd-f908-dcd2f660b1d2
-ms.locale: en-US
+
 ---
 
 

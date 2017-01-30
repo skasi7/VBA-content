@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.PointsToPicas
 ms.assetid: ff566bef-7032-70f7-7880-ff66cfeca88f
-ms.locale: en-US
+
 ---
 
 

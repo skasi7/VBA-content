@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.AdvancedPrintOptions.NegativeImage
 ms.assetid: 32a524ce-da31-8dfa-3286-c5d9c74367ca
-ms.locale: en-US
+
 ---
 
 

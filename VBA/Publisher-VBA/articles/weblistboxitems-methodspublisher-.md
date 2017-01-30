@@ -2,7 +2,7 @@
 title: WebListBoxItems Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c4b12973-75cb-43ec-b5b7-73932fe7b531
-ms.locale: en-US
+
 ---
 
 

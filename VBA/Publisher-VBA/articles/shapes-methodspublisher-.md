@@ -2,7 +2,7 @@
 title: Shapes Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f6a753b0-7474-4a7f-81f3-53b26cea6158
-ms.locale: en-US
+
 ---
 
 

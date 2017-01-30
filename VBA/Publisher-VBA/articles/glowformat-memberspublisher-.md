@@ -2,7 +2,7 @@
 title: GlowFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 282a36d8-da17-7922-07da-cdd2b64a20c1
-ms.locale: en-US
+
 ---
 
 

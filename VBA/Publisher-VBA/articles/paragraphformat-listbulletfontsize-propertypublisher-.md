@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.ListBulletFontSize
 ms.assetid: 1ff1de0f-afcc-cc9c-bf45-d745695db89b
-ms.locale: en-US
+
 ---
 
 

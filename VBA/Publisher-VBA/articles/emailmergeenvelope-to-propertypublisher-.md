@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.EmailMergeEnvelope.To
 ms.assetid: c9c470e8-1411-fda9-becf-5c932e97d98f
-ms.locale: en-US
+
 ---
 
 

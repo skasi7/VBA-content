@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Hyperlink.Parent
 ms.assetid: a0e3ab66-cdc4-09ab-6995-8a5e0194d6e2
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSetup.TopMargin
 ms.assetid: 4eee9b1e-6c76-7831-13bc-25926c3c0f10
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PrintableRect.Left
 ms.assetid: 7aebcf95-9be5-2ef2-671a-59087cc48ef2
-ms.locale: en-US
+
 ---
 
 

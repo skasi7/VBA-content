@@ -2,7 +2,7 @@
 title: Cell Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: a873e9e8-9b07-4d3f-8a0e-472e5390a517
-ms.locale: en-US
+
 ---
 
 

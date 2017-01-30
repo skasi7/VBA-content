@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.MarginLeft
 ms.assetid: 4e784b9f-9467-5a14-c211-589e69c3b8bc
-ms.locale: en-US
+
 ---
 
 

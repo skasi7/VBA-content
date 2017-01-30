@@ -2,7 +2,7 @@
 title: FindReplace Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7c39e380-5b2f-4e0b-8081-c0524cc7af16
-ms.locale: en-US
+
 ---
 
 

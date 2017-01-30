@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.DropCap.Span
 ms.assetid: 00c51e48-5bbc-13e9-2d0c-e8993f753bbe
-ms.locale: en-US
+
 ---
 
 

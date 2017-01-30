@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.ScaleHeight
 ms.assetid: 54058fe5-d922-0ea9-08e8-99fff89bde55
-ms.locale: en-US
+
 ---
 
 

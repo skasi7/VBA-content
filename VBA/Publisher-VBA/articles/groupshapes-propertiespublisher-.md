@@ -2,7 +2,7 @@
 title: GroupShapes Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d1b75101-bae6-460d-8d77-aa169d55462f
-ms.locale: en-US
+
 ---
 
 

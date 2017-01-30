@@ -2,7 +2,7 @@
 title: LinkFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b0273d66-c490-9ae9-f14e-d3c229b840d7
-ms.locale: en-US
+
 ---
 
 

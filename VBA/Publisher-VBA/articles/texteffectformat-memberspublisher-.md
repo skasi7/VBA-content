@@ -2,7 +2,7 @@
 title: TextEffectFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4ab52dc2-d89a-2bfe-476b-010d6cc2e8a4
-ms.locale: en-US
+
 ---
 
 

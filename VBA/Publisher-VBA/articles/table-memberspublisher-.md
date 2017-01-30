@@ -2,7 +2,7 @@
 title: Table Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ee19d67e-a0c4-e994-4013-01556064f6fc
-ms.locale: en-US
+
 ---
 
 

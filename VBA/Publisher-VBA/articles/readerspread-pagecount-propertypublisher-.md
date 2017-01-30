@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ReaderSpread.PageCount
 ms.assetid: 39d26cd7-f4b8-bbf3-a2a8-32a4c9362e30
-ms.locale: en-US
+
 ---
 
 

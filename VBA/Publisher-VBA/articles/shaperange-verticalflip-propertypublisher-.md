@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.VerticalFlip
 ms.assetid: cc3ab3ec-71f6-49fc-0141-505054d6abbb
-ms.locale: en-US
+
 ---
 
 

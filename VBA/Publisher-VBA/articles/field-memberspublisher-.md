@@ -2,7 +2,7 @@
 title: Field Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f1c4fec2-ab0a-b444-5fcf-201d29434922
-ms.locale: en-US
+
 ---
 
 

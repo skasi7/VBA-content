@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.Rotation
 ms.assetid: 3cb55e8c-83fa-2f20-caac-a1e897e9a369
-ms.locale: en-US
+
 ---
 
 

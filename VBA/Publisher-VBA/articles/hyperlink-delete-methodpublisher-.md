@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Hyperlink.Delete
 ms.assetid: 28b7f351-c1a8-29f1-2114-ed6854fbd13a
-ms.locale: en-US
+
 ---
 
 

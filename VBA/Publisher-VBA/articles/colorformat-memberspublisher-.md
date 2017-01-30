@@ -2,7 +2,7 @@
 title: ColorFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2c5305de-e49a-e9c5-1371-5809b02d3797
-ms.locale: en-US
+
 ---
 
 

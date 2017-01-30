@@ -2,7 +2,7 @@
 title: View Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: fa66f6e8-47da-4d54-8f29-060a001d0b0a
-ms.locale: en-US
+
 ---
 
 

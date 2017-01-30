@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BorderArtFormat
 ms.assetid: ba066b2e-fe40-aeef-9275-2cc2810f63ca
-ms.locale: en-US
+
 ---
 
 

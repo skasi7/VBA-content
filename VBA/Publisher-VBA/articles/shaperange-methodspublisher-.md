@@ -2,7 +2,7 @@
 title: ShapeRange Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d8538a36-6448-466b-8f53-d00b85339342
-ms.locale: en-US
+
 ---
 
 

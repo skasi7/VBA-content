@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 17c41fbb-3b21-c31a-63cd-ed26065bfa79
-ms.locale: en-US
+
 ---
 
 

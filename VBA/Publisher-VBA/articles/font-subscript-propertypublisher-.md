@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.SubScript
 ms.assetid: 9992fdcc-dd60-b2f7-307b-99b10dc7debb
-ms.locale: en-US
+
 ---
 
 

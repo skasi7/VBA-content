@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.CentimetersToPoints
 ms.assetid: 6eda6692-ea9a-c4ad-6991-066fdc23bd2c
-ms.locale: en-US
+
 ---
 
 

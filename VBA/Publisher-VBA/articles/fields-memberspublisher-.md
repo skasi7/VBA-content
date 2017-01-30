@@ -2,7 +2,7 @@
 title: Fields Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7041c836-c566-d7c0-d04f-3107ea668866
-ms.locale: en-US
+
 ---
 
 

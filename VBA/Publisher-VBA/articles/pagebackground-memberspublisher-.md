@@ -2,7 +2,7 @@
 title: PageBackground Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3dd974e1-0da3-9ae9-52af-bc860c1c7ee7
-ms.locale: en-US
+
 ---
 
 

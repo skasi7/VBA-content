@@ -2,7 +2,7 @@
 title: WebNavigationBarHyperlinks Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 16831dba-5e4f-4c30-b2a9-b69aa064de13
-ms.locale: en-US
+
 ---
 
 

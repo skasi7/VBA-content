@@ -2,7 +2,7 @@
 title: ColorFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f57f72cb-4b12-43ed-9537-bcfbab9557df
-ms.locale: en-US
+
 ---
 
 

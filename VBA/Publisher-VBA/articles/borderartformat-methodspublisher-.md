@@ -2,7 +2,7 @@
 title: BorderArtFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 8c6948ab-0f13-4874-ab92-adbe8fdffbe5
-ms.locale: en-US
+
 ---
 
 

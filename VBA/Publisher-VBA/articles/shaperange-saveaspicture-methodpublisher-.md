@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.SaveAsPicture
 ms.assetid: 0be9b741-8f11-a386-313b-231a3269883a
-ms.locale: en-US
+
 ---
 
 

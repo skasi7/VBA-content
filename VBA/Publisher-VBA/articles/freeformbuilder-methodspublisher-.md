@@ -2,7 +2,7 @@
 title: FreeformBuilder Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 5303f3fb-86cf-425f-9cfc-9855465e4fd4
-ms.locale: en-US
+
 ---
 
 

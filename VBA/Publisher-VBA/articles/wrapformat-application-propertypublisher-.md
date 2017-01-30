@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WrapFormat.Application
 ms.assetid: 66a975fe-eda3-5588-e72c-86173437af26
-ms.locale: en-US
+
 ---
 
 

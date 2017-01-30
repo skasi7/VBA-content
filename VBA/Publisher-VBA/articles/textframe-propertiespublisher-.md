@@ -2,7 +2,7 @@
 title: TextFrame Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d55a1abf-bce7-4377-85b4-423595312426
-ms.locale: en-US
+
 ---
 
 

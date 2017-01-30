@@ -2,7 +2,7 @@
 title: ColorScheme Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 46c2e0a5-3ea3-c15c-7419-036c5aadff1b
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: MailMerge Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: eaa512e9-b97a-27e4-e569-203015dac65f
-ms.locale: en-US
+
 ---
 
 

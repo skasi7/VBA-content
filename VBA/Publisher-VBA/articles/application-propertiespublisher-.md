@@ -2,7 +2,7 @@
 title: Application Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f66bb6c0-e5e8-4ac7-bfdc-94344cba132e
-ms.locale: en-US
+
 ---
 
 

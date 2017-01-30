@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.Words
 ms.assetid: df812db2-98ca-848b-7922-6905cb71124c
-ms.locale: en-US
+
 ---
 
 

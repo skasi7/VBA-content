@@ -2,7 +2,7 @@
 title: GlowFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ed859d6d-595f-ba7f-d866-800619acd22f
-ms.locale: en-US
+
 ---
 
 

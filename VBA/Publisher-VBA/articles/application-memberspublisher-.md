@@ -2,7 +2,7 @@
 title: Application Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: aa4d515b-f779-b8b5-968a-8e5f7466fb56
-ms.locale: en-US
+
 ---
 
 

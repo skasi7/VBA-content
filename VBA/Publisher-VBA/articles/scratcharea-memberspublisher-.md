@@ -2,7 +2,7 @@
 title: ScratchArea Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 21820dca-e443-2dfb-bcf7-6e17c7ef9d1f
-ms.locale: en-US
+
 ---
 
 

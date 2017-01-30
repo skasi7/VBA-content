@@ -2,7 +2,7 @@
 title: Tags Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d4378953-af35-4414-ac93-a55f956e36a7
-ms.locale: en-US
+
 ---
 
 

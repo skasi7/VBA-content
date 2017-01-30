@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.RemoveCatalogMergeArea
 ms.assetid: addff960-562e-b8e8-ec56-ddcf2b9ccaa7
-ms.locale: en-US
+
 ---
 
 

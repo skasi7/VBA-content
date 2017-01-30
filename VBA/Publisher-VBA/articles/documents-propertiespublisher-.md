@@ -2,7 +2,7 @@
 title: Documents Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f5d76bfc-d82e-4b0d-976d-2b5690c35c0a
-ms.locale: en-US
+
 ---
 
 

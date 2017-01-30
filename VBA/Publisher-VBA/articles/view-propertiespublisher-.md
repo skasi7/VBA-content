@@ -2,7 +2,7 @@
 title: View Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 87471de8-58c5-4b2d-b639-e7f7b889947b
-ms.locale: en-US
+
 ---
 
 

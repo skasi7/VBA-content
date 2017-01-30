@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.InlineShapes
 ms.assetid: ffe2d8f2-e1d7-44ea-00fd-3c6523c9fe44
-ms.locale: en-US
+
 ---
 
 

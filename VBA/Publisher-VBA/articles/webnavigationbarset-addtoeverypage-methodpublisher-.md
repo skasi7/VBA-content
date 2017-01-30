@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebNavigationBarSet.AddToEveryPage
 ms.assetid: d36a3281-a313-084c-0ae9-7a981a7d9713
-ms.locale: en-US
+
 ---
 
 

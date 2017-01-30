@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.InsertBefore
 ms.assetid: b0e4355b-b1bc-ae78-08ad-000d577fd7db
-ms.locale: en-US
+
 ---
 
 

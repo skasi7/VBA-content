@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.Quit
 ms.assetid: 79948040-4848-b8e7-a70c-d23c1f416bac
-ms.locale: en-US
+
 ---
 
 

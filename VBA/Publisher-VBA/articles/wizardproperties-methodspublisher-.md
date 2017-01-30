@@ -2,7 +2,7 @@
 title: WizardProperties Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 66c01f33-01fb-4c9e-ad13-3bf66456ebfa
-ms.locale: en-US
+
 ---
 
 

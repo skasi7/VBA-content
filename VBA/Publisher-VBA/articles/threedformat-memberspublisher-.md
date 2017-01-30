@@ -2,7 +2,7 @@
 title: ThreeDFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: da0d3cf9-2b53-ee24-2165-f72883398bc6
-ms.locale: en-US
+
 ---
 
 

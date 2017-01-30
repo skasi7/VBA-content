@@ -2,7 +2,7 @@
 title: MailMergeFilters Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: de565e52-2b11-48c2-9a05-73c13c66db8d
-ms.locale: en-US
+
 ---
 
 

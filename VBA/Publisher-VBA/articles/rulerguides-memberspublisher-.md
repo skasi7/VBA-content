@@ -2,7 +2,7 @@
 title: RulerGuides Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bcbb8d3c-052f-5e27-d6e0-eacd47d47a1c
-ms.locale: en-US
+
 ---
 
 

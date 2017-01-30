@@ -2,7 +2,7 @@
 title: CaptionStyle Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f46a1f4b-45cf-0404-fb3d-8e88bc5063aa
-ms.locale: en-US
+
 ---
 
 

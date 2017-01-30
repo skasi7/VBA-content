@@ -2,7 +2,7 @@
 title: View Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 0fc1a25e-4e87-580e-4e74-7905e5576596
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Section Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bc44e427-ea2e-48aa-9823-51b6fc3d908b
-ms.locale: en-US
+
 ---
 
 

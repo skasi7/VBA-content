@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.FitFrame
 ms.assetid: d43376ea-fd04-c8a1-011c-b2ea1be644d3
-ms.locale: en-US
+
 ---
 
 

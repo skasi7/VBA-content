@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.DropCap.FontName
 ms.assetid: f5220c46-09b4-7860-0b85-7d44af05e3a9
-ms.locale: en-US
+
 ---
 
 

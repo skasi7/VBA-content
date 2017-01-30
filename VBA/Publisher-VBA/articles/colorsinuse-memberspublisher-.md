@@ -2,7 +2,7 @@
 title: ColorsInUse Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b44895df-1f4e-399b-06ae-ed9857ea21ef
-ms.locale: en-US
+
 ---
 
 

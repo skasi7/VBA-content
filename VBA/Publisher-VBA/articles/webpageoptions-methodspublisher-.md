@@ -2,7 +2,7 @@
 title: WebPageOptions Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3f593448-21b1-49c6-97cc-1e575da4dbda
-ms.locale: en-US
+
 ---
 
 

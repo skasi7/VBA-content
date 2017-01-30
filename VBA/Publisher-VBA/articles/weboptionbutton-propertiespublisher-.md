@@ -2,7 +2,7 @@
 title: WebOptionButton Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e209fa5a-877e-4246-b80f-55ba29de7680
-ms.locale: en-US
+
 ---
 
 

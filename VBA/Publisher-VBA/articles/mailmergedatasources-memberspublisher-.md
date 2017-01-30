@@ -2,7 +2,7 @@
 title: MailMergeDataSources Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 9da874c7-bffa-56b3-d0f0-1ee28ccd8609
-ms.locale: en-US
+
 ---
 
 

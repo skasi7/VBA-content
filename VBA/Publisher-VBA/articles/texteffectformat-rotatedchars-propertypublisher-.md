@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextEffectFormat.RotatedChars
 ms.assetid: 47566497-7b78-65dc-48d9-26b2e4245d31
-ms.locale: en-US
+
 ---
 
 

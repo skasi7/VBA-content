@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMerge.Parent
 ms.assetid: 983636d1-f748-1f47-a52d-8c44c820de16
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Adjustments Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 76d7aeb4-1631-d81c-2fd0-bb71ca739fc4
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shapes.CanvasesCount
 ms.assetid: d6755303-b05e-705f-bf15-cc6ec413c273
-ms.locale: en-US
+
 ---
 
 

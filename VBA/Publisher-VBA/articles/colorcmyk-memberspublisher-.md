@@ -2,7 +2,7 @@
 title: ColorCMYK Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 30e95430-226d-6de6-1484-efd5aee5209a
-ms.locale: en-US
+
 ---
 
 

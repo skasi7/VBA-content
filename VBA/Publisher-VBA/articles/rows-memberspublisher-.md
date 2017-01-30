@@ -2,7 +2,7 @@
 title: Rows Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bf613f50-0a3e-7c21-b375-f96b2d56525a
-ms.locale: en-US
+
 ---
 
 

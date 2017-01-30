@@ -2,7 +2,7 @@
 title: CellRange Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: dc9b109a-58bd-44dc-8601-abeac45d5940
-ms.locale: en-US
+
 ---
 
 

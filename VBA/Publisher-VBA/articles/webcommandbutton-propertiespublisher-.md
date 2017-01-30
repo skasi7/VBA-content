@@ -2,7 +2,7 @@
 title: WebCommandButton Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d0b7234e-838c-4e02-a9e4-140693bba55c
-ms.locale: en-US
+
 ---
 
 

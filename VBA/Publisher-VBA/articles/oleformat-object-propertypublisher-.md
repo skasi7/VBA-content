@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.OLEFormat.Object
 ms.assetid: c6bc20e4-4578-7aa1-8cd8-8315b76b28c9
-ms.locale: en-US
+
 ---
 
 

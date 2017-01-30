@@ -2,7 +2,7 @@
 title: Font Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 44b90349-ac17-44d0-8326-8cb78b169a47
-ms.locale: en-US
+
 ---
 
 

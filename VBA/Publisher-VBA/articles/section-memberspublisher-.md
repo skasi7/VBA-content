@@ -2,7 +2,7 @@
 title: Section Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ce13a263-d9c1-2919-fd0e-a7e8decd1bc8
-ms.locale: en-US
+
 ---
 
 

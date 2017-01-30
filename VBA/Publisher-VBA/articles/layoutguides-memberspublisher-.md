@@ -2,7 +2,7 @@
 title: LayoutGuides Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 680ab67c-1859-c202-e348-845d71c8de0b
-ms.locale: en-US
+
 ---
 
 

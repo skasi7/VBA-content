@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.Reset
 ms.assetid: 8ef5c799-cace-133c-33d3-3454df2c2f24
-ms.locale: en-US
+
 ---
 
 

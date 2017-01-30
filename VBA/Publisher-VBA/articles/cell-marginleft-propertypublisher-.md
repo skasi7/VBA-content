@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Cell.MarginLeft
 ms.assetid: 1b665a3b-6958-0548-ece1-9d3a7045eaac
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: ThreeDFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 26b370de-94dd-4145-8861-e9b13e6ff2b8
-ms.locale: en-US
+
 ---
 
 

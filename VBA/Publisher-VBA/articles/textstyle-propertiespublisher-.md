@@ -2,7 +2,7 @@
 title: TextStyle Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 8d8f62b0-5dfa-4124-af82-bb8c30db0bed
-ms.locale: en-US
+
 ---
 
 

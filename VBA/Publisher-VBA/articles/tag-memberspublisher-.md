@@ -2,7 +2,7 @@
 title: Tag Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6847ce7d-746f-d5da-aa16-9371ea4b8bfe
-ms.locale: en-US
+
 ---
 
 

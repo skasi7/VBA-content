@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.AdvancedPrintOptions.IsPostscriptPrinter
 ms.assetid: 69c31e55-2781-38fa-7c4a-c5bc1b49972a
-ms.locale: en-US
+
 ---
 
 

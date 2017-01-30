@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.Italic
 ms.assetid: c55c0bfa-a365-86ac-4cfb-f6911dadd0af
-ms.locale: en-US
+
 ---
 
 

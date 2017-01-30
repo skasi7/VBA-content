@@ -2,7 +2,7 @@
 title: MasterPages Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 919514b4-0a64-443f-ad47-76693dd8be27
-ms.locale: en-US
+
 ---
 
 

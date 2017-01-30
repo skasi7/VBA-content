@@ -2,7 +2,7 @@
 title: OLEFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 8c7b8865-fa1e-4b73-6404-393181612e12
-ms.locale: en-US
+
 ---
 
 

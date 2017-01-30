@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextEffectFormat.FontBold
 ms.assetid: ab582a4d-92b7-c2b0-e3c3-045e035f68bb
-ms.locale: en-US
+
 ---
 
 

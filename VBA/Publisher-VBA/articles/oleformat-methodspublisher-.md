@@ -2,7 +2,7 @@
 title: OLEFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: a47695df-58c4-4fa6-9d26-39bc4faec997
-ms.locale: en-US
+
 ---
 
 

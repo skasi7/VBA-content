@@ -2,7 +2,7 @@
 title: ColorSchemes Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 78f0e618-01a1-489f-9192-6e3be3b4930b
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Rows Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 1ca1365a-006d-4e9b-b227-85523311194a
-ms.locale: en-US
+
 ---
 
 

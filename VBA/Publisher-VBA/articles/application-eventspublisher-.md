@@ -2,7 +2,7 @@
 title: Application Events (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 651aa6c9-a3c7-4e3e-8fd3-aa7fc0d6950d
-ms.locale: en-US
+
 ---
 
 

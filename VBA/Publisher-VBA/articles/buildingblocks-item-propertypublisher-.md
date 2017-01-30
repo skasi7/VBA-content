@@ -4,7 +4,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BuildingBlocks.Item
 ms.assetid: faa5e9c5-a80e-6629-21b0-acdd5afbe626
-ms.locale: en-US
+
 ---
 
 

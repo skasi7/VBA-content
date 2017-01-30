@@ -2,7 +2,7 @@
 title: ConnectorFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: afc6b3bc-213a-48d3-668e-876102cfb3fc
-ms.locale: en-US
+
 ---
 
 

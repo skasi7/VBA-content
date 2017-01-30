@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Plates.Application
 ms.assetid: 02d5f0de-1cfd-ff95-b7fc-14437ffe5daf
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: WebPageOptions Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7e3e4207-4f1a-1a6b-e7f6-2fd02a9cbb5d
-ms.locale: en-US
+
 ---
 
 

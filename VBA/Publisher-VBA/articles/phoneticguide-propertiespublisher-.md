@@ -2,7 +2,7 @@
 title: PhoneticGuide Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7da42835-145b-4595-8d39-242356aadc35
-ms.locale: en-US
+
 ---
 
 

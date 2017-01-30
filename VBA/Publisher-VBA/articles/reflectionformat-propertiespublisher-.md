@@ -2,7 +2,7 @@
 title: ReflectionFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: d8fa1ff9-8a77-cb73-3237-94b6bcb650cb
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: FillFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 5448a788-3369-4091-ad98-736638d47c4c
-ms.locale: en-US
+
 ---
 
 

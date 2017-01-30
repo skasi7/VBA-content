@@ -2,7 +2,7 @@
 title: FillFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 345ca84c-abe5-e5e6-1e40-769e6dc9db98
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: WebHiddenFields Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 27db977f-067f-41e2-bd6b-570b8bc84b2c
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Window.Visible
 ms.assetid: 608db1b6-2eb0-4f00-86c8-9d0537ae4f31
-ms.locale: en-US
+
 ---
 
 

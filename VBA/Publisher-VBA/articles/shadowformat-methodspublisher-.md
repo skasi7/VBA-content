@@ -2,7 +2,7 @@
 title: ShadowFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: af708151-49e3-4e65-9509-b9c6717f5d51
-ms.locale: en-US
+
 ---
 
 

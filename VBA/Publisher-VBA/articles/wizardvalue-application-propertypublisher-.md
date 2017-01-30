@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WizardValue.Application
 ms.assetid: c6b94421-619a-8589-f266-dec03647254b
-ms.locale: en-US
+
 ---
 
 

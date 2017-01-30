@@ -2,7 +2,7 @@
 title: MailMergeFilterCriterion Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b75ea308-5620-4400-92cd-7943bac23f4a
-ms.locale: en-US
+
 ---
 
 

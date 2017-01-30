@@ -2,7 +2,7 @@
 title: PageSetup Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 55923602-da0e-4e0a-bb0b-06a557a6d552
-ms.locale: en-US
+
 ---
 
 

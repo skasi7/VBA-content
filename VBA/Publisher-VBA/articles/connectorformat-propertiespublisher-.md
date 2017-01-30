@@ -2,7 +2,7 @@
 title: ConnectorFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 925c37ea-e6f7-4eed-929e-934b2e1fe5d4
-ms.locale: en-US
+
 ---
 
 

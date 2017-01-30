@@ -2,7 +2,7 @@
 title: FreeformBuilder Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: bf1b97bb-a974-4305-80d5-7a33d8695b2b
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.InlineShapes.Item
 ms.assetid: 7cc4bb2a-e7d8-68c1-7d09-9b81a9d6b87a
-ms.locale: en-US
+
 ---
 
 

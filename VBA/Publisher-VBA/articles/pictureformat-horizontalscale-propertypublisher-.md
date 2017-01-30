@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.HorizontalScale
 ms.assetid: 7be51cde-5b2d-7870-7f39-2fa9bd714d68
-ms.locale: en-US
+
 ---
 
 

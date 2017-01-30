@@ -2,7 +2,7 @@
 title: BuildingBlock Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4a548549-2e00-42c0-9292-277a409a9eb5
-ms.locale: en-US
+
 ---
 
 

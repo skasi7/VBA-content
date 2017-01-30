@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.FindReplace.MatchDiacritics
 ms.assetid: e23d01a1-9252-4077-c52f-87c53b5c0589
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: LinkFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2de27e94-3826-4757-847e-c60c676eb4f2
-ms.locale: en-US
+
 ---
 
 

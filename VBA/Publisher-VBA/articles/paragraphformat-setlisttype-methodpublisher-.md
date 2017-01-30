@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.SetListType
 ms.assetid: 6900aac5-fb3f-5813-309c-1422d38c8301
-ms.locale: en-US
+
 ---
 
 

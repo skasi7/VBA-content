@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PageSetup.LeftMargin
 ms.assetid: 19fbb72e-bb6e-18e9-28f3-c7e99b071bfb
-ms.locale: en-US
+
 ---
 
 

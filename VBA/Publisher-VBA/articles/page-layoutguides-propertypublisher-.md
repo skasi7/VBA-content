@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Page.LayoutGuides
 ms.assetid: eb9ac463-2b9f-9c68-b58f-6d93fe4993c8
-ms.locale: en-US
+
 ---
 
 

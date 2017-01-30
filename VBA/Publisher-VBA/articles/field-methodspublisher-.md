@@ -2,7 +2,7 @@
 title: Field Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c9b4c4e3-b01d-4fd6-bc9c-4f79fb354d2b
-ms.locale: en-US
+
 ---
 
 

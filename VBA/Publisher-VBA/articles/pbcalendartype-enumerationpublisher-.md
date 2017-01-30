@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbCalendarType
 ms.assetid: 6edcb430-7334-72d1-b1b1-898ee5486a57
-ms.locale: en-US
+
 ---
 
 

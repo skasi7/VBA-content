@@ -2,7 +2,7 @@
 title: BorderArt Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 51e5b24f-85be-9975-1c2e-d66204eb71bb
-ms.locale: en-US
+
 ---
 
 

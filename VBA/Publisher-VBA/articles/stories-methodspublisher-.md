@@ -2,7 +2,7 @@
 title: Stories Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4dfd5329-f67e-4d58-bb7a-d52208de808e
-ms.locale: en-US
+
 ---
 
 

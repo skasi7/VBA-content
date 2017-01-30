@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.Undo
 ms.assetid: 8cfd09a0-8a0d-2870-f833-a35ff1fc21b4
-ms.locale: en-US
+
 ---
 
 

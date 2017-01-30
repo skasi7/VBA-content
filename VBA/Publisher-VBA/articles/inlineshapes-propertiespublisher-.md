@@ -2,7 +2,7 @@
 title: InlineShapes Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3f96b149-68f8-4e93-9e5b-e2b8c6de13cb
-ms.locale: en-US
+
 ---
 
 

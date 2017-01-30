@@ -2,7 +2,7 @@
 title: PrintableRect Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 3b1c2192-310c-cd65-8d88-a50bf81bef94
-ms.locale: en-US
+
 ---
 
 

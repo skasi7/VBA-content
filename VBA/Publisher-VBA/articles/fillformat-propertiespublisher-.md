@@ -2,7 +2,7 @@
 title: FillFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7080f2f9-b5d6-4439-8052-1194fb7ddbbd
-ms.locale: en-US
+
 ---
 
 

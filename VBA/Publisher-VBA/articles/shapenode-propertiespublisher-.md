@@ -2,7 +2,7 @@
 title: ShapeNode Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4e76d72a-9fdf-4b98-b6f5-d0610b4cce9a
-ms.locale: en-US
+
 ---
 
 

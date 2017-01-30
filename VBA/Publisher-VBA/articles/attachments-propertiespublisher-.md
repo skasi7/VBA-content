@@ -2,7 +2,7 @@
 title: Attachments Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b30c8294-00b6-46dd-94c1-0546ad00e0da
-ms.locale: en-US
+
 ---
 
 

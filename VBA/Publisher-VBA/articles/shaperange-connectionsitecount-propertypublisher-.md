@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.ConnectionSiteCount
 ms.assetid: f830739d-08be-562c-83fc-7f7a6f8e047c
-ms.locale: en-US
+
 ---
 
 

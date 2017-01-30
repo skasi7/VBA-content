@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextFrame.Orientation
 ms.assetid: f510e624-6322-4054-5e7f-8688c5ea817a
-ms.locale: en-US
+
 ---
 
 

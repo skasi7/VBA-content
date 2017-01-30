@@ -2,7 +2,7 @@
 title: ReflectionFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 429f8f4f-0b90-f5d4-9b04-2ca548f4b979
-ms.locale: en-US
+
 ---
 
 

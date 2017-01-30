@@ -2,7 +2,7 @@
 title: InstalledPrinters Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 14b6107e-b418-46d1-a23c-74ca98866ba0
-ms.locale: en-US
+
 ---
 
 

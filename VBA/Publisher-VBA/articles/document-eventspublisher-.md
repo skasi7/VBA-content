@@ -2,7 +2,7 @@
 title: Document Events (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 13219d44-3a67-468f-8b49-ae6e98ca9d73
-ms.locale: en-US
+
 ---
 
 

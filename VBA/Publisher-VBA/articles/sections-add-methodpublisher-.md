@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Sections.Add
 ms.assetid: d5343281-375a-4817-8353-a3fa8925a2ce
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.BorderArtFormat.RevertToDefaultWeight
 ms.assetid: 3e46637f-3fce-3346-9193-063be40844bd
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: CatalogMergeShapes Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 5c18cf1c-28aa-38d1-464a-f6ddd07a4c85
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: WizardProperty Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b1026e83-d293-dbdc-d2c3-2cd9112064e4
-ms.locale: en-US
+
 ---
 
 

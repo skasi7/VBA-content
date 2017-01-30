@@ -2,7 +2,7 @@
 title: PageBackground Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6777f7f1-e22b-418f-b0e2-0f087bada789
-ms.locale: en-US
+
 ---
 
 

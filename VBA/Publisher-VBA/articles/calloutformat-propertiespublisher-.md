@@ -2,7 +2,7 @@
 title: CalloutFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e4510734-4b1c-4363-8f89-07d66c352b9f
-ms.locale: en-US
+
 ---
 
 

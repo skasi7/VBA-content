@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.CellRange.Width
 ms.assetid: 336b3627-08a1-6f37-3425-3c55cd0a7f8a
-ms.locale: en-US
+
 ---
 
 

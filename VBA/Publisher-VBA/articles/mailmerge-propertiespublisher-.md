@@ -2,7 +2,7 @@
 title: MailMerge Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 63efb9c7-65ba-4b6f-8322-461eec6ac1f5
-ms.locale: en-US
+
 ---
 
 

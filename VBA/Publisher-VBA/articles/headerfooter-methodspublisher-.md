@@ -2,7 +2,7 @@
 title: HeaderFooter Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 330f6133-0653-46d4-b555-b2614c2e027f
-ms.locale: en-US
+
 ---
 
 

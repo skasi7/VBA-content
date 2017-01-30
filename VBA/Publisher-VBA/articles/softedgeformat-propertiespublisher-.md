@@ -2,7 +2,7 @@
 title: SoftEdgeFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 45d96f63-f037-e9ea-708b-8093fe747a0c
-ms.locale: en-US
+
 ---
 
 

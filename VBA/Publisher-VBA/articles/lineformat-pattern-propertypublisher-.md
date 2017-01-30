@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LineFormat.Pattern
 ms.assetid: ba14b1d1-9c32-a58e-d842-52fc3dc985e8
-ms.locale: en-US
+
 ---
 
 

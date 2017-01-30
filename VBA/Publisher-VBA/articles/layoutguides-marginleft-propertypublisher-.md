@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.LayoutGuides.MarginLeft
 ms.assetid: 02d1a544-3e41-3875-3027-61bdc465e89b
-ms.locale: en-US
+
 ---
 
 

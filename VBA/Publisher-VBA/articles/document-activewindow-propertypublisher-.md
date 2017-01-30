@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.ActiveWindow
 ms.assetid: 0d00a8fa-aef2-43df-3c54-0cca804b7eee
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: HeaderFooter Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 621abda7-81b0-4709-8c63-5a756f916753
-ms.locale: en-US
+
 ---
 
 

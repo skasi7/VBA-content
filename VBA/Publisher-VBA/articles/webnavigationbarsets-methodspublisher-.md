@@ -2,7 +2,7 @@
 title: WebNavigationBarSets Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: b9f7d82c-9b33-4fc1-8821-804d83cc9d93
-ms.locale: en-US
+
 ---
 
 

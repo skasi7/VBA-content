@@ -2,7 +2,7 @@
 title: CellBorder Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2ae35446-57f6-4105-f566-b02a27e38f46
-ms.locale: en-US
+
 ---
 
 

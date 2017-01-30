@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebListBox.MultiSelect
 ms.assetid: cc81682f-5212-0912-d979-16567c2dc42b
-ms.locale: en-US
+
 ---
 
 

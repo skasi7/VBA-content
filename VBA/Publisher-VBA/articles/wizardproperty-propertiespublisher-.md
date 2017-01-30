@@ -2,7 +2,7 @@
 title: WizardProperty Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2f4ea900-368a-440a-9c41-cf9505204114
-ms.locale: en-US
+
 ---
 
 

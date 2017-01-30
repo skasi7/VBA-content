@@ -2,7 +2,7 @@
 title: ParagraphFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f0c5d827-adec-4745-a790-97e81005bed6
-ms.locale: en-US
+
 ---
 
 

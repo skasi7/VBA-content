@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.HideCatalogUI
 ms.assetid: a7ac7594-18fe-355e-d270-d205c405862a
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Table Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2be301b7-960d-4a10-abc8-5dd45e3805cc
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ThreeDFormat.PresetExtrusionDirection
 ms.assetid: fdf3843e-12bc-4b3b-11cb-e512abd991af
-ms.locale: en-US
+
 ---
 
 

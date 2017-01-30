@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.InlineTextRange
 ms.assetid: 5d7f3dfa-3e23-85c6-50cf-a6f960ccabfc
-ms.locale: en-US
+
 ---
 
 

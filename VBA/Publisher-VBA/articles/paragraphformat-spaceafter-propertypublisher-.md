@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ParagraphFormat.SpaceAfter
 ms.assetid: 52f65636-862d-442e-e66f-5ff5c79ee7b0
-ms.locale: en-US
+
 ---
 
 

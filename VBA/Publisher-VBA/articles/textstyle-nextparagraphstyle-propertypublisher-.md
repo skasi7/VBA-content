@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextStyle.NextParagraphStyle
 ms.assetid: 2b31b883-c26d-3be8-7145-f8e3cf1ba5cc
-ms.locale: en-US
+
 ---
 
 

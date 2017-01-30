@@ -2,7 +2,7 @@
 title: Pages Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 149036ce-8686-da05-d4f8-f89e6bd78570
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Selection Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 59d5bbf0-baaa-4366-be26-d4ac8b3a54ca
-ms.locale: en-US
+
 ---
 
 

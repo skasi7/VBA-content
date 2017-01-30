@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebListBoxItems.Parent
 ms.assetid: 71c964bc-c846-8113-2de6-4ce8da41baf2
-ms.locale: en-US
+
 ---
 
 

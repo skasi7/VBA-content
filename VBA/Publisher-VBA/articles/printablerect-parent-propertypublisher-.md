@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PrintableRect.Parent
 ms.assetid: 4c275f11-022a-3ad8-f9f4-0296c5e4521b
-ms.locale: en-US
+
 ---
 
 

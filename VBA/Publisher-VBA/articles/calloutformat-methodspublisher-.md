@@ -2,7 +2,7 @@
 title: CalloutFormat Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7ce65942-44cc-4a7d-9fdc-88ac04b988b5
-ms.locale: en-US
+
 ---
 
 

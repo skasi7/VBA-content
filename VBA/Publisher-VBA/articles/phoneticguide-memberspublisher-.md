@@ -2,7 +2,7 @@
 title: PhoneticGuide Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 20039085-4e11-27be-f7f2-16a032799ad7
-ms.locale: en-US
+
 ---
 
 

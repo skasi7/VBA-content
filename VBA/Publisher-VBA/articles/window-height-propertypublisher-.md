@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Window.Height
 ms.assetid: 3d47bb99-bab7-b5aa-c834-04bcd6e8b151
-ms.locale: en-US
+
 ---
 
 

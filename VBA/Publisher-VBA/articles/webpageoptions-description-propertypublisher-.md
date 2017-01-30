@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebPageOptions.Description
 ms.assetid: dfd18427-c70d-7232-191e-a6332a89c3fe
-ms.locale: en-US
+
 ---
 
 

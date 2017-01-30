@@ -2,7 +2,7 @@
 title: InlineShapes Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 64d6fb5e-2a65-a57b-55c3-e32f3a58f281
-ms.locale: en-US
+
 ---
 
 

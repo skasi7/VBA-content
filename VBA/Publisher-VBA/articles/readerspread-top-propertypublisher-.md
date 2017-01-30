@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ReaderSpread.Top
 ms.assetid: 10d92ea3-123c-6660-6b8d-e20f13390dae
-ms.locale: en-US
+
 ---
 
 

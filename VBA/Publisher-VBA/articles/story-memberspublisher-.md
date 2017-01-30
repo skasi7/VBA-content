@@ -2,7 +2,7 @@
 title: Story Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ba5ad811-2946-3d8c-690f-d8862b68cd9c
-ms.locale: en-US
+
 ---
 
 

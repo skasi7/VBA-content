@@ -2,7 +2,7 @@
 title: Options Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: e1983aa1-ea7a-47bc-9c26-f413478ab8ef
-ms.locale: en-US
+
 ---
 
 

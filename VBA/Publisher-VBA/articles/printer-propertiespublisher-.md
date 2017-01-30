@@ -2,7 +2,7 @@
 title: Printer Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 1f4cdc9e-82a7-4c2f-ae5c-9691a0938a95
-ms.locale: en-US
+
 ---
 
 

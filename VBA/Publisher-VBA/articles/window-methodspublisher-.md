@@ -2,7 +2,7 @@
 title: Window Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ace17788-d814-459b-94c1-ba6db114d31b
-ms.locale: en-US
+
 ---
 
 

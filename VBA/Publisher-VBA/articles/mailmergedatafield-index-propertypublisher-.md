@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.MailMergeDataField.Index
 ms.assetid: f70d0266-0527-6871-632d-b45b617d75d4
-ms.locale: en-US
+
 ---
 
 

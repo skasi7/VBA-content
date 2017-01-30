@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbInlineAlignment
 ms.assetid: 923e19b1-3492-51ea-af79-52bdd99b232d
-ms.locale: en-US
+
 ---
 
 

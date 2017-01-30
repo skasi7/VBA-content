@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.ParagraphFormat
 ms.assetid: 475da411-9292-a12d-addd-1bbe822ec09e
-ms.locale: en-US
+
 ---
 
 

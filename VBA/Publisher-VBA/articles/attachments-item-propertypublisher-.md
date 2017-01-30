@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Attachments.Item
 ms.assetid: fa01c528-fc0d-9fbd-1dad-cab695a14682
-ms.locale: en-US
+
 ---
 
 

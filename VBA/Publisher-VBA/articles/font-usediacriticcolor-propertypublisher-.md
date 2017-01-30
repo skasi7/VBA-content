@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.UseDiacriticColor
 ms.assetid: 368d3599-b0b0-1790-0ce0-13f1936bccb0
-ms.locale: en-US
+
 ---
 
 

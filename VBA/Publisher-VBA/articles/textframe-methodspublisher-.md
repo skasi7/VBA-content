@@ -2,7 +2,7 @@
 title: TextFrame Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ce45e2ab-c8b4-43dd-8ede-fe0f9b378a3e
-ms.locale: en-US
+
 ---
 
 

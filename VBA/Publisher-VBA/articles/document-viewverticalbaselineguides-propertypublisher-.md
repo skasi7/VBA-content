@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.ViewVerticalBaseLineGuides
 ms.assetid: 711335ab-237b-65a2-534a-7635cfba474e
-ms.locale: en-US
+
 ---
 
 

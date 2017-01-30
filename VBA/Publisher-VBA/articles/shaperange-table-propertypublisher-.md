@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.Table
 ms.assetid: 68221d37-505a-4701-8c9d-b8e695c8eb8f
-ms.locale: en-US
+
 ---
 
 

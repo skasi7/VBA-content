@@ -2,7 +2,7 @@
 title: WebTextBox Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 87746bd2-fd9e-46ba-8fb9-009e2df15933
-ms.locale: en-US
+
 ---
 
 

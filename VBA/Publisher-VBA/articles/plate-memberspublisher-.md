@@ -2,7 +2,7 @@
 title: Plate Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 04745a29-b726-52da-bb86-6082e14766fb
-ms.locale: en-US
+
 ---
 
 

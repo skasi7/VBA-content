@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.EmailMergeEnvelope.Priority
 ms.assetid: 21c4c33f-d211-7ca5-364b-be9ad4d3f187
-ms.locale: en-US
+
 ---
 
 

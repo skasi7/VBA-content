@@ -2,7 +2,7 @@
 title: CaptionStyles Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 803e43b4-a278-43c1-9ff8-682a82f875e6
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebOptions.Application
 ms.assetid: 229f701c-1c4b-c39d-7b82-850c11f090cb
-ms.locale: en-US
+
 ---
 
 

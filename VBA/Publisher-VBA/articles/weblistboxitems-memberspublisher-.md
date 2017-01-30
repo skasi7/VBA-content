@@ -2,7 +2,7 @@
 title: WebListBoxItems Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7e78c2b2-9ef3-4282-3a3e-16b6030a7db3
-ms.locale: en-US
+
 ---
 
 

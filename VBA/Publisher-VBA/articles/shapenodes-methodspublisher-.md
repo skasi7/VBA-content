@@ -2,7 +2,7 @@
 title: ShapeNodes Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 1f54f31d-bf33-4e6d-af7d-dcff448283bd
-ms.locale: en-US
+
 ---
 
 

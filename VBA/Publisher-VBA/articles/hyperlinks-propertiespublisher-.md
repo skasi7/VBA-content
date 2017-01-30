@@ -2,7 +2,7 @@
 title: Hyperlinks Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ed5d1e7f-b006-4ff3-b3fd-4bd12d641023
-ms.locale: en-US
+
 ---
 
 

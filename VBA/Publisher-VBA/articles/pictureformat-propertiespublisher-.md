@@ -2,7 +2,7 @@
 title: PictureFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 4a41da55-3f9d-45eb-b6d6-20e43eab98ec
-ms.locale: en-US
+
 ---
 
 

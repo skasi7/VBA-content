@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.AllCaps
 ms.assetid: e8394f91-de31-0075-51ac-8a372023f0ce
-ms.locale: en-US
+
 ---
 
 

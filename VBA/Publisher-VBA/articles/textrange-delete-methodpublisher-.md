@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.TextRange.Delete
 ms.assetid: 3062b5ea-fdb7-6632-0838-02e2c9c1c906
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.InlineShapes.Count
 ms.assetid: a78ae487-e7d6-1099-236f-6464c601686f
-ms.locale: en-US
+
 ---
 
 

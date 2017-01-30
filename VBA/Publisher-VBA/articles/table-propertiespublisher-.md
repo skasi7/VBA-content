@@ -2,7 +2,7 @@
 title: Table Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 586353f2-e9ec-4609-a53a-7fd2ae6be1c5
-ms.locale: en-US
+
 ---
 
 

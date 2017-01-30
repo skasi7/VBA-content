@@ -2,7 +2,7 @@
 title: TextRange Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2805e97e-0255-40b3-a0b0-800ae6e9a214
-ms.locale: en-US
+
 ---
 
 

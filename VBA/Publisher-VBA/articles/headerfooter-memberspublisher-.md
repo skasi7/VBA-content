@@ -2,7 +2,7 @@
 title: HeaderFooter Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 0fe11f26-6e98-8f04-90fe-47c6e727263e
-ms.locale: en-US
+
 ---
 
 

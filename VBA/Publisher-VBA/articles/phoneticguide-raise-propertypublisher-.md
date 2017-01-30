@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PhoneticGuide.Raise
 ms.assetid: 8c7bd7e9-1b63-ded0-5021-99995296ad08
-ms.locale: en-US
+
 ---
 
 

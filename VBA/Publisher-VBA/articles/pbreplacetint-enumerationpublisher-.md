@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbReplaceTint
 ms.assetid: 91950561-224f-285e-6dee-7d2bdbd3a589
-ms.locale: en-US
+
 ---
 
 

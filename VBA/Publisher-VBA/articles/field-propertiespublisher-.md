@@ -2,7 +2,7 @@
 title: Field Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6c8739a7-6289-4bf4-a0c2-66d7eddd8ab9
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: WrapFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 41ef9f9f-37d4-46ca-89c4-935fe7cffd16
-ms.locale: en-US
+
 ---
 
 

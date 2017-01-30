@@ -2,7 +2,7 @@
 title: ParagraphFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 84fb44e9-e6a2-812c-3024-4c8b8a9be30d
-ms.locale: en-US
+
 ---
 
 

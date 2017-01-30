@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.ConnectionSiteCount
 ms.assetid: 00c32910-96b6-6981-8359-de4a71852934
-ms.locale: en-US
+
 ---
 
 

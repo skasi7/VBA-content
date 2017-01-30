@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Page.Width
 ms.assetid: cb86988c-4460-4adb-19ad-e336fa9d4316
-ms.locale: en-US
+
 ---
 
 

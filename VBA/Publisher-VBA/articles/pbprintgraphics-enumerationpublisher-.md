@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbPrintGraphics
 ms.assetid: 48ce8605-4212-2cf0-879f-accfb036fadb
-ms.locale: en-US
+
 ---
 
 

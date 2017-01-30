@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.Nodes
 ms.assetid: 513be66c-558c-f5f3-ed89-0ef4bc5a0101
-ms.locale: en-US
+
 ---
 
 

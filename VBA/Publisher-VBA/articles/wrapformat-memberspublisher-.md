@@ -2,7 +2,7 @@
 title: WrapFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ed9ae84f-c464-1dca-57da-1d0846a0fad2
-ms.locale: en-US
+
 ---
 
 

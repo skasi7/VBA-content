@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbTabAlignmentType
 ms.assetid: e42ca720-f1b9-124b-59a3-a21398100c1c
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Font.StylisticAlternates
 ms.assetid: cfb46152-4a54-27df-0a77-1e8b7fd3a711
-ms.locale: en-US
+
 ---
 
 

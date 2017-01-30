@@ -2,7 +2,7 @@
 title: OLEFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f857dd85-086e-4312-97b3-a34a27600c1f
-ms.locale: en-US
+
 ---
 
 

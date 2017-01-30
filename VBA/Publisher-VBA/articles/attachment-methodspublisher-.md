@@ -2,7 +2,7 @@
 title: Attachment Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6e9cc4d2-08d4-43c1-bfea-44355225278d
-ms.locale: en-US
+
 ---
 
 

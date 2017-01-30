@@ -2,7 +2,7 @@
 title: BorderArtFormat Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 6d153ea8-6051-0cca-ebb7-5d3a2735af39
-ms.locale: en-US
+
 ---
 
 

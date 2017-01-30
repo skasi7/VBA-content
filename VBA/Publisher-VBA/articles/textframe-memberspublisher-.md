@@ -2,7 +2,7 @@
 title: TextFrame Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c74bdb5b-4699-614b-acc3-da0bcafa4138
-ms.locale: en-US
+
 ---
 
 

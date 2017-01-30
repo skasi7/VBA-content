@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PbTextAutoFitType
 ms.assetid: c9236f0e-1f74-549e-bd68-897820e5d649
-ms.locale: en-US
+
 ---
 
 

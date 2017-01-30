@@ -2,7 +2,7 @@
 title: Shapes Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 0d1e8129-531e-fb5c-901a-66dee3744dbd
-ms.locale: en-US
+
 ---
 
 

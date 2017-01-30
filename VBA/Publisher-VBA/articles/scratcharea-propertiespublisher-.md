@@ -2,7 +2,7 @@
 title: ScratchArea Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: f8446b5b-0a25-4274-b564-9169aea43d7f
-ms.locale: en-US
+
 ---
 
 

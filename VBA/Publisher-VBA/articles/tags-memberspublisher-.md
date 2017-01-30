@@ -2,7 +2,7 @@
 title: Tags Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: ba284cb5-42b3-6524-3070-75f775823f46
-ms.locale: en-US
+
 ---
 
 

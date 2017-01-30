@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Document.RedoActionsAvailable
 ms.assetid: 9af11772-e807-730a-89a0-da06e979f834
-ms.locale: en-US
+
 ---
 
 

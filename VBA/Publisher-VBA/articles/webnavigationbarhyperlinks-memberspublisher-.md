@@ -2,7 +2,7 @@
 title: WebNavigationBarHyperlinks Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 2c50bceb-d2ee-74bc-e26d-af3f2b91c598
-ms.locale: en-US
+
 ---
 
 

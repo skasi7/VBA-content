@@ -2,7 +2,7 @@
 title: TextRange Methods (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7ebdd41f-8c26-43fc-80b0-f8028304fbf2
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: Window Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 7498ccd9-8b08-45f4-187e-87781871cdae
-ms.locale: en-US
+
 ---
 
 

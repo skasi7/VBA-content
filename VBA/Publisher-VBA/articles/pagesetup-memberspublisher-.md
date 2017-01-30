@@ -2,7 +2,7 @@
 title: PageSetup Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 72ff21ca-c4ca-5a28-f893-c327df8d61a2
-ms.locale: en-US
+
 ---
 
 

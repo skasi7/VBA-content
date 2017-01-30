@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.ShapeRange.ScaleWidth
 ms.assetid: 8ff4eec9-9cf5-b6f0-062a-107aedbb8e38
-ms.locale: en-US
+
 ---
 
 

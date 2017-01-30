@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Application.MailMergeInsertBarcode
 ms.assetid: 6b901953-eaff-0189-1d33-678e935a2f7e
-ms.locale: en-US
+
 ---
 
 

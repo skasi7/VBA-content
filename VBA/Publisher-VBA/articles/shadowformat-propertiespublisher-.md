@@ -2,7 +2,7 @@
 title: ShadowFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 22dae8d5-d4ce-4a62-add0-80ab4acc75f2
-ms.locale: en-US
+
 ---
 
 

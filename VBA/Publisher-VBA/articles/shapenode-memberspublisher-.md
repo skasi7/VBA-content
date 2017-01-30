@@ -2,7 +2,7 @@
 title: ShapeNode Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: 175b72e2-244c-3533-2269-eda57f03fb0b
-ms.locale: en-US
+
 ---
 
 

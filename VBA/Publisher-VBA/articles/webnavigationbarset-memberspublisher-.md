@@ -2,7 +2,7 @@
 title: WebNavigationBarSet Members (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c7ef5285-7d69-b753-b2b6-45db62dc2d42
-ms.locale: en-US
+
 ---
 
 

@@ -2,7 +2,7 @@
 title: BorderArtFormat Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: fc708fdb-f347-4131-8349-c29de9184270
-ms.locale: en-US
+
 ---
 
 

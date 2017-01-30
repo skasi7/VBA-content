@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Shape.ConnectorFormat
 ms.assetid: 280c424c-530c-55ab-da4f-65b858ee3dd8
-ms.locale: en-US
+
 ---
 
 

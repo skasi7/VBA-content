@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.PictureFormat.OffsetY
 ms.assetid: e7deb108-e027-dd61-714f-1a76e904009b
-ms.locale: en-US
+
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Stories.Parent
 ms.assetid: fc12793e-e611-7c19-d582-92a974625faf
-ms.locale: en-US
+
 ---
 
 

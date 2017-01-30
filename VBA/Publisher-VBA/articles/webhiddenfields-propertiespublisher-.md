@@ -2,7 +2,7 @@
 title: WebHiddenFields Properties (Publisher)
 ms.prod: PUBLISHER
 ms.assetid: c4496c6e-e8fd-4f5a-b1bc-061157a487ef
-ms.locale: en-US
+
 ---
 
 

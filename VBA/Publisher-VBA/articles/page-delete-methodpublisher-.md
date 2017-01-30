@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.Page.Delete
 ms.assetid: 7a7d9a67-8856-6549-7846-97b21eaf0bd2
-ms.locale: en-US
+
 ---
 
 

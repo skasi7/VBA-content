@@ -7,7 +7,7 @@ ms.prod: PUBLISHER
 api_name:
 - Publisher.WebNavigationBarSet.ChangeOrientation
 ms.assetid: bce05e9c-5b4a-f5a2-33a9-b40d4e05664f
-ms.locale: en-US
+
 ---
 
 
