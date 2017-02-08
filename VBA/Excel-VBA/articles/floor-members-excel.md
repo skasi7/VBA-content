@@ -1,0 +1,37 @@
+---
+title: Floor Members (Excel)
+ms.prod: EXCEL
+ms.assetid: 5c7d66cd-062f-109e-a389-d566cef80c19
+---
+
+
+# Floor Members (Excel)
+Represents the floor of a 3-D chart.
+
+Represents the floor of a 3-D chart.
+
+
+## Methods
+
+
+
+|**Name**|**Description**|
+|:-----|:-----|
+|[ClearFormats](floor-clearformats-method-excel.md)|Clears the formatting of the object.|
+|[Paste](floor-paste-method-excel.md)|Pastes a picture from the Clipboard on the floor of the specified chart.|
+|[Select](floor-select-method-excel.md)|Selects the object.|
+
+## Properties
+
+
+
+|**Name**|**Description**|
+|:-----|:-----|
+|[Application](floor-application-property-excel.md)|When used without an object qualifier, this property returns an  **[Application](application-object-excel.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.|
+|[Creator](floor-creator-property-excel.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .|
+|[Format](floor-format-property-excel.md)|Returns the  **[ChartFormat](chartformat-object-excel.md)** object. Read-only.|
+|[Name](floor-name-property-excel.md)|Returns a  **String** value that represents the name of the object.|
+|[Parent](floor-parent-property-excel.md)|Returns the parent object for the specified object. Read-only.|
+|[PictureType](floor-picturetype-property-excel.md)|Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3-D chart.|
+|[Thickness](floor-thickness-property-excel.md)|Returns or sets a  **Long** , specifying the thickness of the floor. Read/write.|
+

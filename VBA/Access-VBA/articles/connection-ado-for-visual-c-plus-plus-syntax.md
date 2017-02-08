@@ -1,0 +1,30 @@
+---
+title: Connection (ADO for Visual C++ Syntax)
+ms.prod: ACCESS
+ms.assetid: 04ec8840-a841-1e94-e606-f1c1fb190533
+---
+
+
+# Connection (ADO for Visual C++ Syntax)
+
+ **Last modified:** December 30, 2015
+
+**Applies to:** Access 2013 | Access 2016
+
+ **Methods**
+
+[BeginTrans](http://msdn.microsoft.com/library/begintrans-committrans-and-rollbacktrans-methods-ado%28Office.15%29.aspx)(long * _TransactionLevel_ )[CommitTrans](http://msdn.microsoft.com/library/begintrans-committrans-and-rollbacktrans-methods-ado%28Office.15%29.aspx)(void)[RollbackTrans](http://msdn.microsoft.com/library/begintrans-committrans-and-rollbacktrans-methods-ado%28Office.15%29.aspx)(void)[Cancel](http://msdn.microsoft.com/library/cancel-method-ado%28Office.15%29.aspx)(void)[Close](http://msdn.microsoft.com/library/close-method-ado%28Office.15%29.aspx)(void)[Execute](execute-method-ado-connection.md)(BSTR  _CommandText,_ VARIANT * _RecordsAffected,_ long _Options,_ _ADORecordset ** _ppiRset_ )[Open](http://msdn.microsoft.com/library/open-method-ado-connection%28Office.15%29.aspx)(BSTR  _ConnectionString,_ BSTR _UserID,_ BSTR _Password,_ long _Options_ )[OpenSchema](http://msdn.microsoft.com/library/openschema-method-ado%28Office.15%29.aspx)(SchemaEnum  _Schema,_ VARIANT _Restrictions,_ VARIANT _SchemaID,_ _ADORecordset ** _pprset_ )
+ **Properties**
+[get_Attributes](http://msdn.microsoft.com/library/attributes-property-ado%28Office.15%29.aspx)(long * _plAttr_ ) **put_Attributes** (long _lAttr_ )[get_CommandTimeout](http://msdn.microsoft.com/library/commandtimeout-property-ado%28Office.15%29.aspx)(LONG * _plTimeout_ ) **put_CommandTimeout** (LONG _lTimeout_ )[get_ConnectionString](http://msdn.microsoft.com/library/connectionstring-property-ado%28Office.15%29.aspx)(BSTR * _pbstr_ ) **put_ConnectionString** (BSTR _bstr_ )[get_ConnectionTimeout](http://msdn.microsoft.com/library/connectiontimeout-property-ado%28Office.15%29.aspx)(LONG * _plTimeout_ ) **put_ConnectionTimeout** (LONG _lTimeout_ )[get_CursorLocation](http://msdn.microsoft.com/library/cursorlocation-property-ado%28Office.15%29.aspx)(CursorLocationEnum * _plCursorLoc_ ) **put_CursorLocation** (CursorLocationEnum _lCursorLoc_ )[get_DefaultDatabase](http://msdn.microsoft.com/library/defaultdatabase-property-ado%28Office.15%29.aspx)(BSTR * _pbstr_ ) **put_DefaultDatabase** (BSTR _bstr_ )[get_IsolationLevel](http://msdn.microsoft.com/library/isolationlevel-property-ado%28Office.15%29.aspx)(IsolationLevelEnum * _Level_ ) **put_IsolationLevel** (IsolationLevelEnum _Level_ )[get_Mode](http://msdn.microsoft.com/library/mode-property-ado%28Office.15%29.aspx)(ConnectModeEnum * _plMode_ ) **put_Mode** (ConnectModeEnum _lMode_ )[get_Provider](http://msdn.microsoft.com/library/provider-property-ado%28Office.15%29.aspx)(BSTR * _pbstr_ ) **put_Provider** (BSTR _Provider_ )[get_State](http://msdn.microsoft.com/library/state-property-ado%28Office.15%29.aspx)(LONG * _plObjState_ )[get_Version](http://msdn.microsoft.com/library/version-property-ado%28Office.15%29.aspx)(BSTR * _pbstr_ )[get_Errors](http://msdn.microsoft.com/library/errors-collection-ado%28Office.15%29.aspx)(ADOErrors ** _ppvObject_ )
+ **Events**
+[BeginTransComplete](http://msdn.microsoft.com/library/begintranscomplete-committranscomplete-and-rollbacktranscomplete-events-ado%28Office.15%29.aspx)(LONG  _TransactionLevel,_ ADOError * _pError,_ EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[CommitTransComplete](http://msdn.microsoft.com/library/begintranscomplete-committranscomplete-and-rollbacktranscomplete-events-ado%28Office.15%29.aspx)(ADOError * _pError,_ EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[ConnectComplete](http://msdn.microsoft.com/library/connectcomplete-and-disconnect-events-ado%28Office.15%29.aspx)(ADOError * _pError,_ EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[Disconnect](http://msdn.microsoft.com/library/connectcomplete-and-disconnect-events-ado%28Office.15%29.aspx)(EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[ExecuteComplete](http://msdn.microsoft.com/library/executecomplete-event-ado%28Office.15%29.aspx)(LONG  _RecordsAffected,_ ADOError * _pError,_ EventStatusEnum * _adStatus,_ _ADOCommand * _pCommand,_ _ADORecordset * _pRecordset,_ _ADOConnection * _pConnection_ )[InfoMessage](http://msdn.microsoft.com/library/infomessage-event-ado%28Office.15%29.aspx)(ADOError * _pError,_ EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[RollbackTransComplete](http://msdn.microsoft.com/library/begintranscomplete-committranscomplete-and-rollbacktranscomplete-events-ado%28Office.15%29.aspx)(ADOError * _pError,_ EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[WillConnect](http://msdn.microsoft.com/library/willconnect-event-ado%28Office.15%29.aspx)(BSTR * _ConnectionString,_ BSTR * _UserID,_ BSTR * _Password,_ long * _Options,_ EventStatusEnum * _adStatus,_ _ADOConnection * _pConnection_ )[WillExecute](http://msdn.microsoft.com/library/willexecute-event-ado%28Office.15%29.aspx)(BSTR * _Source,_ CursorTypeEnum * _CursorType,_ LockTypeEnum * _LockType,_ long * _Options,_ EventStatusEnum * _adStatus,_ _ADOCommand * _pCommand,_ _ADORecordset * _pRecordset,_ _ADOConnection * _pConnection_ )
+ **ACCESS SUPPORT RESOURCES**<br>
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
+[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
+[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+

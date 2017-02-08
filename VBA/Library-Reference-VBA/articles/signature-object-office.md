@@ -1,0 +1,105 @@
+---
+title: Signature Object (Office)
+keywords: vbaof11.chm248000
+f1_keywords:
+- vbaof11.chm248000
+ms.prod: MULTIPLEPRODUCTS
+api_name:
+- Office.Signature
+ms.assetid: 574d246b-95cd-e4da-081b-4540387662a0
+---
+
+
+# Signature Object (Office)
+
+Represents a digital signature attached to a document.  **Signature** objects are contained in the **SignatureSet** collection of the **Document** object.
+
+
+## Remarks
+
+You can add a  **Signature** object to a **SignatureSet** collection using the **Add** method and you can return an existing member using the **Item** method. To remove a **Signature** from a **SignatureSet** collection, use the **Delete** method of the **Signature** object.
+
+
+## Example
+
+The following example prompts the user to select a digital signature with which to sign the active document in Microsoft Word. To use this example, open a document in Word and pass this function the name of a certificate issuer and the name of a certificate signer that match the  **Issued By** and **Issued To** fields of a digital certificate in the **Digital Certificates** dialog box. This example will test to make sure that the digital signature that the user selects meets certain criteria, such as not having expired, before the new signature is committed to the disk.
+
+
+```
+Function AddSignature(ByVal strIssuer As String, _ 
+ strSigner As String) As Boolean 
+ 
+ On Error GoTo Error_Handler 
+ 
+ Dim sig As Signature 
+ 
+ 'Display the dialog box that lets the 
+ 'user select a digital signature. 
+ 'If the user selects a signature, then 
+ 'it is added to the Signatures 
+ 'collection. If the user does not, then 
+ 'an error is returned. 
+ Set sig = ActiveDocument.Signatures.Add 
+ 
+ 'Test several properties before commiting the Signature object to disk. 
+ If sig.Issuer = strIssuer And _ 
+ sig.Signer = strSigner And _ 
+ sig.IsCertificateExpired = False And _ 
+ sig.IsCertificateRevoked = False And _ 
+ sig.IsValid = True Then 
+ 
+ MsgBox "Signed" 
+ AddSignature = True 
+ 'Otherwise, remove the Signature object from the SignatureSet collection. 
+ Else 
+ sig.Delete 
+ MsgBox "Not signed" 
+ AddSignature = False 
+ End If 
+ 
+ 'Commit all signatures in the SignatureSet collection to the disk. 
+ ActiveDocument.Signatures.Commit 
+ 
+ Exit Function 
+Error_Handler: 
+ AddSignature = False 
+ MsgBox "Action canceled." 
+End Function
+```
+
+
+## Methods
+
+
+
+|**Name**|
+|:-----|
+|[Delete](http://msdn.microsoft.com/library/signature-delete-method-office%28Office.15%29.aspx)|
+|[ShowDetails](http://msdn.microsoft.com/library/signature-showdetails-method-office%28Office.15%29.aspx)|
+|[Sign](http://msdn.microsoft.com/library/signature-sign-method-office%28Office.15%29.aspx)|
+
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Application](http://msdn.microsoft.com/library/signature-application-property-office%28Office.15%29.aspx)|
+|[CanSetup](http://msdn.microsoft.com/library/signature-cansetup-property-office%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/signature-creator-property-office%28Office.15%29.aspx)|
+|[Details](http://msdn.microsoft.com/library/signature-details-property-office%28Office.15%29.aspx)|
+|[IsSignatureLine](http://msdn.microsoft.com/library/signature-issignatureline-property-office%28Office.15%29.aspx)|
+|[IsSigned](http://msdn.microsoft.com/library/signature-issigned-property-office%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/signature-parent-property-office%28Office.15%29.aspx)|
+|[Setup](http://msdn.microsoft.com/library/signature-setup-property-office%28Office.15%29.aspx)|
+|[SignatureLineShape](http://msdn.microsoft.com/library/signature-signaturelineshape-property-office%28Office.15%29.aspx)|
+|[SortHint](http://msdn.microsoft.com/library/signature-sorthint-property-office%28Office.15%29.aspx)|
+
+## See also
+
+
+#### Other resources
+
+
+[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[Signature Object Members](http://msdn.microsoft.com/library/signature-members-office%28Office.15%29.aspx)
