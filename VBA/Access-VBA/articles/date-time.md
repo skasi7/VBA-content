@@ -18,7 +18,7 @@ ms.assetid: 382d91c4-0434-45b9-b623-67d76c75a888
     
 - [Find the Number of Working Days Between Two Dates](find-the-number-of-working-days-between-two-dates.md)
     
-- [Format Dates as U.S. Dates Regardless of Regional Settings](format-dates-as-u-s--dates-regardless-of-regional-settings.md)
+- [Format Dates as U.S. Dates Regardless of Regional Settings](format-dates-as-u-s-dates-regardless-of-regional-settings.md)
     
 - [Specify Date and Time in Criteria Expressions](specify-date-and-time-in-criteria-expressions.md)
     

@@ -16,10 +16,10 @@ ms.assetid: f5e0fe29-49d1-6d93-9bbd-cc4bc02405d8
 
 The INDEX keyword is used in these contexts:
 
-[CREATE INDEX Statement](http://msdn.microsoft.com/library/create-index-statement-microsoft-access-sql%28Office.15%29.aspx)
-[DROP Statement](http://msdn.microsoft.com/library/drop-statement-microsoft-access-sql%28Office.15%29.aspx)
-[GRANT Statement](http://msdn.microsoft.com/library/grant-statement-microsoft-access-sql%28Office.15%29.aspx)
-[REVOKE Statement](http://msdn.microsoft.com/library/revoke-statement-microsoft-access-sql%28Office.15%29.aspx)
+[CREATE INDEX Statement](http://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
+[DROP Statement](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)
+[GRANT Statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
+[REVOKE Statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

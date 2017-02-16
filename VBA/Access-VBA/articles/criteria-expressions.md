@@ -10,11 +10,11 @@ ms.assetid: f4f31b20-3b5b-4d6d-9143-808421e1b8c4
 ## In this section
 
 
-- [Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions-1.md)
+- [Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions.md)
     
 - [Include Quotation Marks in String Expressions](include-quotation-marks-in-string-expressions.md)
     
-- [Sort Records in Case-Sensitive ( ASCII) Order](sort-records-in-case-sensitive--ascii-order.md)
+- [Sort Records in Case-Sensitive ( ASCII) Order](sort-records-in-case-sensitiveascii-order.md)
     
 - [Use Multiple Fields in Criteria Expressions](use-multiple-fields-in-criteria-expressions.md)
     

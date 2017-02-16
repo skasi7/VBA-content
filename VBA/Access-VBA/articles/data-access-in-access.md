@@ -7,7 +7,7 @@ ms.assetid: d3f778f5-d6e6-bb99-0c8b-da295c5214ff
 
 # Data Access in Access
 
-This page links to help on widely used data-access tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i----access-vba-reference.md).
+This page links to help on widely used data-access tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i-access-vba-reference.md).
 
 
 ## Structured Query Language (SQL)
@@ -198,6 +198,6 @@ This page links to help on widely used data-access tasks. To view other categori
       - Describes how to export data and formatting contained in a table to an XML file.
     
 
-- [How Do I... in Access](how-do-i----access-vba-reference.md)
+- [How Do I... in Access](how-do-i-access-vba-reference.md)
     
 

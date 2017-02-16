@@ -16,7 +16,7 @@ ms.assetid: 4f01681c-cd25-e317-f99b-8ec58849ab5b
 
 The ASC and DESC keywords are used in these contexts:
 
-[CREATE INDEX Statement](http://msdn.microsoft.com/library/create-index-statement-microsoft-access-sql%28Office.15%29.aspx)
+[CREATE INDEX Statement](http://msdn.microsoft.com/library/c5919ef4-a08d-df06-7078-5331adbcb45c%28Office.15%29.aspx)
 [ORDER BY Clause](order-by-clause-microsoft-access-sql.md)
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

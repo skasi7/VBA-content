@@ -13,8 +13,8 @@ ms.assetid: 210adcbb-5c89-150b-4c61-6a52dea9af56
 
 
 
-Indicates the query string used to retrieve the [Recordset](http://msdn.microsoft.com/library/recordset-object-ado%28Office.15%29.aspx).
-You can set the  **SQL** property at design time in the[RDS.DataControl](http://msdn.microsoft.com/library/datacontrol-object-rds%28Office.15%29.aspx) object's OBJECT tags, or at run time in scripting code.
+Indicates the query string used to retrieve the [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx).
+You can set the  **SQL** property at design time in the[RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) object's OBJECT tags, or at run time in scripting code.
 
 ## Parameters
 

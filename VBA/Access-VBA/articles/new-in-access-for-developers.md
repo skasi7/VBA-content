@@ -219,9 +219,9 @@ Access 2013 introduces a new application model that enables subject matter exper
 ## Additional Resources
 <a name="ac15_WhatsNew_AdditionalResources2"> </a>
 
-[How to: Create and customize a web app in Access](http://msdn.microsoft.com/library/how-to-create-and-customize-a-web-app-in-access%28Office.15%29.aspx)
+[How to: Create and customize a web app in Access](http://msdn.microsoft.com/library/628745f4-82e9-4838-9726-6f3e506a654f%28Office.15%29.aspx)
 
-[What's new for Office 2013 developers](http://msdn.microsoft.com/library/what-s-new-for-office-2013-developers%28Office.15%29.aspx)
+[What's new for Office 2013 developers](http://msdn.microsoft.com/library/d76ae308-555e-4147-8900-956d3eb8ba23%28Office.15%29.aspx)
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

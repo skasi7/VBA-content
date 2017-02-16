@@ -17,12 +17,12 @@ Indicates the data type of a column.
 
 ## Settings and Return Values
 
-Sets or returns a  **Long** value that can be one of the[DataTypeEnum](http://msdn.microsoft.com/library/datatypeenum%28Office.15%29.aspx) constants. The default value is **adVarWChar**.
+Sets or returns a  **Long** value that can be one of the[DataTypeEnum](http://msdn.microsoft.com/library/a8ab7616-552f-ed5f-ed55-95254cfb374a%28Office.15%29.aspx) constants. The default value is **adVarWChar**.
 
 
 ## Remarks
 
-This property is read/write until the [Column](http://msdn.microsoft.com/library/column-object-adox%28Office.15%29.aspx) object is appended to a collection or to another object, after which it is read-only.
+This property is read/write until the [Column](http://msdn.microsoft.com/library/ad38c2df-f704-0599-4b7a-8556e430ba46%28Office.15%29.aspx) object is appended to a collection or to another object, after which it is read-only.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

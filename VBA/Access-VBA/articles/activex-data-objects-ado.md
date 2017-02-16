@@ -12,7 +12,7 @@ ms.assetid: 7bf30e48-fbe1-4446-8e0d-75e74eb506ac
 
 - [Bind a Form to an ADO Recordset](bind-a-form-to-an-ado-recordset.md)
     
-- [Set Properties of ActiveX Data Objects in Visual Basic](set-properties-of-activex-data-objects-in-visual-basic.md)
+- [Set Properties of ActiveX Data Objects in Visual Basic](set-properties-of-activex-data-objects-in-visual-basic-1.md)
     
 - [Create an ADO Connection String](create-an-ado-connection-string.md)
     

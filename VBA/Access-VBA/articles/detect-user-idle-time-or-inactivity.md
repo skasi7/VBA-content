@@ -95,5 +95,5 @@ Sub IdleTimeDetected(ExpiredMinutes)
       End Sub
 ```
 
-To hide the  **DetectIdleTime** form as it opens, set the _WindowMode_ argument of the **[OpenForm](A1C9D3A9-2AF8-C30A-ACB0-6428C70DCDB0.md)** method to **acHidden**.
+To hide the  **DetectIdleTime** form as it opens, set the _WindowMode_ argument of the **[OpenForm](docmd-openform-method-access.md)** method to **acHidden**.
 

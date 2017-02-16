@@ -10,13 +10,13 @@ ms.assetid: c1b0cd6e-de48-43c7-a393-44f2963738e9
 ## In this section
 
 
-- [Add "(All)" to a Combo Box or List Box](add--all--to-a-combo-box-or-list-box.md)
+- [Add "(All)" to a Combo Box or List Box](addallto-a-combo-box-or-list-box.md)
     
 - [Allow Users to Add Items to an Unbound Combo Box](allow-users-to-add-items-to-an-unbound-combo-box.md)
     
 - [Assign a Control a Value From a Table](assign-a-control-a-value-from-a-table.md)
     
-- [Call Procedures in a Subform or Subreport](call-procedures-in-a-subform-or-subreport-1.md)
+- [Call Procedures in a Subform or Subreport](call-procedures-in-a-subform-or-subreport.md)
     
 - [Hide a Subform if the Main Form Contains No Records](hide-a-subform-if-the-main-form-contains-no-records.md)
     

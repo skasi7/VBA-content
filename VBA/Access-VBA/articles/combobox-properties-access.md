@@ -132,7 +132,7 @@ ms.assetid: 5a6d838d-de7c-4561-8e7f-259f527a5a23
 |[Parent](combobox-parent-property-access.md)|Returns the parent object for the specified object. Read-only.|
 |[Properties](combobox-properties-property-access.md)|Returns a reference to a control's **[Properties](properties-object-access.md)** collection object. Read-only.|
 |[ReadingOrder](combobox-readingorder-property-access.md)|You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.|
-|[Recordset](combobox-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](9774232C-E6DA-175B-FC7F-ED2AB7908FA0.md)** object representing the record source for the specified object. Read/write **Object**.|
+|[Recordset](combobox-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](recordset-object-dao.md)** object representing the record source for the specified object. Read/write **Object**.|
 |[RightMargin](combobox-rightmargin-property-access.md)|Along with the  **TopMargin**, **Left Margin**, and **BottomMargin** properties, specifies the location of information displayed within a combo box control. Read/write **Integer**.|
 |[RightPadding](combobox-rightpadding-property-access.md)|Gets or sets the amount of space (in inches) between the combo box and its right gridline. Read/write  **Integer**.|
 |[RowSource](combobox-rowsource-property-access.md)|You can use the  **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.|

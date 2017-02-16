@@ -10,7 +10,7 @@ ms.assetid: a561c481-2d42-4de1-8400-be6a199f59a0
 ## In this section
 
 
-- [Access Forms How Do I...](access-forms-how-do-i--.md)
+- [Access Forms How Do I...](access-forms-how-do-i.md)
     
 - [User Input](user-input.md)
     

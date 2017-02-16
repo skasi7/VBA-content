@@ -10,7 +10,7 @@ ms.assetid: b8bb8ad1-b46b-4e3a-977c-8edf27f5034d
 ## In this section
 
 
-- [Access Reports How Do I...](access-reports-how-do-i--.md)
+- [Access Reports How Do I...](access-reports-how-do-i.md)
     
 - [Design in Access Reports](design-in-access-reports.md)
     

@@ -12,7 +12,7 @@ ms.assetid: bc9057bc-72a4-0344-a50a-7b73a2d30212
 
 # Application.FeatureInstall Property (Access)
 
-You can use the  **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](http://msdn.microsoft.com/library/msofeatureinstall-enumeration-office%28Office.15%29.aspx)**.
+You can use the  **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](http://msdn.microsoft.com/library/25256738-d169-5c00-1d5d-eb8019811976%28Office.15%29.aspx)**.
 
 
 ## Syntax

@@ -44,7 +44,7 @@ CREATE TABLE tblCustomers
 
 ```
 
-To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/drop-statement-microsoft-access-sql%28Office.15%29.aspx)** statement.
+To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)** statement.
 
 
 
@@ -189,7 +189,7 @@ CREATE TABLE tblCustomers
 
 ```
 
-To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/drop-statement-microsoft-access-sql%28Office.15%29.aspx)** statement.
+To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)** statement.
 
 
 

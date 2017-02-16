@@ -20,7 +20,7 @@ ms.assetid: fe7d5e27-a47a-1229-232c-cf6a0cbad761
 [ Example](#sectionSection2)
 
 
-Combines records with identical values in the specified field list into a single record. A summary value is created for each record if you include an [SQL aggregate function](http://msdn.microsoft.com/library/sql-aggregate-functions-sql%28Office.15%29.aspx), such as  **Sum** or **Count**, in the[SELECT](http://msdn.microsoft.com/library/select-statement-microsoft-access-sql%28Office.15%29.aspx) statement.
+Combines records with identical values in the specified field list into a single record. A summary value is created for each record if you include an [SQL aggregate function](http://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), such as  **Sum** or **Count**, in the[SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
 
 ## Syntax
 <a name="sectionSection0"> </a>

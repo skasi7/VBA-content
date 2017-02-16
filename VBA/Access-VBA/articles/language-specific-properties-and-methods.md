@@ -22,15 +22,15 @@ Properties and methods that are available only in Asian or right-to-left languag
 
 |**Property or Method**|**Object**|
 |:-----|:-----|
-|**[AsianLineBreak](http://msdn.microsoft.com/library/textbox-asianlinebreak-property-access%28Office.15%29.aspx)**|**TextBox**|
-|**[FuriganaControl](http://msdn.microsoft.com/library/textbox-furiganacontrol-property-access%28Office.15%29.aspx)**|**TextBox**|
+|**[AsianLineBreak](http://msdn.microsoft.com/library/2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad%28Office.15%29.aspx)**|**TextBox**|
+|**[FuriganaControl](http://msdn.microsoft.com/library/7d70cffa-06bb-fa9d-686a-0031558aa5a3%28Office.15%29.aspx)**|**TextBox**|
 |**IMEHold**|**ComboBox, ListBox, TextBox**|
 |**IMEMode**|**ComboBox, Label, ListBox, TextBox**|
 |**IMESentenceMode**|**ComboBox, Label, ListBox, TextBox**|
 |**KeyboardLanguage**|**ComboBox, TextBox**|
 |**NumeralShapes**|**ComboBox, Label, ListBox, TextBox**|
-|**[Orientation](http://msdn.microsoft.com/library/form-orientation-property-access%28Office.15%29.aspx)**|**Form**|
-|**[PostalAddress](http://msdn.microsoft.com/library/textbox-postaladdress-property-access%28Office.15%29.aspx)**|**TextBox**|
+|**[Orientation](http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx)**|**Form**|
+|**[PostalAddress](http://msdn.microsoft.com/library/04fb29c5-909c-a0b8-a4aa-7701abc07037%28Office.15%29.aspx)**|**TextBox**|
 |**ReadingOrder**|**CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton**|
 |**ScrollBarAlign**|**ComboBox, ListBox, TextBox**|
  **ACCESS SUPPORT RESOURCES**<br>

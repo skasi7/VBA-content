@@ -165,7 +165,7 @@ ms.assetid: 6ff49466-35ef-477c-8666-f40c1a6d13d9
 |[Query](form-query-property-access.md)|Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[Query](form-query-event-access.md)** event occurs. Read/write.|
 |[RecordLocks](form-recordlocks-property-access.md)|You can use the  **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.|
 |[RecordSelectors](form-recordselectors-property-access.md)|You can use the  **RecordSelectors** property to specify whether a form displays record selectors in Form view. Read/write **Boolean**.|
-|[Recordset](form-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](9774232C-E6DA-175B-FC7F-ED2AB7908FA0.md)** object representing the record source for the specified object. Read/write **Object**.|
+|[Recordset](form-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](recordset-object-dao.md)** object representing the record source for the specified object. Read/write **Object**.|
 |[RecordsetClone](form-recordsetclone-property-access.md)|You can use the  **RecordsetClone** property to refer to a form's **Recordset** object specified by the form's **[RecordSource](form-recordsource-property-access.md)** property. Read-only.|
 |[RecordsetType](form-recordsettype-property-access.md)|You can use the  **RecordsetType** property to specify what kind of recordset is made available to a form. Read/write **Byte**.|
 |[RecordSource](form-recordsource-property-access.md)|You can use the  **RecordSource** property to specify the source of the data for a form. Read/write **String**.|

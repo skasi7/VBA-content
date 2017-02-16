@@ -7,21 +7,21 @@ ms.assetid: ae1b163d-21a6-3ac2-91e7-f0506fd4842f
 
 # Access User Interface How Do I...
 
-This page links to help on widely used user-interface tasks. For more information about other popular Help tasks, see [How Do I… in Access](how-do-i----access-vba-reference.md).
+This page links to help on widely used user-interface tasks. For more information about other popular Help tasks, see [How Do I… in Access](how-do-i-access-vba-reference.md).
 
 
 ## Ribbon
 
 
-- [How to: Apply a Custom Ribbon When Starting Access](http://msdn.microsoft.com/library/how-to-apply-a-custom-ribbon-when-starting-access%28Office.15%29.aspx)
+- [How to: Apply a Custom Ribbon When Starting Access](http://msdn.microsoft.com/library/9e8ddf95-35aa-4e57-8422-d770da14711e%28Office.15%29.aspx)
     
       - Describes how to display a custom ribbon when Access starts.
     
-- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/how-to-apply-a-custom-ribbon-to-a-form-or-report%28Office.15%29.aspx)
+- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/7dcdfa42-3eaa-43f9-b99d-56b2cac97f84%28Office.15%29.aspx)
     
       - Describes how to display a custom ribbon when a particular form or report is opened.
     
-- [How to: Hide the Ribbon When Access Starts](http://msdn.microsoft.com/library/how-to-hide-the-ribbon-when-access-starts%28Office.15%29.aspx)
+- [How to: Hide the Ribbon When Access Starts](http://msdn.microsoft.com/library/f98bab58-8094-1c56-f70b-ced2e7849574%28Office.15%29.aspx)
     
       - Describes how to hide the ribbon when opening a database.
     
@@ -50,6 +50,6 @@ This page links to help on widely used user-interface tasks. For more informatio
       - Describes how to use the  **SysCmd** method to create a progress meter on the status bar.
     
 
-- [How Do I... in Access](how-do-i----access-vba-reference.md)
+- [How Do I... in Access](how-do-i-access-vba-reference.md)
     
 

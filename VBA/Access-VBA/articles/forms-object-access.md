@@ -35,10 +35,10 @@ You can't add or delete a  **Form** object from the **Forms** collection.
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/forms-application-property-access%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/forms-count-property-access%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/forms-item-property-access%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/forms-parent-property-access%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/ed4a3ace-979b-0666-efbc-20e416e1faa2%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/915dcb5c-bab5-956f-329e-63a6bf934991%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/6436ecae-4d12-0684-b44c-88f4172e7dcb%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/a16b8963-d22d-bd78-58d4-1bd666f68965%28Office.15%29.aspx)|
 
 ## See also
 
@@ -46,5 +46,5 @@ You can't add or delete a  **Form** object from the **Forms** collection.
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/object-model-access-vba-reference%28Office.15%29.aspx)
-[Forms Object Members](http://msdn.microsoft.com/library/forms-members-access%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Forms Object Members](http://msdn.microsoft.com/library/b405c03d-4869-b494-7a80-34dff300eda0%28Office.15%29.aspx)

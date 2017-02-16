@@ -20,47 +20,47 @@ The following topics describe common functions used in Access expressions.
 
 [Atn Function](http://msdn.microsoft.com/library/AB5272CF-B372-8665-28C6-EE0318AA9BAC%28Office.15%29.aspx)
 
-[Avg Function](BE955493-A236-2DBE-A08D-2A7F6D113B39.md)
+[Avg Function](avg-function-microsoft-access-sql.md)
 
 [CallByName Function](http://msdn.microsoft.com/library/E76DECE5-244F-9514-4CCF-D993D6476061%28Office.15%29.aspx)
 
-[CBool Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CBool Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CByte Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CByte Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CCur Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CCur Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CDate Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CDate Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CDbl Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CDbl Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CDec Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CDec Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
 [Choose Function](http://msdn.microsoft.com/library/CCF3FE4C-9507-5FF3-B834-9A16E2A19AE2%28Office.15%29.aspx)
 
 [Chr Function](http://msdn.microsoft.com/library/A9DC96EC-4719-8D24-144B-61D45FA58FE5%28Office.15%29.aspx)
 
-[CInt Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CInt Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CLng Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CLng Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
 [Command Function](http://msdn.microsoft.com/library/2EAEFB12-2E7F-AB4A-9CD8-FC0739E33BF5%28Office.15%29.aspx)
 
 [Cos Function](http://msdn.microsoft.com/library/A08A4706-223B-3D94-838A-4AC92B04744A%28Office.15%29.aspx)
 
-[Count Function](01743D33-D7DE-12B5-EB0F-EB775B0BCFFD.md)
+[Count Function](count-function-microsoft-access-sql.md)
 
 [CreateObject Function](http://msdn.microsoft.com/library/D887C3D3-5C60-09A1-6856-49F7C4CC05BA%28Office.15%29.aspx)
 
-[CSng Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CSng Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
-[CStr Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CStr Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
 [CurDir Function](http://msdn.microsoft.com/library/5ABAD447-9C6B-8E9C-D6BB-F43F23DC45AD%28Office.15%29.aspx)
 
-[CurrentUser Method](1CF7EE61-459C-1224-CFDF-A0B051EEB06E.md)
+[CurrentUser Method](application-currentuser-method-access.md)
 
-[CVar Function](http://msdn.microsoft.com/library/type-conversion-functions%28Office.15%29.aspx)
+[CVar Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
 [CVErr Function](http://msdn.microsoft.com/library/244AB040-3816-A744-7AFB-06675A4B076D%28Office.15%29.aspx)
 
@@ -76,41 +76,41 @@ The following topics describe common functions used in Access expressions.
 
 [DateValue Function](http://msdn.microsoft.com/library/8C9BD3D6-1614-EEB0-0714-4730EEEB1B95%28Office.15%29.aspx)
 
-[DAvg Function](966CD884-8693-D1D2-B35B-567E71B7E56D.md)
+[DAvg Function](application-davg-method-access.md)
 
 [Day Function](http://msdn.microsoft.com/library/8D4D0B63-28D9-C6A3-BD96-3688B0F93A12%28Office.15%29.aspx)
 
-[DCount Method](257F0B2A-E23D-2728-AFD2-7700B59E5456.md)
+[DCount Method](application-dcount-method-access.md)
 
 [DDB Function](http://msdn.microsoft.com/library/E6AE2093-222C-01CD-86BC-73A3CB79D075%28Office.15%29.aspx)
 
-[DDEInitiate Method](7B05C3AD-574E-D904-5D50-FF646486EF07.md)
+[DDEInitiate Method](application-ddeinitiate-method-access.md)
 
-[DDERequest Method](C6F5F472-AEAC-6DE9-8133-BEBFC5887EEE.md)
+[DDERequest Method](application-dderequest-method-access.md)
 
-[DFirst Method](670E54AC-A18F-E381-2CA7-257411F92865.md)
+[DFirst Method](application-dfirst-method-access.md)
 
 [Dir Function](http://msdn.microsoft.com/library/EAF6FE6E-342A-5038-3914-BB5E58FCAD5A%28Office.15%29.aspx)
 
-[DLast Method](0A04CBCC-0DBC-4CFC-E5A3-DEB9B0F343BE.md)
+[DLast Method](application-dlast-method-access.md)
 
-[DLookup Method](CBE1FC56-E4D7-CB74-02DF-48FC379CF432.md)
+[DLookup Method](application-dlookup-method-access.md)
 
-[DMax Method](D6D978F2-EDAD-F478-8C15-BC7AA5B575E0.md)
+[DMax Method](application-dmax-method-access.md)
 
-[DMin Method](D41B1852-7D97-DDFE-D071-8A1A7B42359B.md)
+[DMin Method](application-dmin-method-access.md)
 
 [DoEvents Function](http://msdn.microsoft.com/library/B38AFDFE-9F8A-AC15-3E02-47184DAE69C5%28Office.15%29.aspx)
 
-[DStDev Method](401B4E16-DFD4-7256-B03D-F3915C5F9CA5.md)
+[DStDev Method](application-dstdev-method-access.md)
 
-[DStDevP Method](CA5FB7AD-D91E-1222-E99A-8C55F34482F3.md)
+[DStDevP Method](application-dstdevp-method-access.md)
 
-[DSum Method](53A3CFD4-A5E3-D0C5-1727-070C99D2B984.md)
+[DSum Method](application-dsum-method-access.md)
 
-[DVar Method](E1566391-4AAC-548F-6475-6A8EE63A2BB7.md)
+[DVar Method](application-dvar-method-access.md)
 
-[DVarP Method](99A2D948-0F38-85FA-6F68-5568262595AE.md)
+[DVarP Method](application-dvarp-method-access.md)
 
 [Environ Function](http://msdn.microsoft.com/library/AD8CB911-5DAB-A327-BD9C-EE57818A713A%28Office.15%29.aspx)
 
@@ -118,9 +118,9 @@ The following topics describe common functions used in Access expressions.
 
 [Error Function](http://msdn.microsoft.com/library/F0E51FF6-34F4-43BE-FFCB-D935FA0513C7%28Office.15%29.aspx)
 
-[EuroConvert Method](35893059-C6CD-D359-F618-94701A50A049.md)
+[EuroConvert Method](application-euroconvert-method-access.md)
 
-[Eval Method](D02D5278-1FF3-C405-D579-7A58F2E1EA68.md)
+[Eval Method](application-eval-method-access.md)
 
 [Exp Function](http://msdn.microsoft.com/library/CD9D5F30-63B5-2025-1B23-4FBED4AEEF1E%28Office.15%29.aspx)
 
@@ -132,7 +132,7 @@ The following topics describe common functions used in Access expressions.
 
 [Filter Function](http://msdn.microsoft.com/library/00630B25-E7B8-5C32-B6D1-9816F01C3A0F%28Office.15%29.aspx)
 
-[Fix Function](http://msdn.microsoft.com/library/int-fix-functions%28Office.15%29.aspx)
+[Fix Function](http://msdn.microsoft.com/library/32ce40ac-fdf8-bd6d-e7f9-154c480a9602%28Office.15%29.aspx)
 
 [Format Function](http://msdn.microsoft.com/library/67F60ABF-0C77-49EC-924F-74AE6EB96EA8%28Office.15%29.aspx)
 
@@ -156,15 +156,15 @@ The following topics describe common functions used in Access expressions.
 
 [GetSetting Function](http://msdn.microsoft.com/library/025F1D5D-6FC9-31FF-E59C-F5BCF47E3313%28Office.15%29.aspx)
 
-[GUIDFromString Method](943DA2F6-A578-F05D-5778-990B6892FC64.md)
+[GUIDFromString Method](application-guidfromstring-method-access.md)
 
 [Hex Function](http://msdn.microsoft.com/library/79A403A9-61AF-0991-8F13-60C1033F158A%28Office.15%29.aspx)
 
 [Hour Function](http://msdn.microsoft.com/library/CF0800D1-6E26-71AD-EC8D-09E4876BF469%28Office.15%29.aspx)
 
-[HtmlEncode Method](294A99F1-9B26-C9EE-0560-8BD54287EBB7.md)
+[HtmlEncode Method](application-htmlencode-method-access.md)
 
-[HyperlinkPart Method](011665EA-C650-FAB3-A736-F26A3DE1B65E.md)
+[HyperlinkPart Method](application-hyperlinkpart-method-access.md)
 
 [IIf Function](http://msdn.microsoft.com/library/A31D9F49-1F5A-324B-77A2-276EB573552A%28Office.15%29.aspx)
 
@@ -178,7 +178,7 @@ The following topics describe common functions used in Access expressions.
 
 [InStrRev Function](http://msdn.microsoft.com/library/2677E5DC-A128-1BF4-DD72-304469B46CC2%28Office.15%29.aspx)
 
-[Int Function](http://msdn.microsoft.com/library/int-fix-functions%28Office.15%29.aspx)
+[Int Function](http://msdn.microsoft.com/library/32ce40ac-fdf8-bd6d-e7f9-154c480a9602%28Office.15%29.aspx)
 
 [IPmt Function](http://msdn.microsoft.com/library/EE1DB73E-9121-8451-8780-D4681F1F42DD%28Office.15%29.aspx)
 
@@ -216,7 +216,7 @@ The following topics describe common functions used in Access expressions.
 
 [Log Function](http://msdn.microsoft.com/library/09FF0A30-0138-CFAD-6CB8-2172C8FF37F2%28Office.15%29.aspx)
 
-[LTrim Function](http://msdn.microsoft.com/library/ltrim-rtrim-and-trim-functions%28Office.15%29.aspx)
+[LTrim Function](http://msdn.microsoft.com/library/ffe13d6f-8e7a-3413-98a1-3263c771178b%28Office.15%29.aspx)
 
 [Max Function](min-max-functions-microsoft-access-sql.md)
 
@@ -240,13 +240,13 @@ The following topics describe common functions used in Access expressions.
 
 [NPV Function](http://msdn.microsoft.com/library/9F444237-9F5A-834D-1AEC-A2D016DFB325%28Office.15%29.aspx)
 
-[Nz Method](669FE962-3881-83BB-CC40-EC9B23B44116.md)
+[Nz Method](application-nz-method-access.md)
 
 [Oct Function](http://msdn.microsoft.com/library/178A6099-9181-2160-2B97-E08C97F8B2BB%28Office.15%29.aspx)
 
 [Partition Function](http://msdn.microsoft.com/library/A9565BFC-640F-4550-455F-7D50D110DF43%28Office.15%29.aspx)
 
-[PlainText Method](76A14FEB-ABEE-9306-FE10-27765C4A47C7.md)
+[PlainText Method](application-plaintext-method-access.md)
 
 [Pmt Function](http://msdn.microsoft.com/library/30583BB1-3A39-BDF5-7632-C8810B9E3617%28Office.15%29.aspx)
 
@@ -268,7 +268,7 @@ The following topics describe common functions used in Access expressions.
 
 [Round Function](http://msdn.microsoft.com/library/897563A8-E66A-1FF1-36B2-DA44AE56F48C%28Office.15%29.aspx)
 
-[RTrim Function](http://msdn.microsoft.com/library/ltrim-rtrim-and-trim-functions%28Office.15%29.aspx)
+[RTrim Function](http://msdn.microsoft.com/library/ffe13d6f-8e7a-3413-98a1-3263c771178b%28Office.15%29.aspx)
 
 [Second Function](http://msdn.microsoft.com/library/FEF87486-CCDA-23E7-04A5-5E484CE66543%28Office.15%29.aspx)
 
@@ -302,11 +302,11 @@ The following topics describe common functions used in Access expressions.
 
 [String Function](http://msdn.microsoft.com/library/D6C5C054-21B9-F777-ACAE-AC31710BA5C5%28Office.15%29.aspx)
 
-[StringFromGUID Method](527C9459-A62A-9F01-DCDA-3C21987B2662.md)
+[StringFromGUID Method](application-stringfromguid-method-access.md)
 
 [StrReverse Function](http://msdn.microsoft.com/library/6FF232F2-D45C-E99E-6CEC-99D6F86E3B37%28Office.15%29.aspx)
 
-[Sum Function](02498420-F177-521C-EF81-E2F7EA02B231.md)
+[Sum Function](sum-function-microsoft-access-sql.md)
 
 [Switch Function](http://msdn.microsoft.com/library/458EBFCB-AF87-1C3B-3F4B-5F308AEFA7D9%28Office.15%29.aspx)
 
@@ -324,7 +324,7 @@ The following topics describe common functions used in Access expressions.
 
 [TimeValue Function](http://msdn.microsoft.com/library/02CE264A-AA6B-2249-DA37-DEE3522C2DB7%28Office.15%29.aspx)
 
-[Trim Function](http://msdn.microsoft.com/library/ltrim-rtrim-and-trim-functions%28Office.15%29.aspx)
+[Trim Function](http://msdn.microsoft.com/library/ffe13d6f-8e7a-3413-98a1-3263c771178b%28Office.15%29.aspx)
 
 [TypeName Function](http://msdn.microsoft.com/library/9353F1D5-5B64-9CAD-5CC3-E1487BDD3AFD%28Office.15%29.aspx)
 
@@ -334,7 +334,7 @@ The following topics describe common functions used in Access expressions.
 
 [Val Function](http://msdn.microsoft.com/library/49909FD8-07BF-3B94-4C6C-85AD595D6FCB%28Office.15%29.aspx)
 
-[Var, VarP Functions](2CAC402D-8384-0B33-C203-F493281A95F1.md)
+[Var, VarP Functions](var-varp-functions-microsoft-access-sql.md)
 
 [VarType Function](http://msdn.microsoft.com/library/7422FBA5-7EA9-1D91-FC0E-5694C352D2D0%28Office.15%29.aspx)
 

@@ -7,7 +7,7 @@ ms.assetid: 719a36c4-5c3c-0a95-2393-b35666ed32ab
 
 # Access Miscellaneous How Do I...
 
-This page links to help on widely used miscellaneous tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i----access-vba-reference.md).
+This page links to help on widely used miscellaneous tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i-access-vba-reference.md).
 
 
 ## Date/Time
@@ -29,7 +29,7 @@ This page links to help on widely used miscellaneous tasks. To view other catego
     
       - Contains a custom function that you can use to determine the number of working days between two dates.
     
-- [How to: Format Dates as U.S. Dates Regardless of Regional Settings](format-dates-as-u-s--dates-regardless-of-regional-settings.md)
+- [How to: Format Dates as U.S. Dates Regardless of Regional Settings](format-dates-as-u-s-dates-regardless-of-regional-settings.md)
     
       - Contains a custom function that formats dates in U.S. date format, regardless of the region that you have set in the Regional Settings tool in Control Panel.
     
@@ -45,7 +45,7 @@ This page links to help on widely used miscellaneous tasks. To view other catego
 ## Criteria Expressions
 
 
-- [How to: Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions-1.md)
+- [How to: Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions.md)
     
       - Describes how to use the  _expr_ argument in a domain aggregate function to perform a calculation on values in a field.
     
@@ -53,7 +53,7 @@ This page links to help on widely used miscellaneous tasks. To view other catego
     
       - Describes how to embed quotation marks in an SQL expression.
     
-- [How to: Sort Records in Case-Sensitive ( ASCII) Order](sort-records-in-case-sensitive--ascii-order.md)
+- [How to: Sort Records in Case-Sensitive ( ASCII) Order](sort-records-in-case-sensitiveascii-order.md)
     
       - Contains a custom function that can be used to sort records in case-sensitive order.
     
@@ -125,6 +125,6 @@ This page links to help on widely used miscellaneous tasks. To view other catego
     
       - Describes how to trap run-time errors.
     
-- [How Do I... in Access](how-do-i----access-vba-reference.md)
+- [How Do I... in Access](how-do-i-access-vba-reference.md)
     
 

@@ -18,7 +18,7 @@ ms.assetid: 8e3224b7-0b1d-1e08-eaa7-ceb0b6f5411c
 [Parameters](#sectionSection3)
 
 
-An  **ObjectProxy** object represents a server, and is returned by the **createObject** method of the[DataSpace](http://msdn.microsoft.com/library/dataspace-object-rds%28Office.15%29.aspx) object. The ObjectProxy class has one method, **call**, which can invoke a method on the server and return an object resulting from that invocation.
+An  **ObjectProxy** object represents a server, and is returned by the **createObject** method of the[DataSpace](http://msdn.microsoft.com/library/7db181d5-422b-49fe-b6af-a20f5da520ff%28Office.15%29.aspx) object. The ObjectProxy class has one method, **call**, which can invoke a method on the server and return an object resulting from that invocation.
  **package com.ms.wfc.data**
 
 ## Methods

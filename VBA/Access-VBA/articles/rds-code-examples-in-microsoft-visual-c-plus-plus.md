@@ -17,9 +17,9 @@ Use the following code examples to learn how to use RDS properties when writing 
  **Note**  Paste the entire code example, from beginning to end, into your code editor. The example may not run correctly if partial examples are used or if paragraph formatting is lost.
 
 
-- [Handler Property Example](handler-property-example-vc-.md)
+- [Handler Property Example](handler-property-example-vc.md)
     
-- [InternetTimeout Property Example](internettimeout-property-example-vc-.md)
+- [InternetTimeout Property Example](internettimeout-property-example-vc.md)
     
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

@@ -16,7 +16,7 @@ ms.assetid: 1361f1c1-f99d-8952-a885-d13dcdd7cb1d
 
 The ALL keyword is used in these contexts:
 
-[ALL, DISTINCT, DISTINCTROW, TOP Predicates](6FF5C418-897B-7D65-8551-5A0ACE3C587F.md)
+[ALL, DISTINCT, DISTINCTROW, TOP Predicates](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)
 [SQL Subqueries](http://msdn.microsoft.com/library/3B6C0A5D-AB24-E1CF-0175-3F8E68C2DFBF%28Office.15%29.aspx)
 [UNION Operation](http://msdn.microsoft.com/library/A5139921-51E5-7D96-74E3-11C3FD5F7EAA%28Office.15%29.aspx)
  **ACCESS SUPPORT RESOURCES**<br>

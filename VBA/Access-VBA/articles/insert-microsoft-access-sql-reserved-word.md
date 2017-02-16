@@ -13,10 +13,10 @@ ms.assetid: ff4038e1-8136-f3eb-ec02-ba3b5d849b5a
 
 The INSERT keyword is used in these contexts:
 
-[INSERT INTO Statement](http://msdn.microsoft.com/library/insert-into-statement-microsoft-access-sql%28Office.15%29.aspx)
-[CREATE PROCEDURE Statement](http://msdn.microsoft.com/library/create-procedure-statement-microsoft-access-sql%28Office.15%29.aspx)
-[GRANT Statement](http://msdn.microsoft.com/library/grant-statement-microsoft-access-sql%28Office.15%29.aspx)
-[REVOKE Statement](http://msdn.microsoft.com/library/revoke-statement-microsoft-access-sql%28Office.15%29.aspx)
+[INSERT INTO Statement](http://msdn.microsoft.com/library/d3e44258-79f2-caba-8629-bde03f898f2d%28Office.15%29.aspx)
+[CREATE PROCEDURE Statement](http://msdn.microsoft.com/library/1fbb5267-9862-bfb4-6436-176152d7a6cd%28Office.15%29.aspx)
+[GRANT Statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
+[REVOKE Statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

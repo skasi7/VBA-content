@@ -126,9 +126,9 @@ The language elements available for error handling include:
     
 - The DAO  **Error** object and **[Errors](http://msdn.microsoft.com/library/D42007B5-6410-14E9-BAF9-9306FDEF38F9%28Office.15%29.aspx)** collection.
     
-- The  **[AccessError](811EF090-BDD4-5D1D-AFC5-782470F57483.md)** method.
+- The  **[AccessError](application-accesserror-method-access.md)** method.
     
-- The  **[Error](ED8229FB-4169-8BE5-DC2E-A543CA3BFFF3.md)** event.
+- The  **[Error](form-error-event-access.md)** event.
     
 
 ## The Err Object

@@ -80,7 +80,7 @@ UPDATE tblCustomers
 
 ```
 
-In most cases, you will want to qualify the  **UPDATE** statement with a **[WHERE](67E4CAED-6512-E8BD-39D0-6DCA18114B18.md)** clause to limit the number of records changed.
+In most cases, you will want to qualify the  **UPDATE** statement with a **[WHERE](where-clause-microsoft-access-sql.md)** clause to limit the number of records changed.
 
 
 
@@ -208,7 +208,7 @@ UPDATE tblCustomers
 
 ```
 
-In most cases, you will want to qualify the  **UPDATE** statement with a **[WHERE](67E4CAED-6512-E8BD-39D0-6DCA18114B18.md)** clause to limit the number of records changed.
+In most cases, you will want to qualify the  **UPDATE** statement with a **[WHERE](where-clause-microsoft-access-sql.md)** clause to limit the number of records changed.
 
 
 

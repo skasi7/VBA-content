@@ -7,7 +7,7 @@ ms.assetid: 0445765f-4629-5970-776c-5bd30e2d72a1
 
 # Cancel the Deletion of a Record by Using Custom Criteria
 
-The following example illutrates how to use a form's  **[Delete](89916F81-EC7A-F322-D4E6-A4A42DB523CF.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
+The following example illutrates how to use a form's  **[Delete](form-delete-event-access.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
 
 
 ```vb

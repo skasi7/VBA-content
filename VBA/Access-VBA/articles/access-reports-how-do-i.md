@@ -7,13 +7,13 @@ ms.assetid: 1ba67d04-87b8-d466-3dc5-4443df2e99f3
 
 # Access Reports How Do I...
 
-This page links to help on widely used report-related tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i----access-vba-reference.md).
+This page links to help on widely used report-related tasks. To view other categories of popular tasks covered in Help, see [How Do I… in Access](how-do-i-access-vba-reference.md).
 
 
 ## Design
 
 
-- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/how-to-apply-a-custom-ribbon-to-a-form-or-report%28Office.15%29.aspx)
+- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/7dcdfa42-3eaa-43f9-b99d-56b2cac97f84%28Office.15%29.aspx)
     
       - Describes how to display a custom ribbon when a particular form or report is opened.
     
@@ -78,6 +78,6 @@ This page links to help on widely used report-related tasks. To view other categ
       - Describes how to open a report that contains only the filtered records of a form.
     
 
-- [How Do I... in Access](how-do-i----access-vba-reference.md)
+- [How Do I... in Access](how-do-i-access-vba-reference.md)
     
 

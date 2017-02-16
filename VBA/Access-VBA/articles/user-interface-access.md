@@ -10,7 +10,7 @@ ms.assetid: 4442ea94-ea62-43e3-8160-3f787224cfdd
 ## In this section
 
 
-- [Access User Interface How Do I...](access-user-interface-how-do-i--.md)
+- [Access User Interface How Do I...](access-user-interface-how-do-i.md)
     
 -  **Ribbon**
     

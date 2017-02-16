@@ -29,13 +29,13 @@ You can use one of the predefined formats or you can create a custom format by u
 The  **Format** property uses different settings for different data types. For information about settings for a specific data type, see one of the following topics:
 
 
-- [Date/Time Data Type](format-property--date-time-data-type.md)
+- [Date/Time Data Type](format-propertydate-time-data-type.md)
     
-- [Number and Currency Data Types](format-property--number-and-currency-data-types.md)
+- [Number and Currency Data Types](format-propertynumber-and-currency-data-types.md)
     
-- [Text and Memo Data Types](format-property--text-and-memo-data-types.md)
+- [Text and Memo Data Types](format-propertytext-and-memo-data-types.md)
     
-- [Yes/No Data Type](format-property--yes-no-data-type.md)
+- [Yes/No Data Type](format-propertyyes-no-data-type.md)
     
 In Visual Basic, enter a string expression that corresponds to one of the predefined formats or enter a custom format.
 

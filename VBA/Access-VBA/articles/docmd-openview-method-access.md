@@ -12,7 +12,7 @@ ms.assetid: 8d2970dd-9a06-f917-04da-850b085126dd
 
 # DoCmd.OpenView Method (Access)
 
-The  **OpenView** method carries out the[OpenView](http://msdn.microsoft.com/library/openview-macro-action%28Office.15%29.aspx) action in Visual Basic.
+The  **OpenView** method carries out the[OpenView](http://msdn.microsoft.com/library/4d3b7e6d-4b81-4fbe-7222-24d745350321%28Office.15%29.aspx) action in Visual Basic.
 
 
 ## Syntax

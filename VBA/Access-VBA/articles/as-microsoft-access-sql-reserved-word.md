@@ -13,9 +13,9 @@ ms.assetid: 960015c2-b0c9-2f14-5158-85c14dc47f09
 
 The AS keyword is used in these contexts:
 
-[SELECT Statement](http://msdn.microsoft.com/library/select-statement-microsoft-access-sql%28Office.15%29.aspx)
-[CREATE VIEW Statement](http://msdn.microsoft.com/library/create-view-statement-microsoft-access-sql%28Office.15%29.aspx)
-[CREATE PROCEDURE Statement](http://msdn.microsoft.com/library/create-procedure-statement-microsoft-access-sql%28Office.15%29.aspx)
+[SELECT Statement](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx)
+[CREATE VIEW Statement](http://msdn.microsoft.com/library/ecaabd75-3081-fd35-830d-5a59b0a51922%28Office.15%29.aspx)
+[CREATE PROCEDURE Statement](http://msdn.microsoft.com/library/1fbb5267-9862-bfb4-6436-176152d7a6cd%28Office.15%29.aspx)
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

@@ -7,7 +7,7 @@ ms.assetid: 4b47967c-a043-cc8a-774f-1df0b529f29b
 
 # Prompt a User Before Saving a Record
 
-The following example illustrates how to use the [BeforeUpdate](B783FCAB-F697-A464-820C-712EAC46CB4B.md) event to prompt users to confirm their changes each time they save a record in a form.
+The following example illustrates how to use the [BeforeUpdate](form-beforeupdate-event-access.md) event to prompt users to confirm their changes each time they save a record in a form.
 
 
 ```vb

@@ -7,7 +7,7 @@ ms.assetid: 20482340-0c86-71c9-3ba1-b9f515397fbc
 
 # Hide a Subform if the Main Form Contains No Records
 
-The following example illustrates how to hide a subform named  _Orders_Subform_ if its main form does not contain any records. The code resides in the main form's **[Current](44961599-2B0A-874E-BE64-1E29F47F839F.md)** event procedure.
+The following example illustrates how to hide a subform named  _Orders_Subform_ if its main form does not contain any records. The code resides in the main form's **[Current](form-current-event-access.md)** event procedure.
 
 
 ```vb

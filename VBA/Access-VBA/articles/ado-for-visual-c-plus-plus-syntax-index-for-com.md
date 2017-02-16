@@ -17,23 +17,23 @@ If you use the  **#import** directive in your application, a header file will be
 All of the methods, properties, and events are functions that return an  **HRESULT**, which you can test to determine if the function executed successfully.
 Method and property syntax in Visual C++ is listed for the following elements:
 
-- [Collections](collections-ado-for-visual-c--syntax.md)
+- [Collections](collections-ado-for-visual-csyntax.md)
     
-- [Command object](command-ado-for-visual-c--syntax.md)
+- [Command object](command-ado-for-visual-csyntax.md)
     
-- [Connection object](connection-ado-for-visual-c--syntax.md)
+- [Connection object](connection-ado-for-visual-csyntax.md)
     
-- [Error object](error-ado-for-visual-c--syntax.md)
+- [Error object](error-ado-for-visual-csyntax.md)
     
-- [Field object](field-ado-for-visual-c--syntax.md)
+- [Field object](field-ado-for-visual-csyntax.md)
     
-- [Parameter object](parameter-ado-for-visual-c--syntax.md)
+- [Parameter object](parameter-ado-for-visual-csyntax.md)
     
-- [Record object](record-ado-for-visual-c--syntax.md)
+- [Record object](record-ado-for-visual-csyntax.md)
     
-- [Recordset object](recordset-ado-for-visual-c--syntax.md)
+- [Recordset object](recordset-ado-for-visual-csyntax.md)
     
-- [Stream object](stream-ado-for-visual-c--syntax.md)
+- [Stream object](stream-ado-for-visual-csyntax.md)
     
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

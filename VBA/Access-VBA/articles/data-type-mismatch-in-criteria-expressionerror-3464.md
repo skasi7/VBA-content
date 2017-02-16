@@ -16,7 +16,7 @@ ms.assetid: 199fb82f-b7e5-ff00-f57b-07616717008b
 
 The criteria expression in a Find method is attempting to compare a field with a value whose data type does not match the field's data type.
 
-For more information about this error, see [Type mismatch (Error 13)](http://msdn.microsoft.com/library/type-mismatch-error-13%28Office.15%29.aspx).
+For more information about this error, see [Type mismatch (Error 13)](http://msdn.microsoft.com/library/cbc7e902-b468-c335-5620-1ff9a2026b9b%28Office.15%29.aspx).
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

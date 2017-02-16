@@ -7,7 +7,7 @@ ms.assetid: d4d419ac-bf43-3356-4c20-e9bb74f9f591
 
 # Suspend Code Execution Until a Pop-up Form is Closed
 
-To ensure that code in a form suspends operation until a pop-up form is closed, you must open the pop-up form as a modalwindow. The following example illustrates how to use the  **[OpenForm](A1C9D3A9-2AF8-C30A-ACB0-6428C70DCDB0.md)** method to do this.
+To ensure that code in a form suspends operation until a pop-up form is closed, you must open the pop-up form as a modalwindow. The following example illustrates how to use the  **[OpenForm](docmd-openform-method-access.md)** method to do this.
 
 
 ```

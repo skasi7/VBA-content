@@ -11,7 +11,7 @@ ms.assetid: 8e7b613c-6dfc-5c47-5f96-67b7c18d294f
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/datacontrol-object-rds%28Office.15%29.aspx) parameters at design time and bind them to a data-aware control. Cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **DataControlDesignVBS.asp**. ASP script will identify your server.
+The following code shows how to set the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) parameters at design time and bind them to a data-aware control. Cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **DataControlDesignVBS.asp**. ASP script will identify your server.
 
 
 

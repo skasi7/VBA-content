@@ -181,7 +181,7 @@ A  **Report** object refers to a particular Microsoft Access report.
 |[PrtDevNames](report-prtdevnames-property-access.md)|You can use the  **PrtDevNames** property to set or return information about the printer selected in the **Print** dialog box for a form or report. Read/write **Variant**.|
 |[PrtMip](report-prtmip-property-access.md)|You can use the  **PrtMip** property in Visual Basic to set or return the device mode information specified for a form or report in the **Print** dialog box.|
 |[RecordLocks](report-recordlocks-property-access.md)|You can use the  **RecordLocks** property to determine how records are locked and what happens when two users try to edit the same record at the same time. Read/write.|
-|[Recordset](report-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](9774232C-E6DA-175B-FC7F-ED2AB7908FA0.md)** object representing the record source for the specified object. Read/write **Object**.|
+|[Recordset](report-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](recordset-object-dao.md)** object representing the record source for the specified object. Read/write **Object**.|
 |[RecordSource](report-recordsource-property-access.md)|You can use the  **RecordSource** property to specify the source of the data for a report. Read/write **String**.|
 |[RecordSourceQualifier](report-recordsourcequalifier-property-access.md)|Returns or sets a  **String** indicating the SQL Server owner name of the record source for the specified report. Read/write.|
 |[Report](report-report-property-access.md)|You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.|

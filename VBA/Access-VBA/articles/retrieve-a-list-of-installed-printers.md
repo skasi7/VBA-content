@@ -7,7 +7,7 @@ ms.assetid: e3162c3e-6b5b-77c3-32f9-1fdfa64cdefc
 
 # Retrieve a List of Installed Printers
 
-You use the  **[Printers](71383404-8244-6E9B-9C72-8963E0901901.md)** property of the **[Application](AEFB0713-97E6-E2C7-E530-8FD2E1316A55.md)** object to return the **[Printers](5200C507-75AE-F9A8-C737-C28E175E7EA4.md)** collection. The following procedure illustrates how to enumerate through each **Printer** object in the **Printers** collection by using a **For Each…Next** statement. A message box is displayed with information about each installed printer.
+You use the  **[Printers](application-printers-property-access.md)** property of the **[Application](application-object-access.md)** object to return the **[Printers](printers-object-access.md)** collection. The following procedure illustrates how to enumerate through each **Printer** object in the **Printers** collection by using a **For Each…Next** statement. A message box is displayed with information about each installed printer.
 
 
 ```vb

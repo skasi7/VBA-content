@@ -7,7 +7,7 @@ ms.assetid: 42a7ed77-e7cc-d945-00b2-9c10a3392223
 
 # Access Forms How Do I...
 
-This page links to help on widely used form-related tasks. To view other categories of popular tasks covered in Help, see [How Do I... in Access](how-do-i----access-vba-reference.md).
+This page links to help on widely used form-related tasks. To view other categories of popular tasks covered in Help, see [How Do I... in Access](how-do-i-access-vba-reference.md).
 
 
 ## User Input
@@ -49,7 +49,7 @@ This page links to help on widely used form-related tasks. To view other categor
 ## Controls
 
 
-- [How to: Add "(All)" to a Combo Box or List Box](add--all--to-a-combo-box-or-list-box.md)
+- [How to: Add "(All)" to a Combo Box or List Box](addallto-a-combo-box-or-list-box.md)
     
       - Describes how to add an  **(All)** entry at the top of a combo box.
     
@@ -61,7 +61,7 @@ This page links to help on widely used form-related tasks. To view other categor
     
       - Describes how to use the  **DLookup** function to display the value of a field that is not in the record source for your form or report.
     
-- [How to: Call Procedures in a Subform or Subreport](call-procedures-in-a-subform-or-subreport-1.md)
+- [How to: Call Procedures in a Subform or Subreport](call-procedures-in-a-subform-or-subreport.md)
     
       - Describes how to call a procedure that is stored in a subform or subreport form the main form or report.
     
@@ -85,7 +85,7 @@ This page links to help on widely used form-related tasks. To view other categor
 ## Design
 
 
-- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/how-to-apply-a-custom-ribbon-to-a-form-or-report%28Office.15%29.aspx)
+- [How to: Apply a Custom Ribbon to a Form or Report](http://msdn.microsoft.com/library/7dcdfa42-3eaa-43f9-b99d-56b2cac97f84%28Office.15%29.aspx)
     
       - Describes how to display a custom ribbon when a particular form or report is opened.
     
@@ -162,6 +162,6 @@ This page links to help on widely used form-related tasks. To view other categor
       - Describes how to set or retrieve printer settings for a specific form or report.
     
 
-- [How Do I... in Access](how-do-i----access-vba-reference.md)
+- [How Do I... in Access](how-do-i-access-vba-reference.md)
     
 

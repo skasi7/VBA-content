@@ -151,7 +151,7 @@ This object corresponds to a list box control. The list box control displays a l
 |[Parent](listbox-parent-property-access.md)|Returns the parent object for the specified object. Read-only.|
 |[Properties](listbox-properties-property-access.md)|Returns a reference to a control's **[Properties](properties-object-access.md)** collection object. Read-only.|
 |[ReadingOrder](listbox-readingorder-property-access.md)|You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.|
-|[Recordset](listbox-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](9774232C-E6DA-175B-FC7F-ED2AB7908FA0.md)** object representing the record source for the specified object. Read/write **Object**.|
+|[Recordset](listbox-recordset-property-access.md)|Returns or sets the ADO  **Recordset** or DAO **[Recordset](recordset-object-dao.md)** object representing the record source for the specified object. Read/write **Object**.|
 |[RightPadding](listbox-rightpadding-property-access.md)|Gets or sets the amount of space (in inches) between the list box and its right gridline. Read/write  **Integer**.|
 |[RowSource](listbox-rowsource-property-access.md)|You can use the  **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.|
 |[RowSourceType](listbox-rowsourcetype-property-access.md)|You can use the  **RowSourceType** property (along with the **RowSource** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.|

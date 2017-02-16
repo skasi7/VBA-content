@@ -12,7 +12,7 @@ ms.assetid: 34a5bdb9-8487-49ab-47f1-7c19ace4a633
 
 # Application.Assistance Property (Access)
 
-Returns an  **[IAssistance](http://msdn.microsoft.com/library/iassistance-object-office%28Office.15%29.aspx)** object that represents the Microsoft Office Help Viewer. Read-only.
+Returns an  **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)** object that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax

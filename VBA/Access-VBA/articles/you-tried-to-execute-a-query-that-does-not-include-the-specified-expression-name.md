@@ -22,9 +22,9 @@ Possible cause:
     
 For more information, see the following topics:
 
-- [Use Aggregate Functions to Work with Values in Access SQL](http://msdn.microsoft.com/library/use-aggregate-functions-to-work-with-values-in-access-sql%28Office.15%29.aspx)
+- [Use Aggregate Functions to Work with Values in Access SQL](http://msdn.microsoft.com/library/59ef6294-6840-d271-7711-bdbd78130db2%28Office.15%29.aspx)
     
-- [TRANSFORM Statement (Microsoft Access SQL)](http://msdn.microsoft.com/library/transform-statement-microsoft-access-sql%28Office.15%29.aspx)
+- [TRANSFORM Statement (Microsoft Access SQL)](http://msdn.microsoft.com/library/419770b1-c833-959d-a84d-56c68764799f%28Office.15%29.aspx)
     
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

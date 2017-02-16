@@ -14,13 +14,13 @@ ms.assetid: 095d59f5-98e6-93ed-9c87-f1606e94dc70
 This section of the ADO documentation contains reference topics for ADO, RDS, ADO MD, and ADOX.
 
 
-- [ADO API Reference](http://msdn.microsoft.com/library/ado-api-reference%28Office.15%29.aspx)
+- [ADO API Reference](http://msdn.microsoft.com/library/0fd6aff8-dbff-50c7-649f-2d9c31aedb2f%28Office.15%29.aspx)
     
-- [RDS API Reference](http://msdn.microsoft.com/library/rds-api-reference%28Office.15%29.aspx)
+- [RDS API Reference](http://msdn.microsoft.com/library/11ff3052-c76c-2e53-9bc3-abac5cd78681%28Office.15%29.aspx)
     
-- [ADO MD API Reference](http://msdn.microsoft.com/library/ado-md-api-reference%28Office.15%29.aspx)
+- [ADO MD API Reference](http://msdn.microsoft.com/library/897193ef-5b7c-78b2-cd88-92d19247fbaf%28Office.15%29.aspx)
     
-- [ADOX API Reference](http://msdn.microsoft.com/library/adox-api-reference%28Office.15%29.aspx)
+- [ADOX API Reference](http://msdn.microsoft.com/library/70965aa3-992d-c68f-a6e2-a48325561dfd%28Office.15%29.aspx)
     
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

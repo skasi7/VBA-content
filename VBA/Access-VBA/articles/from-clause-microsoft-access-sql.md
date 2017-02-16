@@ -17,7 +17,7 @@ ms.assetid: f3c5931e-2768-198e-d69c-095a01c23bb5
 [ Example](#sectionSection2)
 
 
-Specifies the tables or queries that contain the fields listed in the [SELECT](http://msdn.microsoft.com/library/select-statement-microsoft-access-sql%28Office.15%29.aspx) statement.
+Specifies the tables or queries that contain the fields listed in the [SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
 
 ## Syntax
 <a name="sectionSection0"> </a>
@@ -30,8 +30,8 @@ A SELECT statement containing a FROM clause has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, [SQL aggregate functions](http://msdn.microsoft.com/library/sql-aggregate-functions-sql%28Office.15%29.aspx), selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
-| _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](http://msdn.microsoft.com/library/inner-join-operation-microsoft-access-sql%28Office.15%29.aspx), [LEFT JOIN,](http://msdn.microsoft.com/library/left-join-right-join-operations-microsoft-access-sql%28Office.15%29.aspx) or[RIGHT JOIN](http://msdn.microsoft.com/library/left-join-right-join-operations-microsoft-access-sql%28Office.15%29.aspx).|
+| _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, [SQL aggregate functions](http://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
+| _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](http://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN,](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx) or[RIGHT JOIN](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
 | _externaldatabase_|The full path of an external database containing all the tables in  _tableexpression._|
 
 ## Remarks

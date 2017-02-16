@@ -7,7 +7,7 @@ ms.assetid: 9b160bd3-6eca-f907-ae5b-4327c3c1618e
 
 # Close a Report Automatically If It Does Not Contain Any Records
 
-The following example shows how to use the  **[NoData](FA5F22B1-3695-BD16-2CA3-B2A1CC1F1D94.md)** event to cancel opening or printing a report when it has no data. A message box notifying the user that the report has no data is also displayed.
+The following example shows how to use the  **[NoData](report-nodata-event-access.md)** event to cancel opening or printing a report when it has no data. A message box notifying the user that the report has no data is also displayed.
 
 
 ```vb

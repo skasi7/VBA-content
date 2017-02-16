@@ -10,7 +10,7 @@ ms.assetid: 517556ee-6f2c-4343-bde2-ca187590e628
 ## In this section
 
 
-- [Access Miscellaneous How Do I...](access-miscellaneous-how-do-i--.md)
+- [Access Miscellaneous How Do I...](access-miscellaneous-how-do-i.md)
     
 - [Date/Time](date-time.md)
     

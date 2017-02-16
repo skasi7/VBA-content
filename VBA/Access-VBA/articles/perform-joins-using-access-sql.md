@@ -7,12 +7,12 @@ ms.assetid: 1a19bc56-afd3-3917-b503-44b77078483d
 
 # Perform Joins Using Access SQL
 
-In a relational database system like Access, you often need to extract information from more than one table at a time. This can be accomplished by using an SQL  **[JOIN](78B2108A-85B6-A4E5-903D-D5EB74328770.md)** statement, which enables you to retrieve records from tables that have defined relationships, whether they are one-to-one, one-to-many, or many-to-many.
+In a relational database system like Access, you often need to extract information from more than one table at a time. This can be accomplished by using an SQL  **[JOIN](join-microsoft-access-sql-reserved-word.md)** statement, which enables you to retrieve records from tables that have defined relationships, whether they are one-to-one, one-to-many, or many-to-many.
 
 
 ## INNER JOINs
 
-The  **[INNER JOIN](http://msdn.microsoft.com/library/8D16C74C-02C6-12B7-B180-3E7744EF65F3%28Office.15%29.aspx)**, also known as an equi-join, is the most commonly used type of join. This join is used to retrieve rows from two or more tables by matching a field value that is common between the tables. The fields you join on must have similar data types, and you cannot join on MEMO or OLEOBJECT data types. To build an **INNER JOIN** statement, use the **INNER JOIN** keywords in the **[FROM](F3C5931E-2768-198E-D69C-095A01C23BB5.md)** clause of a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. This example uses the **INNER JOIN** to build a result set of all customers who have invoices, in addition to the dates and amounts of those invoices.
+The  **[INNER JOIN](http://msdn.microsoft.com/library/8D16C74C-02C6-12B7-B180-3E7744EF65F3%28Office.15%29.aspx)**, also known as an equi-join, is the most commonly used type of join. This join is used to retrieve rows from two or more tables by matching a field value that is common between the tables. The fields you join on must have similar data types, and you cannot join on MEMO or OLEOBJECT data types. To build an **INNER JOIN** statement, use the **INNER JOIN** keywords in the **[FROM](from-clause-microsoft-access-sql.md)** clause of a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. This example uses the **INNER JOIN** to build a result set of all customers who have invoices, in addition to the dates and amounts of those invoices.
 
 
 ```sql
@@ -24,7 +24,7 @@ SELECT [Last Name], InvoiceDate, Amount
 
 Be aware that the table names are divided by the  **INNER JOIN** keywords and that the relational comparison is after the **ON** keyword. For the relational comparisons, you can also use the <, >, <=, >=, or <> operators, and you can also use the **BETWEEN** keyword. Also note that the ID fields from both tables are used only in the relational comparison; they are not part of the final result set.
 
-To further qualify the  **SELECT** statement, you can use a **[WHERE](67E4CAED-6512-E8BD-39D0-6DCA18114B18.md)** clause after the join comparison in the **ON** clause. The following example narrows the result set to include only invoices dated after January 1, 1998.
+To further qualify the  **SELECT** statement, you can use a **[WHERE](where-clause-microsoft-access-sql.md)** clause after the join comparison in the **ON** clause. The following example narrows the result set to include only invoices dated after January 1, 1998.
 
 
 
@@ -68,7 +68,7 @@ SELECT tblCustomers.[Last Name],
 
 ## OUTER JOINs
 
-An  **[OUTER JOIN](http://msdn.microsoft.com/library/left-join-right-join-operations-microsoft-access-sql%28Office.15%29.aspx)** is used to retrieve records from multiple tables while preserving records from one of the tables, even if there is no matching record in the other table. There are two types of **OUTER JOINs** that the Access database engine supports: **LEFT OUTER JOINs** and **RIGHT OUTER JOINs**. Think of two tables that are beside each other, a table on the left and a table on the right. The ** LEFT OUTER JOIN** selects all rows in the right table that match the relational comparison criteria, and also selects all rows from the left table, even if no match exists in the right table. The **RIGHT OUTER JOIN** is simply the reverse of the **LEFT OUTER JOIN**; all rows in the right table are preserved instead.
+An  **[OUTER JOIN](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx)** is used to retrieve records from multiple tables while preserving records from one of the tables, even if there is no matching record in the other table. There are two types of **OUTER JOINs** that the Access database engine supports: **LEFT OUTER JOINs** and **RIGHT OUTER JOINs**. Think of two tables that are beside each other, a table on the left and a table on the right. The ** LEFT OUTER JOIN** selects all rows in the right table that match the relational comparison criteria, and also selects all rows from the left table, even if no match exists in the right table. The **RIGHT OUTER JOIN** is simply the reverse of the **LEFT OUTER JOIN**; all rows in the right table are preserved instead.
 
 As an example, suppose that you want to determine the total amount invoiced to each customer, but if a customer has no invoices, you want to show it by displaying the word "NONE."
 
@@ -114,7 +114,7 @@ SELECT [Last Name], [First Name], Email
    FROM tblEmployees 
 ```
 
-To retrieve all fields from both tables, you could use the  **[TABLE](3E6F29D8-7EC0-5261-C22D-96122D4E7F7B.md)** keyword, like this.
+To retrieve all fields from both tables, you could use the  **[TABLE](table-microsoft-access-sql-reserved-word.md)** keyword, like this.
 
 
 
@@ -125,7 +125,7 @@ UNION
 TABLE tblEmployees 
 ```
 
-The  **UNION** operator will not display any records that are exact duplicates in both tables, but this can be overridden by using the **[ALL](1361F1C1-F99D-8952-A885-D13DCDD7CB1D.md)** predicate after the **UNION** keyword, like this:
+The  **UNION** operator will not display any records that are exact duplicates in both tables, but this can be overridden by using the **[ALL](all-microsoft-access-sql-reserved-word.md)** predicate after the **UNION** keyword, like this:
 
 
 
@@ -171,6 +171,6 @@ PIVOT Format(InvoiceDate, 'yyyy')
    IN ('1996','1997','1998','1999','2000') 
 ```
 
-Be aware that the aggregating function is the  **[Sum](02498420-F177-521C-EF81-E2F7EA02B231.md)** function, the vertical headings are in the **[GROUP BY](FE7D5E27-A47A-1229-232C-CF6A0CBAD761.md)** clause of the **SELECT** statement, and the horizontal headings are determined by the field listed after the **PIVOT** keyword.
+Be aware that the aggregating function is the  **[Sum](sum-function-microsoft-access-sql.md)** function, the vertical headings are in the **[GROUP BY](group-by-clause-microsoft-access-sql.md)** clause of the **SELECT** statement, and the horizontal headings are determined by the field listed after the **PIVOT** keyword.
 
 

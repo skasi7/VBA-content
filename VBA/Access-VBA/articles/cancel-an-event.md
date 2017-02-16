@@ -7,7 +7,7 @@ ms.assetid: f91f4f8a-99fa-dca7-576a-11c76d6ddc93
 
 # Cancel an Event
 
-Under some circumstances, you may want to include code in an event procedure that cancels the associated event. For example, you may want to include code that cancels the  **[Open](8638E6D9-29AF-A007-44F5-9BADA14ADB29.md)** event in an **Open** event procedure for a form, preventing the form from opening if certain conditions are not met.
+Under some circumstances, you may want to include code in an event procedure that cancels the associated event. For example, you may want to include code that cancels the  **[Open](form-open-event-access.md)** event in an **Open** event procedure for a form, preventing the form from opening if certain conditions are not met.
 
 You can cancel the following events:
 
