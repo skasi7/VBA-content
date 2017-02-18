@@ -21,9 +21,9 @@ Use the following code examples to learn how to use the RDS objects, methods, pr
     
 - [RDS Code Examples in Microsoft Visual Basic Scripting Edition](rds-code-examples-in-microsoft-visual-basic-scripting-edition.md)
     
-- [RDS Code Examples in Microsoft Visual C++](rds-code-examples-in-microsoft-visual-c.md)
+- [RDS Code Examples in Microsoft Visual C++](rds-code-examples-in-microsoft-visual-c-plus-plus.md)
     
-- [RDS Code Examples in Microsoft Visual J++](rds-code-examples-in-microsoft-visual-j.md)
+- [RDS Code Examples in Microsoft Visual J++](rds-code-examples-in-microsoft-visual-j-plus-plus.md)
     
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

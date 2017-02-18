@@ -13,7 +13,7 @@ This page links to help on widely used data-access tasks. To view other categori
 ## Structured Query Language (SQL)
 
 
-- [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls-1.md)
+- [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
     
       - Describes how to to construct an SQL statement that includes variables and control values in code.
     
@@ -57,7 +57,7 @@ This page links to help on widely used data-access tasks. To view other categori
     
       - Describes how to add a new record to a table-type or dynaset-type Recordset.
     
-- [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls-1.md)
+- [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
     
       - Describes how to construct an SQL statement that includes variables and control values in code.
     
@@ -173,7 +173,7 @@ This page links to help on widely used data-access tasks. To view other categori
     
       - Describes how to set a form's  **Recordset** property to an open ADO **Recordset** object.
     
-- [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls-1.md)
+- [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
     
       - Describes how to construct an SQL statement that includes variables and control values in code.
     

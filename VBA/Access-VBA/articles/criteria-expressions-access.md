@@ -28,7 +28,7 @@ ms.assetid: 2e8a72ca-57de-4609-b756-2953a6a2dbe9
     
 - [Restrict Data to a Subset of Records](restrict-data-to-a-subset-of-records.md)
     
-- [Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions-1.md)
+- [Calculate Fields in Domain Aggregate Functions](calculate-fields-in-domain-aggregate-functions.md)
     
 - [Functions (Alphabetical List)](functions-alphabetical-list.md)
     

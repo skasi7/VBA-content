@@ -51,7 +51,7 @@ Use the following code examples to learn how to use the RDS objects, methods, an
     
 - [Refresh Method Example](refresh-method-example-vbscript.md)
     
-- [Reset Method Example](filtercolumn-filtercriterion-filtervalue-sortcolumn-and-sortdirection-properties-and-reset-method-example-vbscript.md)
+- [Reset Method Example](filtercolumn-filtercriterion-filtervalue-sortcolumn-and-sortdirection-properties.md)
     
 - [SubmitChanges Method Example](submitchanges-method-example-vbscript.md)
     
@@ -64,7 +64,7 @@ Use the following code examples to learn how to use the RDS objects, methods, an
     
 - [ExecuteOptions and FetchOptions Properties Example](executeoptions-and-fetchoptions-properties-example-vbscript.md)
     
-- [FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties Example](filtercolumn-filtercriterion-filtervalue-sortcolumn-and-sortdirection-properties-and-reset-method-example-vbscript.md)
+- [FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties Example](filtercolumn-filtercriterion-filtervalue-sortcolumn-and-sortdirection-properties.md)
     
 - [ReadyState Property Example](readystate-property-example-vbscript.md)
     

@@ -16,5 +16,5 @@ You can set most properties from Visual Basic code. How you set a property depen
 
 [Set Properties of ActiveX Data Objects in Visual Basic](set-properties-of-activex-data-objects-in-visual-basic.md)
 
-[Set Properties of Data Access Objects in Visual Basic](set-properties-of-data-access-objects-in-visual-basic-1.md)
+[Set Properties of Data Access Objects in Visual Basic](set-properties-of-data-access-objects-in-visual-basic.md)
 

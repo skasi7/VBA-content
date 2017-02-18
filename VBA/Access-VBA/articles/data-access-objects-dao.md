@@ -12,7 +12,7 @@ ms.assetid: a5096d12-6ffb-42cd-adb1-f886a9b13fca
 
 - [Add a Record to a DAO Recordset](add-a-record-to-a-dao-recordset.md)
     
-- [Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls-1.md)
+- [Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
     
 - [Change Tables Involved in a One-to-Many Relationship in a DAO Recordset](change-tables-involved-in-a-one-to-many-relationship-in-a-dao-recordset.md)
     
