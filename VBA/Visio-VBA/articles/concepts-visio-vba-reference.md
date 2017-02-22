@@ -34,7 +34,7 @@ This navigation page contains links to overview topics about programmability in 
     
 -  [DoCmd/DOCMD Commands](docmd-docmd-commands.md)
     
--  [Event Codes](event-codes-visio.md)
+-  [Event Codes](event-codesvisio.md)
     
 -  [Sample VBA Macro](sample-vba-macro-visio.md)
     

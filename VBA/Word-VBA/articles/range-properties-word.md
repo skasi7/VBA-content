@@ -105,7 +105,7 @@ ms.assetid: 4639f5ff-36fa-493f-9ce0-54862d5bb5c8
 |[TopLevelTables](range-topleveltables-property-word.md)|Returns a  **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.|
 |[TwoLinesInOne](range-twolinesinone-property-word.md)|Returns or sets whether Microsoft Word sets two lines of text in one and specifies the characters that enclose the text, if any. Read/write  **WdTwoLinesInOneType** .|
 |[Underline](range-underline-property-word.md)|Returns or sets the type of underline applied to a range. Read/write  **WdUnderline** .|
-|[Updates](range-updates-property-word.md)|Returns a [CoAuthUpdates](coauthupdates-object-word.md) collection object that represents all updates that were merged into the specified range at the last explicit save. Read-only.|
+|[Updates](range-updates-property-word.md)|Returns a [CoAuthUpdates](coauthupdates-object-word-1.md) collection object that represents all updates that were merged into the specified range at the last explicit save. Read-only.|
 |[WordOpenXML](range-wordopenxml-property-word.md)|Returns a  **String** that represents the XML contained within the range in the Microsoft Word Open XML format. Read-only.|
 |[Words](range-words-property-word.md)|Returns a  **Words** collection that represents all the words in a range. Read-only.|
 |[XML](range-xml-property-word.md)|Returns a  **String** that represents the XML text in the specified object. .|

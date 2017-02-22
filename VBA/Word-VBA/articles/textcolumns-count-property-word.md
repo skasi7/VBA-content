@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of text columns in the collection
 
  _expression_ . **Count**
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ## See also
@@ -28,5 +28,5 @@ Returns a  **Long** that represents the number of text columns in the collection
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

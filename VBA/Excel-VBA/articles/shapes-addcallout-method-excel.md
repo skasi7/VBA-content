@@ -28,7 +28,7 @@ ms.assetid: b98ea95d-210b-34cc-c999-e7ce0a3e3a72
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[MsoCalloutType](http://msdn.microsoft.com/library/msocallouttype-enumeration-office%28Office.15%29.aspx)**|The type of callout line.|
+| _Type_|Required| **[MsoCalloutType](http://msdn.microsoft.com/library/65548284-0241-f013-ea54-93099fdbf1cc%28Office.15%29.aspx)**|The type of callout line.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the callout's bounding box relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the callout's bounding box relative to the upper-left corner of the document.|
 | _Width_|Required| **Single**|The width of the callout's bounding box, in points.|

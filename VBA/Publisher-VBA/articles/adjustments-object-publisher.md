@@ -19,7 +19,7 @@ Contains a collection of adjustment values for the specified AutoShape or WordAr
 
 Each adjustment value represents one way an adjustment handle can be adjusted. Because some adjustment handles can be adjusted in two ways ? for instance, some handles can be adjusted both horizontally and vertically ? a shape can have more adjustment values than it has adjustment handles. A shape can have up to eight adjustments.
 
-Use the  **[Adjustments](http://msdn.microsoft.com/library/shape-adjustments-property-publisher%28Office.15%29.aspx)** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
+Use the  **[Adjustments](http://msdn.microsoft.com/library/14794cba-c671-51e3-0aac-52e885a4ba7f%28Office.15%29.aspx)** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
 
 Different shapes have different numbers of adjustment values, different kinds of adjustments change the geometry of a shape in different ways, and different kinds of adjustments have different ranges of valid values.
 
@@ -58,10 +58,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/adjustments-application-property-publisher%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/adjustments-count-property-publisher%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/adjustments-item-property-publisher%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/adjustments-parent-property-publisher%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/9782bcd4-91ac-4ea3-4db7-f87b9b7c00ee%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/1b32f1c3-0bbc-a175-4f59-36cc76df12fd%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/9adba87a-d09d-b024-f889-4dcdab961561%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/2114d703-194b-d6fa-08e9-53637a8a2010%28Office.15%29.aspx)|
 
 ## See also
 
@@ -69,4 +69,4 @@ End Sub
 #### Other resources
 
 
-[Adjustments Object Members](http://msdn.microsoft.com/library/adjustments-members-publisher%28Office.15%29.aspx)
+[Adjustments Object Members](http://msdn.microsoft.com/library/76d7aeb4-1631-d81c-2fd0-bb71ca739fc4%28Office.15%29.aspx)

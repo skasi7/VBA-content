@@ -12,7 +12,7 @@ ms.assetid: 8f6ca2cb-b0cc-a0bf-efc0-ee30ca3888e6
 
 # SparklineGroup.ModifyLocation Method (Excel)
 
-Sets the associated  **[Range](http://msdn.microsoft.com/library/range-object%28Office.15%29.aspx)** object to modify the location of the sparkline group.
+Sets the associated  **[Range](http://msdn.microsoft.com/library/8bc4841b-72f7-34b5-a299-3357bf8f457b%28Office.15%29.aspx)** object to modify the location of the sparkline group.
 
 
 ## Syntax

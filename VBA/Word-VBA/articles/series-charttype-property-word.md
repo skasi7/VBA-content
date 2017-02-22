@@ -12,7 +12,7 @@ ms.assetid: 9c87da56-c628-5aaf-d0c6-7cf04bf646f7
 
 # Series.ChartType Property (Word)
 
-Returns or sets the chart type. Read/write  **[XlChartType](http://msdn.microsoft.com/library/xlcharttype-enumeration-excel%28Office.15%29.aspx)** .
+Returns or sets the chart type. Read/write  **[XlChartType](http://msdn.microsoft.com/library/bba4ee89-ee91-f55a-d2e0-59a73e5bfabe%28Office.15%29.aspx)** .
 
 
 ## Syntax

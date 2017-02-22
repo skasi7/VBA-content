@@ -12,7 +12,7 @@ ms.assetid: 0bfe9d01-543c-9ea8-8ff6-2032f056b070
 
 # Application.FeatureInstall Property (Excel)
 
-Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](http://msdn.microsoft.com/library/msofeatureinstall-enumeration-office%28Office.15%29.aspx)** constants listed in the following table. Read/write **MsoFeatureInstall** .
+Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](http://msdn.microsoft.com/library/25256738-d169-5c00-1d5d-eb8019811976%28Office.15%29.aspx)** constants listed in the following table. Read/write **MsoFeatureInstall** .
 
 
 ## Syntax

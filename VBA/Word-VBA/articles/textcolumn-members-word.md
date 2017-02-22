@@ -6,9 +6,9 @@ ms.assetid: 70dcaaab-c8cd-2e97-e572-485f7189b071
 
 
 # TextColumn Members (Word)
-Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](textcolumns-object-word.md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
+Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](textcolumns-objectword.md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
 
-Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](textcolumns-object-word.md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
+Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](textcolumns-objectword.md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
 
 
 ## Properties

@@ -61,7 +61,7 @@ If you specify the  **[Subject](storageitem-subject-property-outlook.md)** of th
 
 The  **[Size](storageitem-size-property-outlook.md)** of a **StorageItem** that is newly created is zero (0) until you make an explicit call on the **[Save](storageitem-save-method-outlook.md)** method of the item.
 
-For more information on storing data for a solution, see [Storing Data for Solutions](http://msdn.microsoft.com/library/storing-data-for-solutions%28Office.15%29.aspx).
+For more information on storing data for a solution, see [Storing Data for Solutions](http://msdn.microsoft.com/library/58e69983-5718-4dde-64fc-858abd80c9e5%28Office.15%29.aspx).
 
 
 ## Example

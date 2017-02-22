@@ -37,7 +37,7 @@ Set objUndo = Application.UndoRecord
 #### Other resources
 
 
-[Working With the UndoRecord Object](http://msdn.microsoft.com/library/working-with-the-undorecord-object%28Office.15%29.aspx)
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Working With the UndoRecord Object](http://msdn.microsoft.com/library/e9df1047-5a1a-91da-3673-7e64b668552d%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 
 

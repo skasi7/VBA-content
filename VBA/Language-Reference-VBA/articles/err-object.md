@@ -53,7 +53,7 @@ End If
 
 #### Concepts
 
-[Handle Run-Time Errors in VBA](../../Access-VBA/articles/elements-of-run-time-error-handling.md)
+[Handle Run-Time Errors in VBA](../Language-Reference-VBA/elements-of-run-time-error-handling.md)
 
 #### Other resources
 

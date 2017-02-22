@@ -24,6 +24,6 @@ The default event for a  **ListBox** is the Click event.
 
 ## Related Topics
 
-[ListBox Object](http://msdn.microsoft.com/library/listbox-object-reference-outlook-forms-script%28Office.15%29.aspx)
+[ListBox Object](http://msdn.microsoft.com/library/36bc3f8b-6411-444c-b849-7e8b213c50fe%28Office.15%29.aspx)
 
 

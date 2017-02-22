@@ -32,7 +32,7 @@ If the  **[Click](olktimecontrol-click-event-outlook.md)** event is implemented 
 
 If you bind the time control to the start time or the end time of an appointment item, you must use an add-in to control enabling and disabling of the time control. In particular, when the user sets the appointment as an all-day event, you must use code to disable the time controls for the start time and the end time, and enable the controls only when the user clears this setting.
 
-For more information about Outlook controls, see [Controls in a Custom Form](http://msdn.microsoft.com/library/controls-in-a-custom-form%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
+For more information about Outlook controls, see [Controls in a Custom Form](http://msdn.microsoft.com/library/fcba1b34-c526-5d01-8644-cb8852bd2348%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 
 
 ## Events
@@ -96,4 +96,4 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

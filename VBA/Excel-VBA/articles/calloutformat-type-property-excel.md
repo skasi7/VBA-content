@@ -12,7 +12,7 @@ ms.assetid: f357bfcb-2875-4d2b-b303-c0cd03f2645d
 
 # CalloutFormat.Type Property (Excel)
 
-Returns or sets a  **[MsoCalloutType](http://msdn.microsoft.com/library/msocallouttype-enumeration-office%28Office.15%29.aspx)** value that represents the callout format type.
+Returns or sets a  **[MsoCalloutType](http://msdn.microsoft.com/library/65548284-0241-f013-ea54-93099fdbf1cc%28Office.15%29.aspx)** value that represents the callout format type.
 
 
 ## Syntax

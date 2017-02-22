@@ -22,7 +22,7 @@ ms.assetid: 23cb44fa-2ff1-40df-a830-4c95f5652e20
     
 -  [List the Groups that My Manager Belongs to](list-the-groups-that-my-manager-belongs-to.md)
     
--  [List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List](list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distribution-list.md)
+-  [List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List](list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distr.md)
     
 -  [Map a Display Name to an E-mail Address](map-a-display-name-to-an-e-mail-address.md)
     

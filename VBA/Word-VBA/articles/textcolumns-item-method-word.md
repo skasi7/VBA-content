@@ -19,7 +19,7 @@ Returns an individual  **TextColumn** object in a collection.
 
  _expression_ . **Item**( **_Index_** )
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ### Parameters
@@ -41,5 +41,5 @@ TextColumn
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

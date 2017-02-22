@@ -17,7 +17,7 @@ A set of  **[Store](store-object-outlook.md)** objects representing all the stor
 
 ## Remarks
 
-You can use the  **Stores** and **Store** objects to enumerate all folders and search folders on all stores in the current session. For more information on storing Outlook items in folders and stores, see[Storing Outlook Items](http://msdn.microsoft.com/library/storing-outlook-items%28Office.15%29.aspx).
+You can use the  **Stores** and **Store** objects to enumerate all folders and search folders on all stores in the current session. For more information on storing Outlook items in folders and stores, see[Storing Outlook Items](http://msdn.microsoft.com/library/e4a639a4-10b2-7665-9261-19d6e7707e48%28Office.15%29.aspx).
 
 
 ## Example
@@ -94,8 +94,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[BeforeStoreRemove](http://msdn.microsoft.com/library/stores-beforestoreremove-event-outlook%28Office.15%29.aspx)|
-|[StoreAdd](http://msdn.microsoft.com/library/stores-storeadd-event-outlook%28Office.15%29.aspx)|
+|[BeforeStoreRemove](http://msdn.microsoft.com/library/b21d4854-3da5-5c01-cbc1-098bb505466e%28Office.15%29.aspx)|
+|[StoreAdd](http://msdn.microsoft.com/library/26e7eddc-9c5a-ffff-d574-afa48e5953d8%28Office.15%29.aspx)|
 
 ## Methods
 
@@ -103,7 +103,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Item](http://msdn.microsoft.com/library/stores-item-method-outlook%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/b516241a-7baf-b04b-027d-25de80058fbe%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -111,11 +111,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/stores-application-property-outlook%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/stores-class-property-outlook%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/stores-count-property-outlook%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/stores-parent-property-outlook%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/stores-session-property-outlook%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/9605ade2-fe86-30a6-ea1d-787498bf20a5%28Office.15%29.aspx)|
+|[Class](http://msdn.microsoft.com/library/fb2b9b17-052c-9b25-53ee-b8fcd9e72cc8%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/218d55b5-8394-146b-46eb-d57f444688e8%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/d737cf58-fc6e-a6a1-5144-c294ffbcc314%28Office.15%29.aspx)|
+|[Session](http://msdn.microsoft.com/library/aea9466c-4b22-10fa-7938-d12f4f193148%28Office.15%29.aspx)|
 
 ## See also
 
@@ -123,5 +123,5 @@ End Sub
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
-[Stores Object Members](http://msdn.microsoft.com/library/stores-members-outlook%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Stores Object Members](http://msdn.microsoft.com/library/f3fec99a-54b2-c13e-d96a-c8c5e2429f99%28Office.15%29.aspx)

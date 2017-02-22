@@ -12,7 +12,7 @@ ms.assetid: cbbdfda7-a193-9fb8-8cc3-393e03a1f335
 
 # ShadowFormat.Type Property (Excel)
 
-Returns or sets a  **[MsoShadowType](http://msdn.microsoft.com/library/msoshadowtype-enumeration-office%28Office.15%29.aspx)** value that represents the shadow format type.
+Returns or sets a  **[MsoShadowType](http://msdn.microsoft.com/library/736e847a-00a1-098c-25a1-15faf8acfad7%28Office.15%29.aspx)** value that represents the shadow format type.
 
 
 ## Syntax

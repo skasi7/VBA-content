@@ -19,7 +19,7 @@ Returns or sets the direction in which text flows from one text column to the ne
 
  _expression_ . **FlowDirection**
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ## Example
@@ -39,5 +39,5 @@ ActiveDocument.PageSetup.TextColumns.FlowDirection = _
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

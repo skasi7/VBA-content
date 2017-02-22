@@ -12,7 +12,7 @@ ms.assetid: 7d6a6f4b-d55c-085e-1dab-c76ddbbb54ae
 
 # Shape.ShapeStyle Property (Word)
 
-Returns or sets the shape style for the specified shape. Read/write  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/msoshapestyleindex-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the shape style for the specified shape. Read/write  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/61f34054-28e7-6891-5442-3598d64284a0%28Office.15%29.aspx)** .
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Arranges text into the specified number of text columns.
 
  _expression_ . **SetCount**( **_NumColumns_** )
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ### Parameters
@@ -61,5 +61,5 @@ Documents("Brochure.doc").Sections(1) _
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

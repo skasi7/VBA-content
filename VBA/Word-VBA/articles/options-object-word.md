@@ -275,7 +275,7 @@ End With
 |[UseCharacterUnit](options-usecharacterunit-property-word.md)|
 |[UseDiffDiacColor](options-usediffdiaccolor-property-word.md)|
 |[UseGermanSpellingReform](options-usegermanspellingreform-property-word.md)|
-|[UseLocalUserInfo](options-uselocaluserinfo-property-word-1.md)|
+|[UseLocalUserInfo](options-uselocaluserinfo-property-word.md)|
 |[UseNormalStyleForList](options-usenormalstyleforlist-property-word.md)|
 |[UseSubPixelPositioning](options-usesubpixelpositioning-property-word.md)|
 |[VisualSelection](options-visualselection-property-word.md)|
@@ -287,4 +287,4 @@ End With
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

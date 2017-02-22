@@ -19,5 +19,5 @@ ms.assetid: 824880ef-9e74-4e71-bff0-b5a3198c16d0
 |[Item](validationissues-item-property-visio.md)|Returns the  **[ValidationIssue](validationissue-object-visio.md)** object that has the specified name or index position. The **Item** property is the default property for all collections. Read-only.|
 |[ItemFromID](validationissues-itemfromid-property-visio.md)|Returns the  **[ValidationIssue](validationissue-object-visio.md)** object that matches the specified ID. Read-only.|
 |[ObjectType](validationissues-objecttype-property-visio.md)|Returns  **visObjTypeValidationIssues** , the type of this object. Read-only.|
-|[Stat](validationissues-stat-property-visio-1.md)|Returns status information for an object. Read-only.|
+|[Stat](validationissues-stat-property-visio.md)|Returns status information for an object. Read-only.|
 

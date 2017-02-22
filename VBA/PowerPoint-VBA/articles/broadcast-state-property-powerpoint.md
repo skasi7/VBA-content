@@ -9,7 +9,7 @@ ms.assetid: efcd8513-3503-08ac-b8e0-efdf715ee8ac
 
 # Broadcast.State Property (PowerPoint)
 
-Returns an [MSOBroadcastState](http://msdn.microsoft.com/library/msobroadcaststate-enumeration-office%28Office.15%29.aspx) constant that describes the current broadcast state. Read-only.
+Returns an [MSOBroadcastState](http://msdn.microsoft.com/library/383160db-9f27-b17f-d43c-4d09813d80b4%28Office.15%29.aspx) constant that describes the current broadcast state. Read-only.
 
 
 ## Syntax

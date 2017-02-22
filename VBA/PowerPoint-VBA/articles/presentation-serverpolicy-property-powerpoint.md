@@ -10,7 +10,7 @@ ms.assetid: 65e50d32-96f8-63b8-6499-388bf6c61e37
 
 # Presentation.ServerPolicy Property (PowerPoint)
 
-Returns a Microsoft Office  **[ServerPolicy](http://msdn.microsoft.com/library/serverpolicy-object-office%28Office.15%29.aspx)** object. Read-only.
+Returns a Microsoft Office  **[ServerPolicy](http://msdn.microsoft.com/library/ce2a63d2-5deb-b94b-45d7-ed84e9be7deb%28Office.15%29.aspx)** object. Read-only.
 
 
 ## Syntax

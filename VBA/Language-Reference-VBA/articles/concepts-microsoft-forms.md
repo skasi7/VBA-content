@@ -46,7 +46,7 @@ ms.assetid: 13f7683b-9bc5-4036-b79d-edd774a3613d
     
 - [ByVal References in Microsoft Forms](byval-references-in-microsoft-forms.md)
     
-- [Center controls in a form](center-controls-in-a-form-1.md)
+- [Center controls in a form](center-controls-in-a-form.md)
     
 - [Change the location of the form](change-the-location-of-the-form.md)
     
@@ -118,7 +118,7 @@ ms.assetid: 13f7683b-9bc5-4036-b79d-edd774a3613d
     
 - [Should I use a MultiPage or a TabStrip?](should-i-use-a-multipage-or-a-tabstrip.md)
     
-- [Show or hide the grid](show-or-hide-the-grid-1.md)
+- [Show or hide the grid](show-or-hide-the-grid.md)
     
 - [Show or hide ToolTips](show-or-hide-tooltips.md)
     

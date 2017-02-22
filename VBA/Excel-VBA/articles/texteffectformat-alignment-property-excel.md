@@ -12,7 +12,7 @@ ms.assetid: 0a86ac22-9496-d801-0cfb-a9fca5c30fec
 
 # TextEffectFormat.Alignment Property (Excel)
 
-Returns or sets an  **[MsoTextEffectAlignment](http://msdn.microsoft.com/library/msotexteffectalignment-enumeration-office%28Office.15%29.aspx)** value that represents the alignment for WordArt.
+Returns or sets an  **[MsoTextEffectAlignment](http://msdn.microsoft.com/library/5a165109-c820-bbc2-235b-a24807abd0d0%28Office.15%29.aspx)** value that represents the alignment for WordArt.
 
 
 ## Syntax

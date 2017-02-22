@@ -12,7 +12,7 @@ ms.assetid: 0d9eaff5-3ebc-572c-e188-d39848fa9bd2
 
 # LineFormat.EndArrowheadStyle Property (Excel)
 
-Returns or sets the style of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadStyle](http://msdn.microsoft.com/library/msoarrowheadstyle-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the style of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadStyle](http://msdn.microsoft.com/library/e598631e-dad9-649b-767b-99e7e7ea83da%28Office.15%29.aspx)** .
 
 
 ## Syntax

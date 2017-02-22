@@ -12,7 +12,7 @@ ms.assetid: ce25e66e-6446-1c43-1ab5-0ec486311ef2
 
 # ShapeRange.Child Property (Excel)
 
-Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

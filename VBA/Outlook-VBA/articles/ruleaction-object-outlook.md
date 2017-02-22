@@ -36,7 +36,7 @@ Represents an action that is run when a  **[Rule](rule-object-outlook.md)** obje
 
 The Rules object model provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. It supports the most commonly used rule actions and conditions. Although it does not support creating rules with each rule action or rule condition that the Wizard supports, you can still enumerate and enable these rule actions and conditions in existing rules. 
 
-For more information on rule actions, see [Specifying Rule Actions](http://msdn.microsoft.com/library/specifying-rule-actions%28Office.15%29.aspx) and[How to: Create a Rule to Move Specific E-mails to a Folder](http://msdn.microsoft.com/library/create-a-rule-to-move-specific-e-mails-to-a-folder%28Office.15%29.aspx).
+For more information on rule actions, see [Specifying Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx) and[How to: Create a Rule to Move Specific E-mails to a Folder](http://msdn.microsoft.com/library/e72fa307-8224-c2d2-1318-a18cd8e9f22f%28Office.15%29.aspx).
 
 
 ## Properties
@@ -58,4 +58,4 @@ For more information on rule actions, see [Specifying Rule Actions](http://msdn.
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

@@ -19,7 +19,7 @@ Returns or sets the width of the Word art text effects, in points. Read/write  *
 
  _expression_ . **Width**
 
- _expression_ A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ## See also
@@ -28,5 +28,5 @@ Returns or sets the width of the Word art text effects, in points. Read/write  *
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

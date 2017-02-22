@@ -12,7 +12,7 @@ ms.assetid: d01ce275-e47c-d7ce-c9a7-01f70badb244
 
 # LineFormat.Style Property (Excel)
 
-Returns or sets a  **[MsoLineStyle](http://msdn.microsoft.com/library/msolinestyle-enumeration-office%28Office.15%29.aspx)** value that represents the style of the line.
+Returns or sets a  **[MsoLineStyle](http://msdn.microsoft.com/library/888c4d9c-a20d-f71a-faa9-8ea0275efd4e%28Office.15%29.aspx)** value that represents the style of the line.
 
 
 ## Syntax

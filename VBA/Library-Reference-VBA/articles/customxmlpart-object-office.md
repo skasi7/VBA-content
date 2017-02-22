@@ -36,5 +36,5 @@ End Sub
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[CustomXMLPart Object Members](http://msdn.microsoft.com/library/customxmlpart-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[CustomXMLPart Object Members](http://msdn.microsoft.com/library/76fe85f4-5a35-7d12-2989-6f17a094dcdf%28Office.15%29.aspx)

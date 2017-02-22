@@ -9,7 +9,7 @@ ms.assetid: 6bdd58ab-2e71-1e82-bb45-e98c77e9229b
 
 # FillFormat.RotateWithObject Property (Excel)
 
-Returns or sets if the fill style should rotate with the object. Read/write  **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets if the fill style should rotate with the object. Read/write  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

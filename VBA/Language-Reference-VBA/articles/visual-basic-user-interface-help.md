@@ -50,7 +50,7 @@ ms.assetid: ceb37836-24b1-4903-bfac-e3e2ad553867
     
 - [Clearand Delete Commands (Edit Menu)](clearand-delete-commands-edit-menu.md)
     
-- [Close &; Return to <host application> Command (File Menu)](close-;-return-to-host-application-command-file-menu.md)
+- [Close &; Return to <host application> Command (File Menu)](closereturn-to-host-application-command-file-menu.md)
     
 - [Close Command (Shortcut Menu)](close-command-shortcut-menu.md)
     
@@ -352,7 +352,7 @@ ms.assetid: ceb37836-24b1-4903-bfac-e3e2ad553867
     
 - [UserForm Command Bar](userform-command-bar.md)
     
-- [UserForm Windowc (Visual Basic User Interface)](userform-windows-visual-basic-user-interface.md)
+- [UserForm Windowc (Visual Basic User Interface)](userform-windowc-visual-basic-user-interface.md)
     
 - [UserForm Window Keys](userform-window-keys.md)
     

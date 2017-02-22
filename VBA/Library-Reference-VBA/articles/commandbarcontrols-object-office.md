@@ -59,7 +59,7 @@ myControl.Copy Bar:=myCustomBar, Before:=1
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/commandbarcontrols-add-method-office%28Office.15%29.aspx)|
+|[Add](http://msdn.microsoft.com/library/53e2b0b9-b11a-bf52-a1a3-523aae2c35d8%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -67,11 +67,11 @@ myControl.Copy Bar:=myCustomBar, Before:=1
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/commandbarcontrols-application-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/commandbarcontrols-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/commandbarcontrols-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/commandbarcontrols-item-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/commandbarcontrols-parent-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/822f709a-fe54-cca4-49d1-6a79d2eb15e5%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/1c2b4afd-2b31-bcee-53b5-6d9761203be1%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/d1728427-b84d-f313-ef73-e234571f3be6%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/a2e7339c-bf1e-0c58-c28d-19cf5682291a%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/23fdc1d0-ffb4-04a2-55d6-9490dd9e795c%28Office.15%29.aspx)|
 
 ## See also
 
@@ -79,5 +79,5 @@ myControl.Copy Bar:=myCustomBar, Before:=1
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[CommandBarControls Object Members](http://msdn.microsoft.com/library/commandbarcontrols-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[CommandBarControls Object Members](http://msdn.microsoft.com/library/b4db50d1-f693-d4a5-da6d-41c6f624bdd3%28Office.15%29.aspx)

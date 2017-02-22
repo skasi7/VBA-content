@@ -12,7 +12,7 @@ ms.assetid: 1b514d6f-7d94-4180-9c43-36e9b6258385
 
 -  [Sharing Calendars](sharing-calendars.md)
     
--  [Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders](sharing-online-calendars-rss-feeds-microsoft-sharepoint-foundation-folders-and-exchange-folders.md)
+-  [Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders](sharing-online-calendars-rss-feeds-microsoft-sharepoint-foundation-folders-and-e.md)
     
 -  [Export a Calendar using Payload Sharing](export-a-calendar-using-payload-sharing.md)
     

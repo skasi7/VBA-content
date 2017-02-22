@@ -13,7 +13,7 @@ This section of the Publisher VBA Reference contains documentation for all the o
 
 ##Related topics
 
-[Getting Started with VBA in Office](../../Library-Reference-VBA/articles/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
+[Getting Started with VBA in Office](../Publisher-VBA/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
 
-[What's New for VBA in Office 2016](../../Library-Reference-VBA/articles/c0294abb-bc0e-495d-b387-4398378dd3ad.md): Lists the new VBA language elements for Office 2016.
+[What's New for VBA in Office 2016](../Publisher-VBA/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
 

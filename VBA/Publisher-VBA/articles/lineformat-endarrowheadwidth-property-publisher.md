@@ -31,7 +31,7 @@ MsoArrowheadWidth
 
 Use the  **[BeginArrowheadWidth](lineformat-beginarrowheadwidth-property-publisher.md)** property to return or set the width of the arrowhead at the beginning of the line.
 
-The  **EndArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/msoarrowheadwidth-enumeration-office%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **EndArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

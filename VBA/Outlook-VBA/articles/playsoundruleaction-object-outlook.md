@@ -19,7 +19,7 @@ Represents an action that plays a .wav file sound.
 
  **PlaySoundRuleAction** is derived from the **[RuleAction](ruleaction-object-outlook.md)** object. Each rule is associated with a **[RuleActions](ruleactions-object-outlook.md)** object which has a **[PlaySound](ruleactions-playsound-property-outlook.md)** property. The **PlaySound** property always returns a **PlaySoundRuleAction** object. If the rule has an enabled rule action that plays a sound file, then **[PlaySoundRuleAction.Enabled](playsoundruleaction-enabled-property-outlook.md)** property would be **True**.
 
-For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/specifying-rule-actions%28Office.15%29.aspx).
+For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
 
 
 ## Properties
@@ -42,4 +42,4 @@ For more information on specifying rule actions, see [Specify Rule Actions](http
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

@@ -53,13 +53,13 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/addressentries-add-method-outlook%28Office.15%29.aspx)|
-|[GetFirst](http://msdn.microsoft.com/library/addressentries-getfirst-method-outlook%28Office.15%29.aspx)|
-|[GetLast](http://msdn.microsoft.com/library/addressentries-getlast-method-outlook%28Office.15%29.aspx)|
-|[GetNext](http://msdn.microsoft.com/library/addressentries-getnext-method-outlook%28Office.15%29.aspx)|
-|[GetPrevious](http://msdn.microsoft.com/library/addressentries-getprevious-method-outlook%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/addressentries-item-method-outlook%28Office.15%29.aspx)|
-|[Sort](http://msdn.microsoft.com/library/addressentries-sort-method-outlook%28Office.15%29.aspx)|
+|[Add](http://msdn.microsoft.com/library/b4c37547-8fbd-b1e4-40f3-5cba3cffd6e9%28Office.15%29.aspx)|
+|[GetFirst](http://msdn.microsoft.com/library/f8f03b6e-d79e-09b5-2f75-6886e699a4b3%28Office.15%29.aspx)|
+|[GetLast](http://msdn.microsoft.com/library/22b54c0f-5167-ac76-0cff-7ee4a142e1b3%28Office.15%29.aspx)|
+|[GetNext](http://msdn.microsoft.com/library/7579909c-90a2-660f-6cf5-039a441ccc93%28Office.15%29.aspx)|
+|[GetPrevious](http://msdn.microsoft.com/library/3d5aa211-212e-9a97-58aa-47d4447c9f47%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/42156250-3e72-c82c-7038-12cfa02f5f0a%28Office.15%29.aspx)|
+|[Sort](http://msdn.microsoft.com/library/9b381837-9fe9-1041-8297-e8c8dbcdc2e4%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -67,11 +67,11 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/addressentries-application-property-outlook%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/addressentries-class-property-outlook%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/addressentries-count-property-outlook%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/addressentries-parent-property-outlook%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/addressentries-session-property-outlook%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/2ba2a2e6-e584-935b-e24a-77b2d14ebd58%28Office.15%29.aspx)|
+|[Class](http://msdn.microsoft.com/library/ee94c79e-ecff-cd35-cf5c-2733ef77d25e%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/24b5bdb3-174d-1366-b2f5-c8243c71fa9d%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/42155333-c917-a950-6162-0ddc8f3616d5%28Office.15%29.aspx)|
+|[Session](http://msdn.microsoft.com/library/bdd2afb2-a4f7-e31b-9413-94ba7e6ca213%28Office.15%29.aspx)|
 
 ## See also
 
@@ -79,5 +79,5 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
-[AddressEntries Object Members](http://msdn.microsoft.com/library/addressentries-members-outlook%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[AddressEntries Object Members](http://msdn.microsoft.com/library/1a38c073-06f9-06ad-4483-21ad59143f14%28Office.15%29.aspx)

@@ -10,7 +10,7 @@ ms.assetid: 7ba2087b-1434-6e08-7781-fbd3839c0ceb
 
 # ChartFormat.AutoShapeType Property (Word)
 
-Returns or sets the auto shape type of the specified object. Read-write [MSOAutoShapeType](http://msdn.microsoft.com/library/msoautoshapetype-enumeration-office%28Office.15%29.aspx).
+Returns or sets the auto shape type of the specified object. Read-write [MSOAutoShapeType](http://msdn.microsoft.com/library/7e6fe414-2b25-56d7-a678-b6e718329118%28Office.15%29.aspx).
 
 
 ## Syntax

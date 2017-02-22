@@ -20,6 +20,6 @@ The default event for a  **CommandButton** is the Click event.
 
 ## Related Topics
 
-[CommandButton Object](http://msdn.microsoft.com/library/commandbutton-object-reference-outlook-forms-script%28Office.15%29.aspx)
+[CommandButton Object](http://msdn.microsoft.com/library/9d629837-e86c-4534-a44b-9f7579aca12c%28Office.15%29.aspx)
 
 

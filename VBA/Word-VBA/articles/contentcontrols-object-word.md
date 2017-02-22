@@ -68,7 +68,7 @@ If objcc.Type = wdContentControlComboBox Or _
 End If
 ```
 
-Use the  **ContentControl** object to work with individual content controls. For more information, see[Working with Content Controls](http://msdn.microsoft.com/library/working-with-content-controls%28Office.15%29.aspx).
+Use the  **ContentControl** object to work with individual content controls. For more information, see[Working with Content Controls](http://msdn.microsoft.com/library/b4092c71-a383-f1db-8d68-de69e8d8a86b%28Office.15%29.aspx).
 
 
 ## Methods
@@ -97,4 +97,4 @@ Use the  **ContentControl** object to work with individual content controls. For
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

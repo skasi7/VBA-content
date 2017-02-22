@@ -10,7 +10,7 @@ ms.assetid: 4ccbd7b2-3fd5-fc13-42b6-060fc88f1465
 
 # CustomerData.Item Method (PowerPoint)
 
-Returns the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/customxmlpart-object-office%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection. Read-only.
+Returns the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection. Read-only.
 
 
 ## Syntax

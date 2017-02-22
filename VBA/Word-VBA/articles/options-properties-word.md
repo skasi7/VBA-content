@@ -292,7 +292,7 @@ ms.assetid: 8bfd0e93-beaf-407b-89db-630d0f706a93
 |[UseCharacterUnit](options-usecharacterunit-property-word.md)| **True** if Microsoft Word uses characters as the default measurement unit for the current document. Read/write **Boolean** .|
 |[UseDiffDiacColor](options-usediffdiaccolor-property-word.md)| **True** if you can set the color of diacritics in the current document. Read/write **Boolean** .|
 |[UseGermanSpellingReform](options-usegermanspellingreform-property-word.md)| **True** if Microsoft Word uses the German post-reform spelling rules when checking spelling. Read/write **Boolean** .|
-|[UseLocalUserInfo](options-uselocaluserinfo-property-word-1.md)||
+|[UseLocalUserInfo](options-uselocaluserinfo-property-word.md)||
 |[UseNormalStyleForList](options-usenormalstyleforlist-property-word.md)|Returns or sets a  **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.|
 |[UseSubPixelPositioning](options-usesubpixelpositioning-property-word.md)|Returns or sets a  **Boolean** that specifies whether sub-pixel positioning is enabled. Read-write.|
 |[VisualSelection](options-visualselection-property-word.md)|Returns or sets the selection behavior based on visual cursor movement in a right-to-left language document. Read/write  **WdVisualSelection** .|

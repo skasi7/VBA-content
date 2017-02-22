@@ -36,8 +36,8 @@ End Function
 
 |**Name**|
 |:-----|
-|[GetItemByInternalName](http://msdn.microsoft.com/library/metaproperties-getitembyinternalname-method-office%28Office.15%29.aspx)|
-|[Validate](http://msdn.microsoft.com/library/metaproperties-validate-method-office%28Office.15%29.aspx)|
+|[GetItemByInternalName](http://msdn.microsoft.com/library/27c6bcd8-8631-1dbe-5df1-67c33b757c03%28Office.15%29.aspx)|
+|[Validate](http://msdn.microsoft.com/library/658532c6-c8c0-ff01-3736-4161a09af2bb%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -45,12 +45,12 @@ End Function
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/metaproperties-application-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/metaproperties-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/metaproperties-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/metaproperties-item-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/metaproperties-parent-property-office%28Office.15%29.aspx)|
-|[SchemaXml](http://msdn.microsoft.com/library/metaproperties-schemaxml-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/40f520da-9408-06f9-f51d-1b4dda0d452b%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/ceb7c117-4d5a-511c-a849-b3cc9041d298%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/377c8cee-9561-21aa-666c-f5e291ca899a%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/e1c30443-08c3-85bc-bfdd-59cd825b63e5%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/cafd45a4-59ea-4459-3c35-75062964e5c9%28Office.15%29.aspx)|
+|[SchemaXml](http://msdn.microsoft.com/library/c51acc59-3014-8678-c697-425be9dc3aeb%28Office.15%29.aspx)|
 
 ## See also
 
@@ -58,5 +58,5 @@ End Function
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[MetaProperties Object Members](http://msdn.microsoft.com/library/metaproperties-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[MetaProperties Object Members](http://msdn.microsoft.com/library/0e2efa13-130c-59ad-07ee-8499f502064a%28Office.15%29.aspx)

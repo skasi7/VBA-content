@@ -12,7 +12,7 @@ ms.assetid: a1cc3739-4398-caf0-7970-f114190e66cb
 
 # Graphic.ColorType Property (Excel)
 
-Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write  **[MsoPictureColorType](http://msdn.microsoft.com/library/msopicturecolortype-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write  **[MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** .
 
 
 ## Syntax

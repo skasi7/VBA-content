@@ -12,7 +12,7 @@ ms.assetid: f5c5da88-ee2a-5d1b-eb00-c85134c8f36b
 
 # FillFormat.GradientStyle Property (Excel)
 
-Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](http://msdn.microsoft.com/library/msogradientstyle-enumeration-office%28Office.15%29.aspx)** .
+Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](http://msdn.microsoft.com/library/1f0e723f-293c-3646-fd77-da2c8842c71f%28Office.15%29.aspx)** .
 
 
 ## Syntax

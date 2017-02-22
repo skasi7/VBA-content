@@ -19,7 +19,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_ . **Creator**
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ## Remarks
@@ -33,5 +33,5 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

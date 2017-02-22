@@ -12,7 +12,7 @@ ms.assetid: 53164ab3-b0f5-ed8e-76f8-840cbd8e23bc
 
 # DefaultWebOptions.Encoding Property (Excel)
 
-Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write  **[MsoEncoding](http://msdn.microsoft.com/library/msoencoding-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write  **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** .
 
 
 ## Syntax

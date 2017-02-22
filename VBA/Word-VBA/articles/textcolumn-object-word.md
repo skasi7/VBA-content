@@ -9,7 +9,7 @@ ms.assetid: 660614a8-ad5b-dae4-887e-0f75e1172c10
 
 # TextColumn Object (Word)
 
-Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](textcolumns-object-word.md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
+Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](textcolumns-objectword.md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
 
 
 ## Remarks
@@ -53,6 +53,6 @@ ActiveDocument.PageSetup.TextColumns.SetCount NumColumns:=3
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 
 

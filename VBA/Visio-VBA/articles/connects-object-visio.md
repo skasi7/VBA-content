@@ -39,12 +39,12 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/connects-application-property-visio%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/connects-count-property-visio%28Office.15%29.aspx)|
-|[Document](http://msdn.microsoft.com/library/connects-document-property-visio%28Office.15%29.aspx)|
-|[FromSheet](http://msdn.microsoft.com/library/connects-fromsheet-property-visio%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/connects-item-property-visio%28Office.15%29.aspx)|
-|[ObjectType](http://msdn.microsoft.com/library/connects-objecttype-property-visio%28Office.15%29.aspx)|
-|[Stat](http://msdn.microsoft.com/library/connects-stat-property-visio%28Office.15%29.aspx)|
-|[ToSheet](http://msdn.microsoft.com/library/connects-tosheet-property-visio%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/add9261d-b2e7-f96f-55c2-8326f8b39813%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/52be9eb0-5130-2490-98a0-58215dead3d5%28Office.15%29.aspx)|
+|[Document](http://msdn.microsoft.com/library/7a161248-2bf5-42e7-772d-e0f4de979776%28Office.15%29.aspx)|
+|[FromSheet](http://msdn.microsoft.com/library/c9fa472c-9f5f-ea4f-adbc-e8741dda1482%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/3b43a3ae-cf92-cc05-2750-c37554d9202c%28Office.15%29.aspx)|
+|[ObjectType](http://msdn.microsoft.com/library/1d27b1c5-89f0-493c-b90c-9be46fc93ca0%28Office.15%29.aspx)|
+|[Stat](http://msdn.microsoft.com/library/e51e58fb-a7b5-b18e-3f53-8ab1ff4d2994%28Office.15%29.aspx)|
+|[ToSheet](http://msdn.microsoft.com/library/a5884fda-45cb-9b2b-da19-788db429e6f1%28Office.15%29.aspx)|
 

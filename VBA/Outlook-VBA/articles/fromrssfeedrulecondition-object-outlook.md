@@ -19,7 +19,7 @@ Represents a rule condition that evaluates whether an item is from a specified R
 
  **FromRssFeedRuleCondition** is derived from the **[RuleCondition](rulecondition-object-outlook.md)** object. Each rule is associated with a **[RuleConditions](ruleconditions-object-outlook.md)** object, which has a **[RuleConditions.FromRssFeed](ruleconditions-fromrssfeed-property-outlook.md)** property. The **FromRssFeed** property always returns a **FromRssFeedRuleCondition** object. If the rule has any of these rule conditions enabled, then **[FromRssFeedRuleCondition.Enabled](fromrssfeedrulecondition-enabled-property-outlook.md)** is **True**.
 
-For more information about specifying rule actions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/specifying-rule-conditions%28Office.15%29.aspx).
+For more information about specifying rule actions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
 
 ## Properties
@@ -42,4 +42,4 @@ For more information about specifying rule actions, see [Specify Rule Conditions
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

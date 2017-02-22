@@ -44,7 +44,7 @@ ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
     
 - [CanUndo Property](canundo-property.md)
     
-- [Caption Property (Microsoft Forms)](caption-property-microsoft-forms.md)
+- [Caption Property (Microsoft Forms)](caption-propert-microsoft-forms.md)
     
 - [ClientHeight, ClientLeft, ClientTop, ClientWidth Properties](clientheight-clientleft-clienttop-clientwidth-properties.md)
     
@@ -70,7 +70,7 @@ ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
     
 - [Cycle Property](cycle-property.md)
     
-- [Default Property (Microsoft Forms)](default-property-microsoft-forms.md)
+- [Default Property (Microsoft Forms)](default-propertyd-microsoft-forms.md)
     
 - [Delay Property](delay-property.md)
     
@@ -148,7 +148,7 @@ ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
     
 - [MultiSelect Property (Microsoft Forms)](multiselect-property-microsoft-forms.md)
     
-- [Name Property (Microsoft Forms)](name-property-microsoft-forms.md)
+- [Name Property (Microsoft Forms)](name-propertye-microsoft-forms.md)
     
 - [Object Property](object-property.md)
     
@@ -158,7 +158,7 @@ ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
     
 - [Orientation Property (Microsoft Forms)](orientation-property-microsoft-forms.md)
     
-- [Parent Property (Microsoft Forms)](parent-property-microsoft-forms.md)
+- [Parent Property (Microsoft Forms)](parent-propertya-microsoft-forms.md)
     
 - [PasswordChar Property](passwordchar-property.md)
     

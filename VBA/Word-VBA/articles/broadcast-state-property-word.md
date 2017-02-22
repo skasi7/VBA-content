@@ -10,7 +10,7 @@ ms.assetid: c2f7cbc1-2c1e-e118-c4a4-dc50129a24ab
 
 # Broadcast.State Property (Word)
 
-Returns an [MSOBroadcastState](http://msdn.microsoft.com/library/msobroadcaststate-enumeration-office%28Office.15%29.aspx) constant that describes the current broadcast state. Read-only.
+Returns an [MSOBroadcastState](http://msdn.microsoft.com/library/383160db-9f27-b17f-d43c-4d09813d80b4%28Office.15%29.aspx) constant that describes the current broadcast state. Read-only.
 
 
 ## Syntax

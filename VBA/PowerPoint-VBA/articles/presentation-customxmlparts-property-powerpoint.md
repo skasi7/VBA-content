@@ -10,7 +10,7 @@ ms.assetid: 72dba684-9fc2-09b3-54bb-e01c01c093c0
 
 # Presentation.CustomXMLParts Property (PowerPoint)
 
-Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/customxmlparts-object-office%28Office.15%29.aspx)** object that represents the collection of custom XML parts associated with the specified **Presentation** object. Read-only.
+Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** object that represents the collection of custom XML parts associated with the specified **Presentation** object. Read-only.
 
 
 ## Syntax

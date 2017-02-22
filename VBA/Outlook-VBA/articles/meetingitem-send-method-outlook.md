@@ -37,6 +37,6 @@ When you create a meeting request programmatically, you first create an  **[Appo
 #### Other resources
 
 
-[How to: Create an Appointment as a Meeting on the Calendar](http://msdn.microsoft.com/library/create-an-appointment-as-a-meeting-on-the-calendar%28Office.15%29.aspx)
+[How to: Create an Appointment as a Meeting on the Calendar](http://msdn.microsoft.com/library/130b6ae1-d1a4-3805-7e9c-75543b93fff5%28Office.15%29.aspx)
 
 

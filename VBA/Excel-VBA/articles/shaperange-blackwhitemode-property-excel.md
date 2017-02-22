@@ -12,7 +12,7 @@ ms.assetid: df88d789-6686-2f02-1e69-54c8ab47060c
 
 # ShapeRange.BlackWhiteMode Property (Excel)
 
-Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](http://msdn.microsoft.com/library/msoblackwhitemode-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](http://msdn.microsoft.com/library/2b4d7e22-1277-9f5c-ba52-a37e113477c1%28Office.15%29.aspx)** .
 
 
 ## Syntax

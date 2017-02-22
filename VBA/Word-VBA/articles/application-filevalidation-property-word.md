@@ -12,7 +12,7 @@ ms.assetid: 2f88d1a7-98a7-9ec6-09b3-a09c1a934e01
 
 # Application.FileValidation Property (Word)
 
-Returns or sets how Word will validate files before opening them. Read/write [MsoFileValidationMode](http://msdn.microsoft.com/library/msofilevalidationmode-enumeration-office%28Office.15%29.aspx).
+Returns or sets how Word will validate files before opening them. Read/write [MsoFileValidationMode](http://msdn.microsoft.com/library/2501a3a5-2053-9fc6-7a3f-bca2fe27f6d1%28Office.15%29.aspx).
 
 
 ## Syntax
@@ -24,7 +24,7 @@ Returns or sets how Word will validate files before opening them. Read/write [Ms
 
 ### Return Value
 
-[MsoFileValidationMode](http://msdn.microsoft.com/library/msofilevalidationmode-enumeration-office%28Office.15%29.aspx)
+[MsoFileValidationMode](http://msdn.microsoft.com/library/2501a3a5-2053-9fc6-7a3f-bca2fe27f6d1%28Office.15%29.aspx)
 
 
 ## Remarks

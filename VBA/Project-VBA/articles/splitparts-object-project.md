@@ -115,4 +115,4 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
 
  
-[Project Object Model](http://msdn.microsoft.com/library/project-object-model%28Office.15%29.aspx)
+[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

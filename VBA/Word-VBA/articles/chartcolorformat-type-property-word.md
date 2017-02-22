@@ -24,7 +24,7 @@ Returns the color format type. Read-only  **Long** .
 
 ## Remarks
 
-This property returns one of the following  **[MsoColorType](http://msdn.microsoft.com/library/msocolortype-enumeration-office%28Office.15%29.aspx)** constants:
+This property returns one of the following  **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08-b703-aaa1f69516dc%28Office.15%29.aspx)** constants:
 
 
 -  **msoColorTypeRGB**

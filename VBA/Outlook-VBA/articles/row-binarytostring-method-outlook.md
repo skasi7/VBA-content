@@ -37,7 +37,7 @@ A hexadecimal  **String** value that has been converted from a **PT_BINARY** val
 
 ## Remarks
 
-Use the helper functions  **Row.BinaryToString** , **[Row.LocalTimeToUTC](row-localtimetoutc-method-outlook.md)** , and **[Row.UTCToLocalTime](row-utctolocaltime-method-outlook.md)** to facilitate type conversion of column values at a specific row. For more information on property value representation in a **[Table](table-object-outlook.md)** , see[Factors Affecting Property Value Representation in the Table and View Classes](http://msdn.microsoft.com/library/factors-affecting-property-value-representation-in-the-table-and-view-classes%28Office.15%29.aspx).
+Use the helper functions  **Row.BinaryToString** , **[Row.LocalTimeToUTC](row-localtimetoutc-method-outlook.md)** , and **[Row.UTCToLocalTime](row-utctolocaltime-method-outlook.md)** to facilitate type conversion of column values at a specific row. For more information on property value representation in a **[Table](table-object-outlook.md)** , see[Factors Affecting Property Value Representation in the Table and View Classes](http://msdn.microsoft.com/library/13cf9945-a9e0-bb32-a2cb-74366a365ae1%28Office.15%29.aspx).
 
 
 ## See also

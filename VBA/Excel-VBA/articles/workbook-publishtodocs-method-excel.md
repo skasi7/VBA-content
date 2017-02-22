@@ -28,4 +28,4 @@ Workbook.PublishToDocs(Title As String, DisclosureScope As XlPublishToDocsDisclo
 #### Other resources
 
 
-[Workbook Object](http://msdn.microsoft.com/library/workbook-object-excel%28Office.15%29.aspx)
+[Workbook Object](http://msdn.microsoft.com/library/8c00aa60-c974-eed3-0812-3c9625eb0d4c%28Office.15%29.aspx)

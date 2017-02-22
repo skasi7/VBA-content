@@ -56,14 +56,14 @@ End If
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/comaddin-application-property-office%28Office.15%29.aspx)|
-|[Connect](http://msdn.microsoft.com/library/comaddin-connect-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/comaddin-creator-property-office%28Office.15%29.aspx)|
-|[Description](http://msdn.microsoft.com/library/comaddin-description-property-office%28Office.15%29.aspx)|
-|[Guid](http://msdn.microsoft.com/library/comaddin-guid-property-office%28Office.15%29.aspx)|
-|[Object](http://msdn.microsoft.com/library/comaddin-object-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/comaddin-parent-property-office%28Office.15%29.aspx)|
-|[ProgId](http://msdn.microsoft.com/library/comaddin-progid-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/7566c80d-a63b-2ea0-7a53-21c532039172%28Office.15%29.aspx)|
+|[Connect](http://msdn.microsoft.com/library/b1392380-c19f-ab3e-c9dc-c62438b16500%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/512057ba-021f-cb14-1123-e6d4061cca3e%28Office.15%29.aspx)|
+|[Description](http://msdn.microsoft.com/library/f194ae48-0762-732f-7c9a-f19a92e94d9b%28Office.15%29.aspx)|
+|[Guid](http://msdn.microsoft.com/library/1e3218d9-dce7-21e2-55a7-4435ca58bb35%28Office.15%29.aspx)|
+|[Object](http://msdn.microsoft.com/library/20dd8eca-6f8e-7445-ec0c-a29b29409c58%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/dddd8d3a-f5d7-7a30-8301-f9dd0775f0a8%28Office.15%29.aspx)|
+|[ProgId](http://msdn.microsoft.com/library/eb917d53-512e-35dd-ff70-ac7b976e6500%28Office.15%29.aspx)|
 
 ## See also
 
@@ -71,5 +71,5 @@ End If
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[COMAddIn Object Members](http://msdn.microsoft.com/library/comaddin-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[COMAddIn Object Members](http://msdn.microsoft.com/library/698d4d8e-6071-acd3-a39b-ab01fd878452%28Office.15%29.aspx)

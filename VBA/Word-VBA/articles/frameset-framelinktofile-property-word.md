@@ -24,7 +24,7 @@ ms.assetid: a27ce637-a892-3697-a727-e7c60eb26aaf
 
 ## Remarks
 
-For more information on creating frames pages, see [Creating Frames Pages](http://msdn.microsoft.com/library/creating-frames-pages%28Office.15%29.aspx).
+For more information on creating frames pages, see [Creating Frames Pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
 
 
 ## Example

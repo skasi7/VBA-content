@@ -12,7 +12,7 @@ ms.assetid: 55be2527-9fd5-6930-ff64-e3355a36e9e9
 
 # ConnectorFormat.Type Property (Excel)
 
-Returns or sets a  **[MsoConnectorType](http://msdn.microsoft.com/library/msoconnectortype-enumeration-office%28Office.15%29.aspx)** value that represents the connector format type.
+Returns or sets a  **[MsoConnectorType](http://msdn.microsoft.com/library/2c67963f-5cb3-295d-fdf4-df33a283f1af%28Office.15%29.aspx)** value that represents the connector format type.
 
 
 ## Syntax

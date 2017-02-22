@@ -50,7 +50,7 @@ The height and width of the WordArt object is determined by its text and formatt
 
 Use the  **[TextEffect](shape-texteffect-property-publisher.md)** property to return a **[TextEffectFormat](texteffectformat-object-publisher.md)** object whose properties can be used to edit an existing WordArt object.
 
-The PresetTextEffect parameter can be one of the  ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/msopresettexteffect-enumeration-office%28Office.15%29.aspx)** constants declared in the Microsoft Office type library. The **msoTextEffectMixed** constant is not supported.
+The PresetTextEffect parameter can be one of the  ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library. The **msoTextEffectMixed** constant is not supported.
 
 The FontBold parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 

@@ -14,7 +14,7 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
  **Accounts**
 
 
--  [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outlook.md)
+-  [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
     
 -  [How to: Identify a Folder with an Account](identify-a-folder-with-an-account.md)
     
@@ -24,7 +24,7 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
  **Add-in Administration**
 
 
--  [How to: Verify if Outlook is a Click-To-Run Application on a Computer](verify-whether-outlook-is-a-click-to-run-application-on-a-computer.md)
+-  [How to: Verify if Outlook is a Click-To-Run Application on a Computer](verify-if-outlook-is-a-click-to-run-application-on-a-computer.md)
     
 
  **Address Books**
@@ -38,7 +38,7 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
     
 -  [How to: List the Groups that My Manager Belongs to](list-the-groups-that-my-manager-belongs-to.md)
     
--  [How to: List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List](list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distribution-list.md)
+-  [How to: List the Name and Office Location of Each Manager Belonging to an Exchange Distribution List](list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distr.md)
     
 -  [How to: Map a Display Name to an E-mail Address](map-a-display-name-to-an-e-mail-address.md)
     
@@ -145,9 +145,9 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
     
 -  [How to: Search the Inbox for Items with Subject Containing "Office"](search-the-inbox-for-items-with-subject-containing-office.md)
     
--  [How to: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given-time-period.md)
+-  [How to: Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given.md)
     
--  [How to: Search the Calendar for Appointments Within a Date Range that Contain a Specific Word in the Subject](search-the-calendar-for-appointments-within-a-date-range-that-contain-a-specific-word-in-the-subject.md)
+-  [How to: Search the Calendar for Appointments Within a Date Range that Contain a Specific Word in the Subject](search-the-calendar-for-appointments-within-a-date-range-that-contain-a-specific.md)
     
 -  [How to: Search and Obtain Items in an Aggregated View](search-and-obtain-items-in-an-aggregated-view-outlook.md)
     

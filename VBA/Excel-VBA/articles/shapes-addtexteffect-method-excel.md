@@ -28,12 +28,12 @@ Creates a WordArt object. Returns a  **[Shape](shape-object-excel.md)** object t
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetTextEffect_|Required| **[MsoPresetTextEffect](http://msdn.microsoft.com/library/msopresettexteffect-enumeration-office%28Office.15%29.aspx)**|The preset text effect.|
+| _PresetTextEffect_|Required| **[MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)**|The preset text effect.|
 | _Text_|Required| **String**|The text in the WordArt.|
 | _FontName_|Required| **String**|The name of the font used in the WordArt.|
 | _FontSize_|Required| **Single**|The size (in points) of the font used in the WordArt.|
-| _FontBold_|Required| **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)**|The font used in the WordArt to bold.|
-| _FontItalic_|Required| **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)**|The font used in the WordArt to italic.|
+| _FontBold_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|The font used in the WordArt to bold.|
+| _FontItalic_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|The font used in the WordArt to italic.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the WordArt's bounding box relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the WordArt's bounding box relative to the top of the document.|
 

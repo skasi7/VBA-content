@@ -29,8 +29,8 @@ Creates a picture from an existing file. Returns a  **Shape** object that repres
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The file from which the OLE object is to be created.|
-| _LinkToFile_|Required| **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)**| The file to link to.|
-| _SaveWithDocument_|Required| **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)**|To save the picture with the document.|
+| _LinkToFile_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**| The file to link to.|
+| _SaveWithDocument_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|To save the picture with the document.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the picture relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the picture relative to the top of the document.|
 | _Width_|Required| **Single**|The width of the picture, in points (enter -1 to retain the width of the existing file).|
@@ -47,7 +47,7 @@ Shape
 
 
 
-| **MsoTriState** can be one of these **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** constants.|
+| **MsoTriState** can be one of these **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants.|
 | **msoCTrue**|
 | **msoFalse** To make the picture an independent copy of the file.|
 | **msoTriStateMixed**|
@@ -55,7 +55,7 @@ Shape
 | **msoTrue** To link the picture to the file from which it was created.|
 
 
-| **MsoTriState** can be one of these **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** constants.|
+| **MsoTriState** can be one of these **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants.|
 | **msoCTrue**|
 | **msoFalse** To store only the link information in the document.|
 | **msoTriStateMixed**|

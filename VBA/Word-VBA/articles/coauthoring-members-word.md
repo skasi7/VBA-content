@@ -27,5 +27,5 @@ Provides the primary entry point to the co-authoring object model.
 |[Me](coauthoring-me-property-word.md)|Returns a  **[CoAuthor](coauthor-object-word.md)** object that represents the current user. Read-only.|
 |[Parent](coauthoring-parent-property-word.md)|Returns an  **Object** that represents the parent object of the specified **[CoAuthoring](coauthoring-object-word.md)** object.|
 |[PendingUpdates](coauthoring-pendingupdates-property-word.md)|Returns  **true** if the document has pending updates that have not been accepted. Read-only.|
-|[Updates](coauthoring-updates-property-word.md)|Returns a  **[CoAuthUpdates](coauthupdates-object-word.md)** collection that represents the most recent updates that were merged into the document. Read-only.|
+|[Updates](coauthoring-updates-property-word.md)|Returns a  **[CoAuthUpdates](coauthupdates-object-word-1.md)** collection that represents the most recent updates that were merged into the document. Read-only.|
 

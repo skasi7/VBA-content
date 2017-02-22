@@ -12,7 +12,7 @@ ms.assetid: b1884d43-557b-47be-1cef-20404069b576
 
 # Application.CommandBars Property (Excel)
 
-Returns a  **[CommandBars](http://msdn.microsoft.com/library/commandbars-object-office%28Office.15%29.aspx)** object that represents the Microsoft Excel command bars. Read-only.
+Returns a  **[CommandBars](http://msdn.microsoft.com/library/0e312e21-14ee-5055-d604-b66e61c53b47%28Office.15%29.aspx)** object that represents the Microsoft Excel command bars. Read-only.
 
 
 ## Syntax

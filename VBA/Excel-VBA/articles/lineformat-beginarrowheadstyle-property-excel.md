@@ -12,7 +12,7 @@ ms.assetid: 5f327e3f-d6bf-9709-e6bb-7be7f701899b
 
 # LineFormat.BeginArrowheadStyle Property (Excel)
 
-Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](http://msdn.microsoft.com/library/msoarrowheadstyle-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](http://msdn.microsoft.com/library/e598631e-dad9-649b-767b-99e7e7ea83da%28Office.15%29.aspx)** .
 
 
 ## Syntax

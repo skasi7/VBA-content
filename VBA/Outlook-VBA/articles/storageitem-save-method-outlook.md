@@ -26,7 +26,7 @@ Saves the  **[StorageItem](storageitem-object-outlook.md)** .
 
 If the  **StorageItem** has never been saved before, **Save** saves the item as a hidden item in the **[Folder](folder-object-outlook.md)** on which **[Folder.GetStorage](folder-getstorage-method-outlook.md)** was called. If the **StorageItem** has been saved previously and the item has since been changed, **Save** saves the changes to the item. If the **StorageItem** has been saved previously and the item has not been changed since then, the **Save** method does nothing.
 
-For more information on saving solution data to a  **StorageItem** object, see[Creating and Saving Data to Solution Storage](http://msdn.microsoft.com/library/creating-and-saving-data-to-solution-storage%28Office.15%29.aspx).
+For more information on saving solution data to a  **StorageItem** object, see[Creating and Saving Data to Solution Storage](http://msdn.microsoft.com/library/5a417191-ed36-be5c-5d63-1ab618bd06cf%28Office.15%29.aspx).
 
 
 ## Example

@@ -12,7 +12,7 @@ ms.assetid: 3efffd7d-0681-ecbc-000a-b71eceb3f92a
 
 # Workbook.BuiltinDocumentProperties Property (Excel)
 
-Returns a  **[DocumentProperties](http://msdn.microsoft.com/library/documentproperties-object-office%28Office.15%29.aspx)** collection that represents all the built-in document properties for the specified workbook. Read-only.
+Returns a  **[DocumentProperties](http://msdn.microsoft.com/library/90d42786-7d9a-b604-dbdf-88db41cbe69b%28Office.15%29.aspx)** collection that represents all the built-in document properties for the specified workbook. Read-only.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ Returns a  **[DocumentProperties](http://msdn.microsoft.com/library/documentprop
 
 ## Remarks
 
-This property returns the entire collection of built-in document properties. Use the  **Item** method to return a single member of the collection (a **[DocumentProperty](http://msdn.microsoft.com/library/documentproperty-object-office%28Office.15%29.aspx)** object) by specifying either the name of the property or the collection index (as a number).
+This property returns the entire collection of built-in document properties. Use the  **Item** method to return a single member of the collection (a **[DocumentProperty](http://msdn.microsoft.com/library/dd54ca3c-e0e2-4816-539a-17c5b4a928b1%28Office.15%29.aspx)** object) by specifying either the name of the property or the collection index (as a number).
 
 You can refer to document properties either by index value or by name. The following list shows the available built-in document property names:
 

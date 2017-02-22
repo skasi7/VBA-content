@@ -12,7 +12,7 @@ ms.assetid: 47cca923-fc88-6973-926c-2fa69c2f0f10
 
 # Application.SmartArtQuickStyles Property (Word)
 
-Returns a [SmartArtQuickStyles](http://msdn.microsoft.com/library/smartartquickstyles-object-office%28Office.15%29.aspx) object that represents the set of SmartArt styles that are currently loaded in the application. Read-only.
+Returns a [SmartArtQuickStyles](http://msdn.microsoft.com/library/d488ac12-160b-c518-2b56-cc0a3a45c6b7%28Office.15%29.aspx) object that represents the set of SmartArt styles that are currently loaded in the application. Read-only.
 
 
 ## Syntax

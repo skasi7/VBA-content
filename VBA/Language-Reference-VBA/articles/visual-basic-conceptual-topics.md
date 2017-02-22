@@ -34,7 +34,7 @@ ms.assetid: 2628d596-7a4a-4a4d-89df-8f1faabd7d49
     
 - [Looping Through Code](looping-through-code.md)
     
-- [Making Faster For...Next Loops](making-faster-for---next-loops.md)
+- [Making Faster For...Next Loops](making-faster-fornext-loops.md)
     
 - [Passing Arguments Efficiently](passing-arguments-efficiently.md)
     
@@ -64,13 +64,13 @@ ms.assetid: 2628d596-7a4a-4a4d-89df-8f1faabd7d49
     
 - [Using Data Types Efficiently](using-data-types-efficiently.md)
     
-- [Using Do...Loop Statements](using-do---loop-statements.md)
+- [Using Do...Loop Statements](using-doloop-statements.md)
     
-- [Using For Each...Next Statements](using-for-each---next-statements.md)
+- [Using For Each...Next Statements](using-for-eachnext-statements.md)
     
-- [Using For...Next Statements](using-for---next-statements.md)
+- [Using For...Next Statements](using-fornext-statements.md)
     
-- [Using If...Then...Else Statements](using-if---then---else-statements.md)
+- [Using If...Then...Else Statements](using-ifthenelse-statements.md)
     
 - [Using Parentheses in Code](using-parentheses-in-code.md)
     

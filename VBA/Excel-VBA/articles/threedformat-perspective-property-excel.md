@@ -12,7 +12,7 @@ ms.assetid: 9f31508e-c723-e55a-07a9-cef1bc526136
 
 # ThreeDFormat.Perspective Property (Excel)
 
-Returns or sets an  **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** value that determines whether the extrusion appears in perspective.
+Returns or sets an  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** value that determines whether the extrusion appears in perspective.
 
 
 ## Syntax

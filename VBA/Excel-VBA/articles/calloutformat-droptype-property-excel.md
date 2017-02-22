@@ -12,7 +12,7 @@ ms.assetid: ab947fa4-4af9-e491-f62d-e0ca036e1892
 
 # CalloutFormat.DropType Property (Excel)
 
-Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **[MsoCalloutDropType](http://msdn.microsoft.com/library/msocalloutdroptype-enumeration-office%28Office.15%29.aspx)** .
+Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **[MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)** .
 
 
 ## Syntax

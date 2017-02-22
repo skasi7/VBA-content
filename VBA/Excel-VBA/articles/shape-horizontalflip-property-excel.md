@@ -12,7 +12,7 @@ ms.assetid: e9b64a81-3aef-5d42-0a65-5d03d564a71f
 
 # Shape.HorizontalFlip Property (Excel)
 
- **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+ **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

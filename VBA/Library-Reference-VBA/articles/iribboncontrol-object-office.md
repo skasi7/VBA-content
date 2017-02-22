@@ -47,9 +47,9 @@ public void ToggleButtonOnAction(IRibbonControl control, bool pressed)
 
 |**Name**|
 |:-----|
-|[Context](http://msdn.microsoft.com/library/iribboncontrol-context-property-office%28Office.15%29.aspx)|
-|[Id](http://msdn.microsoft.com/library/iribboncontrol-id-property-office%28Office.15%29.aspx)|
-|[Tag](http://msdn.microsoft.com/library/iribboncontrol-tag-property-office%28Office.15%29.aspx)|
+|[Context](http://msdn.microsoft.com/library/39f9d85a-00e9-9682-3957-51d9e72b4d83%28Office.15%29.aspx)|
+|[Id](http://msdn.microsoft.com/library/56a0d143-66de-ab77-0c21-d34341ce5da4%28Office.15%29.aspx)|
+|[Tag](http://msdn.microsoft.com/library/d0f041c0-d7bc-7a4f-df9b-ba62fa08f1ca%28Office.15%29.aspx)|
 
 ## See also
 
@@ -57,5 +57,5 @@ public void ToggleButtonOnAction(IRibbonControl control, bool pressed)
 #### Other resources
 
 
-[IRibbonControl Object Members](http://msdn.microsoft.com/library/iribboncontrol-members-office%28Office.15%29.aspx)
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[IRibbonControl Object Members](http://msdn.microsoft.com/library/396d85dc-ddd5-8985-0830-22ee5b1579dc%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)

@@ -60,7 +60,7 @@ ms.assetid: 26090216-916d-43e0-98a4-72c710d76cd8
     
 -  [How to: Control the Extent of Scrolling in a Scroll Bar](how-to-control-the-extent-of-scrolling-in-a-scroll-bar.md)
     
--  [How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form](how-to-control-the-focus-when-the-user-cycles-through-controls-in-a-frame-or-multipage-control-on-a-form.md)
+-  [How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form](how-to-control-the-focus-when-the-user-cycles-through-controls-in-a-frame-or-mul.md)
     
 -  [How to: Control the Selection Behavior and Drag Behavior When Entering a Text Box](how-to-control-the-selection-behavior-and-drag-behavior-when-entering-a-text-box.md)
     
@@ -72,15 +72,15 @@ ms.assetid: 26090216-916d-43e0-98a4-72c710d76cd8
     
 -  [How to: Display the List Portion of a Combo Box](how-to-display-the-list-portion-of-a-combo-box.md)
     
--  [How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control](how-to-display-the-name-of-each-control-on-a-form-or-a-page-of-a-multipage-control.md)
+-  [How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control](how-to-display-the-name-of-each-control-on-a-form-or-a-page-of-a-multipage-contr.md)
     
 -  [How to: Display the Name of Each Control on a Page](how-to-display-the-name-of-each-control-on-a-page.md)
     
--  [How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form](how-to-display-the-number-of-pages-and-tabs-in-multipage-and-tabstrip-controls-on-a-form.md)
+-  [How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form](how-to-display-the-number-of-pages-and-tabs-in-multipage-and-tabstrip-controls-o.md)
     
 -  [How to: Enable and Lock a Text Box from User Entry](how-to-enable-and-lock-a-text-box-from-user-entry.md)
     
--  [How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control](how-to-enhance-the-border-style-color-and-special-effects-of-a-text-box-control.md)
+-  [How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control](how-to-enhance-the-border-stylecolor-and-special-effects-of-a-text-box-control.md)
     
 -  [How to: Give a Control a 3-D Appearance Programmatically](how-to-give-a-control-a-3-d-appearance-programmatically.md)
     
@@ -94,7 +94,7 @@ ms.assetid: 26090216-916d-43e0-98a4-72c710d76cd8
     
 -  [How to: Place an Image and a Caption on a Command Button](how-to-place-an-image-and-a-caption-on-a-command-button.md)
     
--  [How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control](how-to-reference-a-custom-property-that-has-the-same-name-as-a-built-in-property-of-the-control.md)
+-  [How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control](how-to-reference-a-custom-property-that-has-the-same-name-as-a-built-in-property.md)
     
 -  [How to: Reference the Parent Object of a Control](how-to-reference-the-parent-object-of-a-control.md)
     
@@ -130,7 +130,7 @@ ms.assetid: 26090216-916d-43e0-98a4-72c710d76cd8
     
 -  [How to: Specify the Column in a Multi-Column List Box to Display to the User](how-to-specify-the-column-in-a-multi-column-list-box-to-display-to-the-user.md)
     
--  [How to: Specify the Column in a Multi-Column List Box to Store Data for the Control](how-to-specify-the-column-in-a-multi-column-list-box-to-store-data-for-the-control.md)
+-  [How to: Specify the Column in a Multi-Column List Box to Store Data for the Control](how-to-specify-the-column-in-a-multi-column-list-box-to-store-data-for-the-contr.md)
     
 -  [How to: Specify the Number of Rows in a Combo Box](how-to-specify-the-number-of-rows-in-a-combo-box.md)
     

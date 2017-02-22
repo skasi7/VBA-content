@@ -12,7 +12,7 @@ ms.assetid: 12148fae-ede6-9b05-9283-710f2bb68bbf
 
 # LineFormat.EndArrowheadWidth Property (Excel)
 
-Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadWidth](http://msdn.microsoft.com/library/msoarrowheadwidth-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** .
 
 
 ## Syntax

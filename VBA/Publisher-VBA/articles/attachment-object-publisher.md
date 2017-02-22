@@ -28,7 +28,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 Before running this macro, place a file named  _image.bmp_ in the root of the C drive on your computer, or change the name and file path of the file in the macro to specify the one you want to attach.
 
-Note that to send an e-mail merge message, you must connect to a data source, create the e-mail merge, and then send the message. For more information, see the  **[EmailMergeEnvelope](http://msdn.microsoft.com/library/emailmergeenvelope-object-publisher%28Office.15%29.aspx)** object topic.
+Note that to send an e-mail merge message, you must connect to a data source, create the e-mail merge, and then send the message. For more information, see the  **[EmailMergeEnvelope](http://msdn.microsoft.com/library/555dd80e-bac2-96dd-4256-ad1b8006da0f%28Office.15%29.aspx)** object topic.
 
 
 
@@ -57,7 +57,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Delete](http://msdn.microsoft.com/library/attachment-delete-method-publisher%28Office.15%29.aspx)|
+|[Delete](http://msdn.microsoft.com/library/935fa9e7-9d40-b820-e386-1a1960845da1%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -65,7 +65,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Name](http://msdn.microsoft.com/library/attachment-name-property-publisher%28Office.15%29.aspx)|
+|[Name](http://msdn.microsoft.com/library/7539a5ac-427f-0dfe-dc31-47ef9436fd14%28Office.15%29.aspx)|
 
 ## See also
 
@@ -73,4 +73,4 @@ End Sub
 #### Other resources
 
 
-[Attachment Object Members](http://msdn.microsoft.com/library/attachment-members-publisher%28Office.15%29.aspx)
+[Attachment Object Members](http://msdn.microsoft.com/library/594cf3eb-73d8-afa9-b598-ab68066dde8b%28Office.15%29.aspx)

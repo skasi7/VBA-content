@@ -12,7 +12,7 @@ ms.assetid: 6b10c853-432f-e193-3737-0e882effa3cd
 
 # ShadowFormat.Style Property (Excel)
 
-Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle](http://msdn.microsoft.com/library/msoshadowstyle-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle](http://msdn.microsoft.com/library/98bbf0a7-03f5-449e-b469-3652d7642b4a%28Office.15%29.aspx)** .
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.assetid: 19773cce-32d3-b07f-4650-5a19a4aa469a
 
 # TextEffectFormat.FontBold Property (Excel)
 
- **True** if the font in the specified WordArt is bold. Read/write **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+ **True** if the font in the specified WordArt is bold. Read/write **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

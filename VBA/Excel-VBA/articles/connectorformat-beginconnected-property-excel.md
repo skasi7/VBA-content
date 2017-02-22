@@ -12,7 +12,7 @@ ms.assetid: 2ebc4d15-e6f3-a0c9-056e-78004465c60c
 
 # ConnectorFormat.BeginConnected Property (Excel)
 
- **True** if the beginning of the specified connector is connected to a shape. Read-only **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+ **True** if the beginning of the specified connector is connected to a shape. Read-only **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

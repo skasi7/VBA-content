@@ -38,7 +38,7 @@ If you do not have address verification software installed on your computer, the
 
  **Note**  The Handled parameter does not function correctly in this version of the event; use the  **[MailMergeDataSourceValidate2](application-mailmergedatasourcevalidate2-event-word.md)** event. In addition, you cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in COM add-ins. For managed add-ins and external applications, use the **MailMergeDataSourceValidate2** event.
 
-For information about using events with the  **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/using-events-with-the-application-object-word%28Office.15%29.aspx).
+For information about using events with the  **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 
 
 ## See also

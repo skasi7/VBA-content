@@ -53,8 +53,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Delete](http://msdn.microsoft.com/library/pictureeffects-delete-method-office%28Office.15%29.aspx)|
-|[Insert](http://msdn.microsoft.com/library/pictureeffects-insert-method-office%28Office.15%29.aspx)|
+|[Delete](http://msdn.microsoft.com/library/791c409d-26e6-b4d7-8625-ad8cfe7c797e%28Office.15%29.aspx)|
+|[Insert](http://msdn.microsoft.com/library/589c38d7-1d0a-ad87-a84c-72147b6b07cf%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -62,10 +62,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/pictureeffects-application-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/pictureeffects-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/pictureeffects-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/pictureeffects-item-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/3aa0b57d-2bf7-8d54-3b2e-e23bef0f20af%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/3832dfbd-8c4c-fbee-613d-f31d2b1c9387%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/587a6d8a-9c50-802e-1e10-561c821eb985%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/bd92a68a-059b-d96c-a86f-7c6754b23026%28Office.15%29.aspx)|
 
 ## See also
 
@@ -73,5 +73,5 @@ End Sub
 #### Other resources
 
 
-[PictureEffects Object Members](http://msdn.microsoft.com/library/pictureeffects-members-office%28Office.15%29.aspx)
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[PictureEffects Object Members](http://msdn.microsoft.com/library/fe7a9f46-f5fa-8ab9-5fb6-c88d283e4663%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)

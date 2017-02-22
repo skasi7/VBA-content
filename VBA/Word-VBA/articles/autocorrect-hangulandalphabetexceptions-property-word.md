@@ -26,7 +26,7 @@ Returns a  **[HangulAndAlphabetExceptions](hangulandalphabetexceptions-object-wo
 
 This list corresponds to the list of Hangul and alphabet AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/returning-an-object-from-a-collection-word%28Office.15%29.aspx).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example

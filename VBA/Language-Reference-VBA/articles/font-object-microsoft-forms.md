@@ -22,6 +22,6 @@ The default property for the  **Font** object is the **Name** property. If the *
 
 ## Related Topics
 
-[Font Object](http://msdn.microsoft.com/library/combobox-object-reference-outlook-forms-script%28Office.15%29.aspx)
+[Font Object](http://msdn.microsoft.com/library/b62f1922-e104-4632-9e6a-fb602f3fe336%28Office.15%29.aspx)
 
 

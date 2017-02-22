@@ -10,7 +10,7 @@ ms.assetid: eb622f92-c62f-9b33-6782-a6c85c973ba1
 
 # ChartFormat.Glow Property (PowerPoint)
 
-Returns the glow formatting properties for the chart element. Read-only  **[GlowFormat](http://msdn.microsoft.com/library/glowformat-object-office%28Office.15%29.aspx)**.
+Returns the glow formatting properties for the chart element. Read-only  **[GlowFormat](http://msdn.microsoft.com/library/b89e2245-e3a4-4a8c-cd4f-86396ad71a5b%28Office.15%29.aspx)**.
 
 
 ## Syntax

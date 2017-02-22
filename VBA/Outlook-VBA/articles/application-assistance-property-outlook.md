@@ -12,7 +12,7 @@ ms.assetid: 14d6eb82-82ab-ea67-6a0b-103a535b8d41
 
 # Application.Assistance Property (Outlook)
 
-Returns an  **[IAssistance](http://msdn.microsoft.com/library/iassistance-object-office%28Office.15%29.aspx)** object used to invoke help. Read-only.
+Returns an  **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)** object used to invoke help. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ This section of the object library for Microsoft Office  contains documentation 
 
 ##Related topics
 
-[Getting Started with VBA in Office](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
+[Getting Started with VBA in Office](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/7208a87a-a567-41d9-af5b-0df3884c58d9.md): Provides insight into how VBA programming can help to customize Office solutions.
 
-[What's New for VBA in Office 2016](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
+[What's New for VBA in Office 2016](https://github.com/OfficeDev/VBA-content/blob/master/VBA/Library-Reference-VBA/articles/c0294abb-bc0e-495d-b387-4398378dd3ad.md): Lists the new VBA language elements for Office 2016.
 

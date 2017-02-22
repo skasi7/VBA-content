@@ -12,7 +12,7 @@ ms.assetid: d2b7670f-2715-51f6-1c67-434e3ab39a67
 
 # ShapeRange.Glow Property (Excel)
 
-Returns a  **[GlowFormat](http://msdn.microsoft.com/library/glowformat-object-office%28Office.15%29.aspx)** object for a specified shape range that contains glow formatting properties for the shape range. Read-only.
+Returns a  **[GlowFormat](http://msdn.microsoft.com/library/b89e2245-e3a4-4a8c-cd4f-86396ad71a5b%28Office.15%29.aspx)** object for a specified shape range that contains glow formatting properties for the shape range. Read-only.
 
 
 ## Syntax

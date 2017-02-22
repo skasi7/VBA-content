@@ -19,7 +19,7 @@ Returns an  **[Application](application-object-word.md)** object that represents
 
  _expression_ . **Application**
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ## Remarks
@@ -33,5 +33,5 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

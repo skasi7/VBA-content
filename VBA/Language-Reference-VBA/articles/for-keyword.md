@@ -12,9 +12,9 @@ ms.assetid: f6f6660b-5753-2699-267b-edc7dad680dc
 
 The  **For** keyword is used in these contexts:
 
-[For...Next Statement](for---next-statement.md)
+[For...Next Statement](fornext-statement.md)
 
-[For Each...Next Statement](for-each---next-statement.md)
+[For Each...Next Statement](for-eachnext-statement.md)
 
 [Open Statement](open-statement.md)
 

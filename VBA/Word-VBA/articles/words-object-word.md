@@ -58,7 +58,7 @@ numWords = temp.Words
 ```
 
 
- **Note**  For more information about calling built-in dialog boxes, see [Displaying built-in Word dialog boxes](http://msdn.microsoft.com/library/displaying-built-in-word-dialog-boxes%28Office.15%29.aspx).
+ **Note**  For more information about calling built-in dialog boxes, see [Displaying built-in Word dialog boxes](http://msdn.microsoft.com/library/abe465f9-09a1-72ea-2e2d-9de14fc02434%28Office.15%29.aspx).
 
 The  **Add** method is not available for the **Words** collection. Instead, use the **InsertAfter** method or the **InsertBefore** method to add text to a **Range** object. The following code example inserts text after the first word in the active document.
 
@@ -97,4 +97,4 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)

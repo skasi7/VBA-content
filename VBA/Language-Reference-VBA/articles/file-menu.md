@@ -22,7 +22,7 @@ ms.assetid: 1affc2fd-9a01-be54-de9c-bc51ddb6c417
 [Remove <Item>](remove-item-command-file-menu.md)
 [Print](print-command-file-menu.md)
 [Make <Project>](make-project-command-file-menu.md)
-[Close and Return to <host application>](close-;-return-to-host-application-command-file-menu.md)
+[Close and Return to <host application>](closereturn-to-host-application-command-file-menu.md)
 
  **Note**  Some menu items are not available in all editions of the Visual Basic Editor.
 

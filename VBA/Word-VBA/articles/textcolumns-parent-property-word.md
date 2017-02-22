@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **Text
 
  _expression_ . **Parent**
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ## See also
@@ -28,5 +28,5 @@ Returns an  **Object** that represents the parent object of the specified **Text
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

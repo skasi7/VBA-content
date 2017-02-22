@@ -12,7 +12,7 @@ ms.assetid: 90cdad1e-ecc5-e5be-4270-51c28666b0f4
 
 # ShapeRange.Fill Property (Excel)
 
-Returns a  **[FillFormat](fillformat-object-excel.md)** object for a specified shape or a **[ChartFillFormat](http://msdn.microsoft.com/library/chartfillformat-object%28Office.15%29.aspx)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
+Returns a  **[FillFormat](fillformat-object-excel.md)** object for a specified shape or a **[ChartFillFormat](http://msdn.microsoft.com/library/e011f58f-141b-1b21-0db4-04a5c5e964c6%28Office.15%29.aspx)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
 
 
 ## Syntax

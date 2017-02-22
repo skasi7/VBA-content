@@ -23,7 +23,7 @@ Conditional statements evaluate whether a condition is  **True** or **False**, a
 
 
 
-- [If...Then...Else](using-if---then---else-statements.md): Branching when a condition is  **True** or **False**
+- [If...Then...Else](using-ifthenelse-statements.md): Branching when a condition is  **True** or **False**
     
 - [Select Case](using-select-case-statements.md): Selecting a branch from a set of conditions
     
@@ -40,11 +40,11 @@ Looping allows you to run a group of statements repeatedly. Some loops repeat st
 
 
 
-- [Do...Loop](using-do---loop-statements.md): Looping while or until a condition is  **True**
+- [Do...Loop](using-doloop-statements.md): Looping while or until a condition is  **True**
     
-- [For...Next](using-for---next-statements.md): Using a counter to run statements a specified number of times
+- [For...Next](using-fornext-statements.md): Using a counter to run statements a specified number of times
     
-- [For Each...Next](using-for-each---next-statements.md): Repeating a group of statements for each object in a collection
+- [For Each...Next](using-for-eachnext-statements.md): Repeating a group of statements for each object in a collection
     
 
 

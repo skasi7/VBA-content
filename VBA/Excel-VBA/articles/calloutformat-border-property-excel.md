@@ -12,7 +12,7 @@ ms.assetid: 6d0c78d9-b30a-c1ff-940a-e15b4decad42
 
 # CalloutFormat.Border Property (Excel)
 
-Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** value that represents the visibility options for the border of the object.
+Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** value that represents the visibility options for the border of the object.
 
 
 ## Syntax

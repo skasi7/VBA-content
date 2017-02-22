@@ -16,7 +16,7 @@ Represents a range of text that has been updated by a co-author.
 
 When a document that has co-authoring enabled is edited by more than one author, changes to the document by one author are pushed to other authors' versions of the document by using updates. When a co-author performs an explicit document save (by pressing  **CTRL** + **S**, for example), changes made by other co-authors are merged into the document as updates. The  **CoAuthUpdates** collection contains all changes that were merged into the document, where each change is a single update represented by a **CoAuthUpdate** object.
 
-The contents of the  **CoAuthUpdates** collection remains the same until a co-author performs another explicit document save. When the co-author saves the document again, if there are no new changes from other co-authors that are merged into the document, the **CoAuthUpdates** collection retains the same updates that were merged at the previous explicit save. If there are new changes that are merged into the document, the **CoAuthUpdates** collection contains the new updates for the document. Use a **CoAuthUpdate** object to retrieve an individual update from the **[CoAuthUpdates](http://msdn.microsoft.com/library/coauthupdates-object-word%28Office.15%29.aspx)** collection.
+The contents of the  **CoAuthUpdates** collection remains the same until a co-author performs another explicit document save. When the co-author saves the document again, if there are no new changes from other co-authors that are merged into the document, the **CoAuthUpdates** collection retains the same updates that were merged at the previous explicit save. If there are new changes that are merged into the document, the **CoAuthUpdates** collection contains the new updates for the document. Use a **CoAuthUpdate** object to retrieve an individual update from the **[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx)** collection.
 
 
 ## Example
@@ -41,6 +41,6 @@ Next caUpdate
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 
 

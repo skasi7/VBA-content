@@ -26,7 +26,7 @@ The following is an example of a text box control that has been bound to the Org
 
 
 
-For more information about Outlook controls, see [Controls in a Custom Form](http://msdn.microsoft.com/library/controls-in-a-custom-form%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
+For more information about Outlook controls, see [Controls in a Custom Form](http://msdn.microsoft.com/library/fcba1b34-c526-5d01-8644-cb8852bd2348%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that use Outlook controls, see code sample downloads on MSDN. 
 
 
 ## Events
@@ -102,4 +102,4 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

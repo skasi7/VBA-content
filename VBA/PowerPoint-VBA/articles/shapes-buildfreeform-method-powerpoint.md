@@ -26,7 +26,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](freeformbuilder-object-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _EditingType_|Required|**[MsoEditingType](http://msdn.microsoft.com/library/msoeditingtype-enumeration-office%28Office.15%29.aspx)**|The editing property of the first node.|
+| _EditingType_|Required|**[MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)**|The editing property of the first node.|
 | _X1_|Required|**Single**|The horizontal position, measured in points, of the first node in the freeform drawing relative to the left edge of the slide.|
 | _Y1_|Required|**Single**|The vertical position, measured in points, of the first node in the freeform drawing relative to the top edge of the slide.|
 

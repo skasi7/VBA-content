@@ -12,7 +12,7 @@ ms.assetid: 0d080961-6396-1b25-3877-325bae94ea3b
 
 # Shape.BackgroundStyle Property (Excel)
 
-Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](http://msdn.microsoft.com/library/msobackgroundstyleindex-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](http://msdn.microsoft.com/library/76a4589b-404b-0e8e-3b75-d72d65ba2987%28Office.15%29.aspx)** .
 
 
 ## Syntax

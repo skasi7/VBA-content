@@ -93,6 +93,6 @@ End Sub
 #### Other resources
 
 
-[How to: Obtain and Log On to an Instance of Outlook](http://msdn.microsoft.com/library/obtain-and-log-on-to-an-instance-of-outlook%28Office.15%29.aspx)
+[How to: Obtain and Log On to an Instance of Outlook](http://msdn.microsoft.com/library/ef369364-6500-2759-3ef4-ed4411112e96%28Office.15%29.aspx)
 
 

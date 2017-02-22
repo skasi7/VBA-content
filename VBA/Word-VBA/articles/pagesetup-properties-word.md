@@ -44,7 +44,7 @@ ms.assetid: c2fce792-f4c4-4945-81aa-a04710d38a65
 |[SectionStart](pagesetup-sectionstart-property-word.md)|Returns or sets the type of section break for the specified object. Read/write  **WdSectionStart** .|
 |[ShowGrid](pagesetup-showgrid-property-word.md)| **True** to display the page grid. **False** to hide it. Read/write **Boolean**.|
 |[SuppressEndnotes](pagesetup-suppressendnotes-property-word.md)| **True** if endnotes are printed at the end of the next section that doesn't suppress endnotes. Read/write **Long** .|
-|[TextColumns](pagesetup-textcolumns-property-word.md)|Returns a  **[TextColumns](textcolumns-object-word.md)** collection that represents the set of text columns for the specified **PageSetup** object.|
+|[TextColumns](pagesetup-textcolumns-property-word.md)|Returns a  **[TextColumns](textcolumns-objectword.md)** collection that represents the set of text columns for the specified **PageSetup** object.|
 |[TopMargin](pagesetup-topmargin-property-word.md)|Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single** .|
 |[TwoPagesOnOne](pagesetup-twopagesonone-property-word.md)| **True** if Microsoft Word prints the specified document two pages per sheet. Read/write **Boolean** .|
 |[VerticalAlignment](pagesetup-verticalalignment-property-word.md)|Returns or sets the vertical alignment of text on each page in a document or section. Read/write  **[WdVerticalAlignment](wdverticalalignment-enumeration-word.md)** .|

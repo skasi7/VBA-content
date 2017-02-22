@@ -12,7 +12,7 @@ ms.assetid: 8f3dab54-4597-e22c-ae3e-cf894849b668
 
 # CalloutFormat.Angle Property (Excel)
 
-Returns or sets the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write  **[MsoCalloutAngleType](http://msdn.microsoft.com/library/msocalloutangletype-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write  **[MsoCalloutAngleType](http://msdn.microsoft.com/library/f4535cc0-9c8c-6579-67d5-532650dec2ef%28Office.15%29.aspx)** .
 
 
 ## Syntax

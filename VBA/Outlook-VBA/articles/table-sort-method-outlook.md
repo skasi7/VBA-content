@@ -33,7 +33,7 @@ Sorts the rows of the  **[Table](table-object-outlook.md)** by the property spec
 
 ## Remarks
 
- _SortProperty_ can be any explicit built-in property or custom property, with the exception of binary and multi-valued properties. The property must be referenced by its explicit string name; it cannot be referenced by namespace. For futher information on specifying sort properties, see[Sorting Items in a Folder](http://msdn.microsoft.com/library/sorting-items-in-a-folder%28Office.15%29.aspx).
+ _SortProperty_ can be any explicit built-in property or custom property, with the exception of binary and multi-valued properties. The property must be referenced by its explicit string name; it cannot be referenced by namespace. For futher information on specifying sort properties, see[Sorting Items in a Folder](http://msdn.microsoft.com/library/bc3651da-cfdb-4301-4034-bb848f371e55%28Office.15%29.aspx).
 
 Sorting the table is equivalent to calling a  **[MoveToStart](table-movetostart-method-outlook.md)** method. The cursor will be positioned to the start of the Table.
 

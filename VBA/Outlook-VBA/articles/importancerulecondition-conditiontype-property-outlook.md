@@ -24,7 +24,7 @@ Returns a constant,  **olConditionImportance** , from the **[OlRuleConditionType
 
 ## Remarks
 
-The form name rule condition is supported by rules for receiving messages and rules for sending messages. For more information, see [Specify Rule Conditions](http://msdn.microsoft.com/library/specifying-rule-conditions%28Office.15%29.aspx).
+The form name rule condition is supported by rules for receiving messages and rules for sending messages. For more information, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
 
 ## See also

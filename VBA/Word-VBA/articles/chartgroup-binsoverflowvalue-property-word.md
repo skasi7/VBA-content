@@ -9,7 +9,7 @@ ms.assetid: 288b119a-7a76-2b56-4181-9d39a5be397f
 
 # ChartGroup.BinsOverflowValue Property (Word)
 
-If an [BinsOverflowEnabled](http://msdn.microsoft.com/library/chartgroup-binsoverflowenabled-property-excel%28Office.15%29.aspx) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
+If an [BinsOverflowEnabled](http://msdn.microsoft.com/library/3af8d552-94e1-6f15-df2b-38fb7d3a0be1%28Office.15%29.aspx) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
 
 
 ## Syntax

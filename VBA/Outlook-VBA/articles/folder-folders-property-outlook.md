@@ -12,7 +12,7 @@ ms.assetid: 41464c32-023e-9079-4f24-51586305325c
 
 # Folder.Folders Property (Outlook)
 
-Returns the  **[Folders](http://msdn.microsoft.com/library/folders-object-outlook%28Office.15%29.aspx)** collection that represents all the folders contained in the specified **[Folder](folder-object-outlook.md)**. Read-only.
+Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-982d-a0097fcb35c2%28Office.15%29.aspx)** collection that represents all the folders contained in the specified **[Folder](folder-object-outlook.md)**. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ The  **[NameSpace](namespace-object-outlook.md)** object is the root of all the 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Folders.Add](http://msdn.microsoft.com/library/folders-add-method-outlook%28Office.15%29.aspx)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
+This Visual Basic for Applications (VBA) example uses the  **[Folders.Add](http://msdn.microsoft.com/library/20ced7ad-779c-a9b0-267e-6d729c0eb822%28Office.15%29.aspx)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
 
 
 ```
@@ -106,4 +106,4 @@ End Sub
 #### Other resources
 
 
-[Folder Object Members](http://msdn.microsoft.com/library/folder-members-outlook%28Office.15%29.aspx)
+[Folder Object Members](http://msdn.microsoft.com/library/788acd42-377a-1803-7713-50e45086e2d1%28Office.15%29.aspx)

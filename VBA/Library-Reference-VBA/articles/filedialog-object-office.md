@@ -85,8 +85,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Execute](http://msdn.microsoft.com/library/filedialog-execute-method-office%28Office.15%29.aspx)|
-|[Show](http://msdn.microsoft.com/library/filedialog-show-method-office%28Office.15%29.aspx)|
+|[Execute](http://msdn.microsoft.com/library/63899b0e-51d4-f20a-b114-c713d8743527%28Office.15%29.aspx)|
+|[Show](http://msdn.microsoft.com/library/e67f7fc3-326d-12d0-fe44-e20048ff6abf%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -95,27 +95,27 @@ End Sub
 
 |**Name**|
 |:-----|
-|[AllowMultiSelect](http://msdn.microsoft.com/library/filedialog-allowmultiselect-property-office%28Office.15%29.aspx)|
-|[Application](http://msdn.microsoft.com/library/filedialog-application-property-office%28Office.15%29.aspx)|
-|[ButtonName](http://msdn.microsoft.com/library/filedialog-buttonname-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/filedialog-creator-property-office%28Office.15%29.aspx)|
-|[DialogType](http://msdn.microsoft.com/library/filedialog-dialogtype-property-office%28Office.15%29.aspx)|
-|[FilterIndex](http://msdn.microsoft.com/library/filedialog-filterindex-property-office%28Office.15%29.aspx)|
-|[Filters](http://msdn.microsoft.com/library/filedialog-filters-property-office%28Office.15%29.aspx)|
-|[InitialFileName](http://msdn.microsoft.com/library/filedialog-initialfilename-property-office%28Office.15%29.aspx)|
-|[InitialView](http://msdn.microsoft.com/library/filedialog-initialview-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/filedialog-item-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/filedialog-parent-property-office%28Office.15%29.aspx)|
-|[SelectedItems](http://msdn.microsoft.com/library/filedialog-selecteditems-property-office%28Office.15%29.aspx)|
-|[Title](http://msdn.microsoft.com/library/filedialog-title-property-office%28Office.15%29.aspx)|
+|[AllowMultiSelect](http://msdn.microsoft.com/library/b109b0b5-1a94-c93f-a1c0-43728d7b9f30%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/797e82c7-0737-03ae-7df3-7178bc6ff328%28Office.15%29.aspx)|
+|[ButtonName](http://msdn.microsoft.com/library/9f9a4f26-bd96-6e8d-099d-df15ed5e585f%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/682d031d-8107-8a89-4cb1-6cbe8524fc95%28Office.15%29.aspx)|
+|[DialogType](http://msdn.microsoft.com/library/c589fe49-6527-7cdc-b7cb-55ac71013f3c%28Office.15%29.aspx)|
+|[FilterIndex](http://msdn.microsoft.com/library/102d3266-caab-1101-2234-68d975e11348%28Office.15%29.aspx)|
+|[Filters](http://msdn.microsoft.com/library/0aef7760-a618-c20c-0816-98be1b93e564%28Office.15%29.aspx)|
+|[InitialFileName](http://msdn.microsoft.com/library/900970fe-1331-9b0a-3182-953cb6b583ce%28Office.15%29.aspx)|
+|[InitialView](http://msdn.microsoft.com/library/17950503-6511-8159-7f9f-406dd22e4fca%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/e29dab4e-4226-32bf-f4c2-3afaeb0e3616%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/c305bcd3-dc42-f84e-abc2-1ee4a1092ef8%28Office.15%29.aspx)|
+|[SelectedItems](http://msdn.microsoft.com/library/af45013a-c745-3f14-9c12-64a1c2b50279%28Office.15%29.aspx)|
+|[Title](http://msdn.microsoft.com/library/a2d43a1d-78ce-3f8f-7763-7324e5af183d%28Office.15%29.aspx)|
 
 ## See also
 
 
 #### Other resources
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
 =======
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](499c789a-aba2-0fad-649a-0ea964cd3b5e.md)
 >>>>>>> d7667e83d23dbf8ebf5bf068ba6fed14c840c0f5
 

@@ -10,7 +10,7 @@ ms.assetid: dd0c2c5a-81f1-b008-5b2f-5248241ac0db
 
 # FillFormat.GradientStops Property (PowerPoint)
 
- Returns the **[GradientStops](http://msdn.microsoft.com/library/gradientstops-object-office%28Office.15%29.aspx)** collection associated with the specified fill format. Read-only.
+ Returns the **[GradientStops](http://msdn.microsoft.com/library/365949f0-29b3-76e1-1163-2ac870f68f7a%28Office.15%29.aspx)** collection associated with the specified fill format. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ GradientStops
 
 ## Remarks
 
-You can use the  **[GradientStops.Insert](http://msdn.microsoft.com/library/gradientstops-insert-method-office%28Office.15%29.aspx)** method to add gradient stops to the **GradientStops** collection for the specified object.
+You can use the  **[GradientStops.Insert](http://msdn.microsoft.com/library/98aec7ed-44f9-c9b4-7a1a-e5b9a1d26d95%28Office.15%29.aspx)** method to add gradient stops to the **GradientStops** collection for the specified object.
 
 
 ## Example

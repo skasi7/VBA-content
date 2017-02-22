@@ -14,7 +14,7 @@ ms.assetid: 03bd5108-dab6-4555-869e-5219471f5f93
     
 -  [Add Items to a List in Design Mode](add-items-to-a-list-in-design-mode.md)
     
--  [Align Text in a Control](align-text-in-a-control-1.md)
+-  [Align Text in a Control](align-text-in-a-control.md)
     
 -  [Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab](assign-a-control-tip-caption-or-accelerator-key-to-a-page-or-tab.md)
     

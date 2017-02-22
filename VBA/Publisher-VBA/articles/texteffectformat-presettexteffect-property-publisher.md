@@ -29,7 +29,7 @@ MsoPresetTextEffect
 
 ## Remarks
 
-The  **PresetTextEffect** property value can be one of the ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/msopresettexteffect-enumeration-office%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **PresetTextEffect** property value can be one of the ** [MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

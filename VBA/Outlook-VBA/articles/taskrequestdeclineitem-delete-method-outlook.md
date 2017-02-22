@@ -40,5 +40,5 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 
 
-[Delete All Items and Subfolders in the Deleted Items Folder](http://msdn.microsoft.com/library/delete-all-items-and-subfolders-in-the-deleted-items-folder%28Office.15%29.aspx)
+[Delete All Items and Subfolders in the Deleted Items Folder](http://msdn.microsoft.com/library/359a416b-43d4-396e-e348-5624c4ca3599%28Office.15%29.aspx)
 

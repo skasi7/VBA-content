@@ -10,7 +10,7 @@ ms.assetid: 7a7649f9-7efa-57e7-15db-a16991dc6f09
 
 # CustomerData.Delete Method (PowerPoint)
 
-Deletes the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/customxmlpart-object-office%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection of a **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, or **[Slide](slide-object-powerpoint.md)** object.
+Deletes the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection of a **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, or **[Slide](slide-object-powerpoint.md)** object.
 
 
 ## Syntax

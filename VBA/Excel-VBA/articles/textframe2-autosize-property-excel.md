@@ -9,7 +9,7 @@ ms.assetid: 8c2659b2-a315-18c3-23f3-7b1488ce8107
 
 # TextFrame2.AutoSize Property (Excel)
 
-The size of the specified object that changes automatically to fit text within its boundaries. Read/write  **[MsoAutoSize](http://msdn.microsoft.com/library/msoautosize-enumeration-office%28Office.15%29.aspx)** .
+The size of the specified object that changes automatically to fit text within its boundaries. Read/write  **[MsoAutoSize](http://msdn.microsoft.com/library/f3118964-77e6-96df-e606-dfd191434086%28Office.15%29.aspx)** .
 
 
 ## Syntax

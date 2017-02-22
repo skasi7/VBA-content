@@ -12,7 +12,7 @@ ms.assetid: bfb1fe5e-a87d-e54c-dc2f-5dd308dc8a8b
 
 # Application.Assistance Property (Excel)
 
-Returns an  **[IAssistance](http://msdn.microsoft.com/library/iassistance-object-office%28Office.15%29.aspx)** object for Microsoft Excel that represents the Microsoft Office Help Viewer. Read-only.
+Returns an  **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c-67f0-d02598eb60ba%28Office.15%29.aspx)** object for Microsoft Excel that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax

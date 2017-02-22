@@ -12,7 +12,7 @@ ms.assetid: 631879d9-f43f-4985-32d0-77bf314956eb
 
 # Application.LanguageSettings Property (Excel)
 
-Returns the  **[LanguageSettings](http://msdn.microsoft.com/library/languagesettings-object-office%28Office.15%29.aspx)** object, which contains information about the language settings in Microsoft Excel. Read-only.
+Returns the  **[LanguageSettings](http://msdn.microsoft.com/library/936f7d61-87e5-e153-08d4-f8c5c8ef0710%28Office.15%29.aspx)** object, which contains information about the language settings in Microsoft Excel. Read-only.
 
 
 ## Syntax

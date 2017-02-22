@@ -14,21 +14,21 @@ ms.assetid: 6b2abc26-ad22-4b28-9a2b-d178d32538ed
     
 - [Operator Precedence](operator-precedence.md)
     
-- [- Operator](-operator-2.md)
+- [- Operator](-operator.md)
     
-- [&; Operator](-;-operator.md)
+- [&; Operator](-operator.md)
     
-- [* Operator](-operator-4.md)
+- [* Operator](-operator.md)
     
-- [/ Operator](-operator-1.md)
+- [/ Operator](-operator.md)
     
 - [\ Operator](-operator.md)
     
-- [^ Operator](^-operator.md)
+- [^ Operator](-carrot-operator.md)
     
-- [+ Operator](-operator-3.md)
+- [+ Operator](-plus-operator.md)
     
-- [= Operator](=-operator.md)
+- [= Operator](-equals-operator.md)
     
 - [AddressOf Operator](addressof-operator.md)
     

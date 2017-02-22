@@ -24,7 +24,7 @@ Returns or sets whether the texture fill is tiled or centered. Read/write.
 
 ## Remarks
 
-The value returned by the  **TextureTile** property can be one of the following[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx) constants.
+The value returned by the  **TextureTile** property can be one of the following[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx) constants.
 
 
 

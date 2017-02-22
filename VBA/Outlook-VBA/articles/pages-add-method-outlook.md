@@ -32,7 +32,7 @@ Creates a new page in the  **[Pages](pages-object-outlook.md)** collection.
 
 ### Return Value
 
-A  **[Page](http://msdn.microsoft.com/library/page-object-outlook-forms-script%28Office.15%29.aspx)** object that represents the new page.
+A  **[Page](http://msdn.microsoft.com/library/836941c3-c768-151a-65a5-41c71493033a%28Office.15%29.aspx)** object that represents the new page.
 
 
 ## Remarks

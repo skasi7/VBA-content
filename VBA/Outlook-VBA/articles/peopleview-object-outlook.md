@@ -21,6 +21,6 @@ Version Added: Outlook 2013
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [PeopleView Object Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
 

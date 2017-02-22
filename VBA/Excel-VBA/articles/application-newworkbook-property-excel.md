@@ -12,7 +12,7 @@ ms.assetid: 3a50a338-53be-3ac9-d398-c58084e19e6d
 
 # Application.NewWorkbook Property (Excel)
 
-Returns a  **[NewFile](http://msdn.microsoft.com/library/newfile-object-office%28Office.15%29.aspx)** object.
+Returns a  **[NewFile](http://msdn.microsoft.com/library/6f53ced5-4488-b67f-ca1f-729aeb790eb1%28Office.15%29.aspx)** object.
 
 
 ## Syntax

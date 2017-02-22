@@ -44,7 +44,7 @@ public string GetCustomUI(string RibbonID)
 
 |**Name**|
 |:-----|
-|[GetCustomUI](http://msdn.microsoft.com/library/iribbonextensibility-getcustomui-method-office%28Office.15%29.aspx)|
+|[GetCustomUI](http://msdn.microsoft.com/library/a0106415-999e-94da-379c-70fb7aa6119f%28Office.15%29.aspx)|
 
 ## See also
 
@@ -52,5 +52,5 @@ public string GetCustomUI(string RibbonID)
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[IRibbonExtensibility Object Members](http://msdn.microsoft.com/library/iribbonextensibility-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[IRibbonExtensibility Object Members](http://msdn.microsoft.com/library/8d8ecf4f-5502-1876-46af-381078c7710e%28Office.15%29.aspx)

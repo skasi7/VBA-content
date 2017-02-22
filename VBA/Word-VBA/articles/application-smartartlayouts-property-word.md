@@ -12,7 +12,7 @@ ms.assetid: dcbaf620-0865-8f2f-ef97-456edd0d70e3
 
 # Application.SmartArtLayouts Property (Word)
 
-Returns a [SmartArtLayouts](http://msdn.microsoft.com/library/smartartlayouts-object-office%28Office.15%29.aspx) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
+Returns a [SmartArtLayouts](http://msdn.microsoft.com/library/25e33439-fb5e-01d7-1b85-01884a42ba68%28Office.15%29.aspx) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ ms.assetid: 6e78d938-343c-304c-2a40-ccf747c4f15d
 
 # TextFrame.HorizontalAnchor Property (Word)
 
-Returns or sets the horizontal alignment of text in a text frame. Read/write  **[MsoHorizontalAnchor](http://msdn.microsoft.com/library/msohorizontalanchor-enumeration-office%28Office.15%29.aspx)** .
+Returns or sets the horizontal alignment of text in a text frame. Read/write  **[MsoHorizontalAnchor](http://msdn.microsoft.com/library/d70f3f09-65d7-956e-a312-7e5ae8a81b65%28Office.15%29.aspx)** .
 
 
 ## Syntax

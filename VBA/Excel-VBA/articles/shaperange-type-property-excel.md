@@ -12,7 +12,7 @@ ms.assetid: 0634ea7d-c1f9-0de0-d0a2-81ac8f7fbe88
 
 # ShapeRange.Type Property (Excel)
 
-Returns a  **[MsoShapeType](http://msdn.microsoft.com/library/msoshapetype-enumeration-office%28Office.15%29.aspx)** value that represents the shape type.
+Returns a  **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9885-5837-02db-65e60b91322b%28Office.15%29.aspx)** value that represents the shape type.
 
 
 ## Syntax

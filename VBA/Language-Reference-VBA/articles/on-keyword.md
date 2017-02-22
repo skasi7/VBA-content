@@ -14,7 +14,7 @@ The  **On** keyword is used in these contexts:
 
 [On Error Statement](on-error-statement.md)
 
-[On...GoSub Statement](on---gosub-on---goto-statements.md)
+[On...GoSub Statement](ongosub-ongoto-statements.md)
 
-[On...GoTo Statement](on---gosub-on---goto-statements.md)
+[On...GoTo Statement](ongosub-ongoto-statements.md)
 

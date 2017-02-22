@@ -19,7 +19,7 @@ Represents a rule condition that evaluates whether the address for the recipient
 
  **AddressRuleCondition** is derived from the **[RuleCondition](rulecondition-object-outlook.md)** object. Each rule is associated with a **[RuleConditions](ruleconditions-object-outlook.md)** object which has a **[RecipientAddress](ruleconditions-recipientaddress-property-outlook.md)** property and a **[SenderAddress](ruleconditions-senderaddress-property-outlook.md)**. Each of these properties always returns a **AddressRuleCondition** object. **[AddressRuleCondition.ConditionType](addressrulecondition-conditiontype-property-outlook.md)** distinguishes among these rule conditions. If the rule has any of these rule conditions enabled, then **[AddressRuleCondition.Enabled](addressrulecondition-enabled-property-outlook.md)** would be **True**.
 
-For more information on specifying rule actions, see [Specifying Rule Conditions](http://msdn.microsoft.com/library/specifying-rule-conditions%28Office.15%29.aspx).
+For more information on specifying rule actions, see [Specifying Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
 
 ## Properties
@@ -42,4 +42,4 @@ For more information on specifying rule actions, see [Specifying Rule Conditions
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

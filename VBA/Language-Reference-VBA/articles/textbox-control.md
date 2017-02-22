@@ -21,6 +21,6 @@ The default event for a  **TextBox** is the Change event.
 
 ## Related Topics
 
-[TextBox Object](http://msdn.microsoft.com/library/textbox-object-reference-outlook-forms-script%28Office.15%29.aspx)
+[TextBox Object](http://msdn.microsoft.com/library/f03639cb-d93a-4575-8249-777d4e1de1b5%28Office.15%29.aspx)
 
 

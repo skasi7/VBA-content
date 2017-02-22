@@ -74,9 +74,9 @@ End Function
 
 |**Name**|
 |:-----|
-|[Delete](http://msdn.microsoft.com/library/signature-delete-method-office%28Office.15%29.aspx)|
-|[ShowDetails](http://msdn.microsoft.com/library/signature-showdetails-method-office%28Office.15%29.aspx)|
-|[Sign](http://msdn.microsoft.com/library/signature-sign-method-office%28Office.15%29.aspx)|
+|[Delete](http://msdn.microsoft.com/library/c75a2200-081a-7f5c-ae02-ab7be845c003%28Office.15%29.aspx)|
+|[ShowDetails](http://msdn.microsoft.com/library/278b84b3-c500-6357-310b-537355ad20fd%28Office.15%29.aspx)|
+|[Sign](http://msdn.microsoft.com/library/37ba202a-da6d-9978-c8af-986a8218e004%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -84,16 +84,16 @@ End Function
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/signature-application-property-office%28Office.15%29.aspx)|
-|[CanSetup](http://msdn.microsoft.com/library/signature-cansetup-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/signature-creator-property-office%28Office.15%29.aspx)|
-|[Details](http://msdn.microsoft.com/library/signature-details-property-office%28Office.15%29.aspx)|
-|[IsSignatureLine](http://msdn.microsoft.com/library/signature-issignatureline-property-office%28Office.15%29.aspx)|
-|[IsSigned](http://msdn.microsoft.com/library/signature-issigned-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/signature-parent-property-office%28Office.15%29.aspx)|
-|[Setup](http://msdn.microsoft.com/library/signature-setup-property-office%28Office.15%29.aspx)|
-|[SignatureLineShape](http://msdn.microsoft.com/library/signature-signaturelineshape-property-office%28Office.15%29.aspx)|
-|[SortHint](http://msdn.microsoft.com/library/signature-sorthint-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/fc445340-37a7-f9df-49a6-1489ac49b5f6%28Office.15%29.aspx)|
+|[CanSetup](http://msdn.microsoft.com/library/6c4903e9-2fd0-3947-aeb1-c0bc9c437fe7%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/f0b89afe-1aee-d0bb-8756-40396e662b6d%28Office.15%29.aspx)|
+|[Details](http://msdn.microsoft.com/library/c5de710a-876f-8eb4-ec46-21359b8d4bf4%28Office.15%29.aspx)|
+|[IsSignatureLine](http://msdn.microsoft.com/library/88ed582d-ee3c-7aaa-cb46-90098f6968a9%28Office.15%29.aspx)|
+|[IsSigned](http://msdn.microsoft.com/library/ddaa2ad6-26ce-35d7-ed69-9faef04b7a31%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/0b30078a-8f03-48b6-2b72-b3f2ddfaa76f%28Office.15%29.aspx)|
+|[Setup](http://msdn.microsoft.com/library/9ccfd72f-af1c-a0d5-3a8f-97ee58bda211%28Office.15%29.aspx)|
+|[SignatureLineShape](http://msdn.microsoft.com/library/8ba372b9-40f9-bc9c-03de-97827b0c257d%28Office.15%29.aspx)|
+|[SortHint](http://msdn.microsoft.com/library/9554cf10-85ab-508c-a13e-08b9504bdd1a%28Office.15%29.aspx)|
 
 ## See also
 
@@ -101,5 +101,5 @@ End Function
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[Signature Object Members](http://msdn.microsoft.com/library/signature-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[Signature Object Members](http://msdn.microsoft.com/library/1054db23-fe1c-f81f-e44b-d8c2c82ca7fa%28Office.15%29.aspx)

@@ -12,7 +12,7 @@ ms.assetid: e2cb12c4-3162-2327-9210-bd912dffa8e9
 
 # Application.SmartArtColors Property (Word)
 
-Returns a [SmartArtColors](http://msdn.microsoft.com/library/smartartcolors-object-office%28Office.15%29.aspx) object that represents the set of color styles that are currently loaded in the application. Read-only.
+Returns a [SmartArtColors](http://msdn.microsoft.com/library/a1929517-b1fb-c6fe-b6db-03f7ef1ef894%28Office.15%29.aspx) object that represents the set of color styles that are currently loaded in the application. Read-only.
 
 
 ## Syntax

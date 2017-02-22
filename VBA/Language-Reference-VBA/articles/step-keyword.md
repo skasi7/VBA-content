@@ -12,8 +12,8 @@ ms.assetid: 26ab7313-9e9b-a0fb-86c5-098ef7a5a242
 
 The  **Step** keyword is used in these contexts:
 
-[For...Next Statement](for---next-statement.md)
+[For...Next Statement](fornext-statement.md)
 
-[For Each...Next Statement](for-each---next-statement.md)
+[For Each...Next Statement](for-eachnext-statement.md)
 
 

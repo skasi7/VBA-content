@@ -12,7 +12,7 @@ ms.assetid: fbc47fec-04c4-108c-3280-0931f77b4cb5
 
 # InlineShape.SmartArt Property (Word)
 
-Returns a [SmartArt](http://msdn.microsoft.com/library/smartart-object-office%28Office.15%29.aspx) object that provides a way to work with the SmartArt associated with the specified inline shape. Read-only.
+Returns a [SmartArt](http://msdn.microsoft.com/library/24332c9b-87c9-7678-9d9f-9e25f2370afc%28Office.15%29.aspx) object that provides a way to work with the SmartArt associated with the specified inline shape. Read-only.
 
 
 ## Syntax

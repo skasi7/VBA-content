@@ -28,7 +28,7 @@ The add-in indicates the storage and layout file for the form region in  **GetFo
 
 When the add-in closes the frame for the form region, the add-in must release the object for the form region.
 
-For more information on writing add-ins for form regions, see [Extending a Form Region with an Add-in](http://msdn.microsoft.com/library/extending-a-form-region-with-an-add-in%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup**, see code sample downloads on MSDN.
+For more information on writing add-ins for form regions, see [Extending a Form Region with an Add-in](http://msdn.microsoft.com/library/b1a28a20-a0b8-cc57-7672-da51ec8bb097%28Office.15%29.aspx). For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup**, see code sample downloads on MSDN.
 
 
 ## Methods
@@ -48,4 +48,4 @@ For more information on writing add-ins for form regions, see [Extending a Form 
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

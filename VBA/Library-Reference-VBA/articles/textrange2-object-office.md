@@ -42,5 +42,5 @@ End With
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[TextRange2 Object Members](http://msdn.microsoft.com/library/textrange2-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[TextRange2 Object Members](http://msdn.microsoft.com/library/26daffff-b9ef-fd94-f5b7-ed3a09840cb6%28Office.15%29.aspx)

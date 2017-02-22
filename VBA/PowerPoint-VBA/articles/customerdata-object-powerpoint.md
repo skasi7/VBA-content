@@ -10,7 +10,7 @@ ms.assetid: 1d658369-ea6c-6959-cd00-230dc111f765
 
 # CustomerData Object (PowerPoint)
 
-Stores information about a customer (such as name, address, telephone number, and so on) or other information in XML form, as a collection of  **[CustomXMLPart](http://msdn.microsoft.com/library/customxmlpart-object-office%28Office.15%29.aspx)** objects associated with a Microsoft PowerPoint object.
+Stores information about a customer (such as name, address, telephone number, and so on) or other information in XML form, as a collection of  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** objects associated with a Microsoft PowerPoint object.
 
 
 ## Remarks

@@ -37,7 +37,7 @@ For intCount = 1 To objTemplate.BuildingBlockTypes.Count
 Next
 ```
 
-For more information about building blocks, see [Working with Building Blocks](http://msdn.microsoft.com/library/working-with-building-blocks%28Office.15%29.aspx).
+For more information about building blocks, see [Working with Building Blocks](http://msdn.microsoft.com/library/c32a8972-a6fc-bb66-b62a-039b88580b37%28Office.15%29.aspx).
 
 
 ## See also
@@ -46,6 +46,6 @@ For more information about building blocks, see [Working with Building Blocks](h
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 
 

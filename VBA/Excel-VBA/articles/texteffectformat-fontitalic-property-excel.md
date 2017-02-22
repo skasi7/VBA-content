@@ -12,7 +12,7 @@ ms.assetid: 5c1f9cd5-e994-3bed-f8ad-ab2ee2d64e7a
 
 # TextEffectFormat.FontItalic Property (Excel)
 
-Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

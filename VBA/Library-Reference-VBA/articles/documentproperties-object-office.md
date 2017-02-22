@@ -28,7 +28,7 @@ Use  **BuiltinDocumentProperties(index)**, where _index_ is the index number of 
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/documentproperties-add-method-office%28Office.15%29.aspx)|
+|[Add](http://msdn.microsoft.com/library/80738562-8b0b-33f1-3dfa-0d66b1844ef7%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -36,11 +36,11 @@ Use  **BuiltinDocumentProperties(index)**, where _index_ is the index number of 
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/documentproperties-application-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/documentproperties-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/documentproperties-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/documentproperties-item-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/documentproperties-parent-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/b91998a4-f933-d584-8293-e63ad82447e2%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/8f4367bd-d30a-ba45-3ec2-3c5b94ede4d8%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/47ba7f73-b72e-2990-d35d-cd73b08b91cd%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/33649822-adc5-5efd-7e05-87735b30b19f%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/e1239ffa-b89e-e78f-4009-d576c473d477%28Office.15%29.aspx)|
 
 ## See also
 
@@ -48,5 +48,5 @@ Use  **BuiltinDocumentProperties(index)**, where _index_ is the index number of 
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[DocumentProperties Object Members](http://msdn.microsoft.com/library/documentproperties-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[DocumentProperties Object Members](http://msdn.microsoft.com/library/bb388713-3029-796e-3328-6193eb14d1bf%28Office.15%29.aspx)

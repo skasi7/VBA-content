@@ -10,7 +10,7 @@ ms.assetid: e52b0d7b-d9d5-3d0a-11ca-fa8bc7d55c38
 
 # ChartFormat.SoftEdge Property (PowerPoint)
 
-Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](http://msdn.microsoft.com/library/softedgeformat-object-office%28Office.15%29.aspx)**.
+Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e56-b9ea-89c7ecce0370%28Office.15%29.aspx)**.
 
 
 ## Syntax

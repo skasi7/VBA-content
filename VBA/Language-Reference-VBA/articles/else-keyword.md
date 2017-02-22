@@ -12,7 +12,7 @@ ms.assetid: 106f6363-9ab1-a6de-33f3-ba9a3206acda
 
 The  **Else** keyword is used in these contexts:
 
-[If...Then...Else Statement](if---then---else-statement.md)
+[If...Then...Else Statement](ifthenelse-statement.md)
 
 [Select Case Statement](select-case-statement.md)
 

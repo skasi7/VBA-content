@@ -36,4 +36,4 @@ Use the  **[Item](workweekdays-item-property-project.md)** property return a sin
 
 
  
-[Project Object Model](http://msdn.microsoft.com/library/project-object-model%28Office.15%29.aspx)
+[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

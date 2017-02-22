@@ -24,6 +24,6 @@ Returns or sets a  **MsoTextEffectAlignment** constant that represents the align
 
 ## Remarks
 
-The  **Alignment** property value can be one of the ** [MsoTextEffectAlignment](http://msdn.microsoft.com/library/msotexteffectalignment-enumeration-office%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **Alignment** property value can be one of the ** [MsoTextEffectAlignment](http://msdn.microsoft.com/library/5a165109-c820-bbc2-235b-a24807abd0d0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 

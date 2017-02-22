@@ -30,6 +30,6 @@ ms.assetid: f1914894-d828-46bc-9f94-097a55f69c3d
     
 -  [Support for Folder Synchronization](support-for-folder-synchronization.md)
     
--  [Verify Whether Outlook Is a Click-to-Run Application on a Computer](verify-whether-outlook-is-a-click-to-run-application-on-a-computer.md)
+-  [Verify Whether Outlook Is a Click-to-Run Application on a Computer](verify-if-outlook-is-a-click-to-run-application-on-a-computer.md)
     
 

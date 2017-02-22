@@ -35,7 +35,7 @@ The return value contains one of the values of  **[VisUnitCodes](visunitcodes-en
 
 You can specify the value of  **DefaultTextUnits** as an integer (a member of **[VisUnitCodes](visunitcodes-enumeration-visio.md)** ) or a string value such as "pt". If the string is invalid or the unit code is inappropriate (non-textual), an error is generated.
 
-For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/about-units-of-measure-visio%28Office.15%29.aspx).
+For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
 
 Cell formulas that contain a specific unit of measure are displayed in those units regardless of the default text units setting. Many cell formulas, however, use implicit unit syntax and are displayed in default units.
 
@@ -52,6 +52,6 @@ vsoCell.Result(visTextUnits) = 12
 
 In this case, the text is 12 points if the  **DefaultTextUnits** property is **visPoints** and 12 ciceros if the **DefaultTextUnits** property is **visCiceros** .
 
-For details about implicit units of measure, see [About Units of Measure](http://msdn.microsoft.com/library/about-units-of-measure-visio%28Office.15%29.aspx).
+For details about implicit units of measure, see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
 
 

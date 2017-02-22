@@ -21,7 +21,7 @@ Returns or sets whether text remains flat when the specified object is rotated. 
 
 ### Return Value
 
-[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)
+[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)
 
 
 ## Remarks

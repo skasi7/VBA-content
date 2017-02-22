@@ -36,7 +36,7 @@ Once you have obtained a  **StorageItem** object, you can do the following to st
 
 The default message class for a new  **StorageItem** is **IPM.Storage**. If the **StorageItem** existed as a hidden message in a version of Outlook prior to Microsoft Office Outlook 2007, the message class will remain unchanged. In order to prevent modification of the message class, **StorageItem** does not expose an explicit **MessageClass** property.
 
-For more information on storing solution data using the  **StorageItem** object, see[Storing Data for Solutions](http://msdn.microsoft.com/library/storing-data-for-solutions%28Office.15%29.aspx).
+For more information on storing solution data using the  **StorageItem** object, see[Storing Data for Solutions](http://msdn.microsoft.com/library/58e69983-5718-4dde-64fc-858abd80c9e5%28Office.15%29.aspx).
 
 
 ## Example
@@ -126,4 +126,4 @@ End Sub
 #### Other resources
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/object-model-outlook-vba-reference%28Office.15%29.aspx)
+[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

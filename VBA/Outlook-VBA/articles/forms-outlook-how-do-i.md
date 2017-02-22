@@ -7,7 +7,7 @@ ms.assetid: 75335f71-2142-1384-4f39-aef650e85f9b
 
 # Forms (Outlook How Do I)
 
-This topic links to help on widely used Forms tasks. To view other categories of popular tasks covered in Help, see [How Do I ... in Outlook](how-do-i----outlook-vba-reference.md).
+This topic links to help on widely used Forms tasks. To view other categories of popular tasks covered in Help, see [How Do I ... in Outlook](how-do-i-outlook-vba-reference.md).
 
 
 ## Form Regions
@@ -68,7 +68,7 @@ This topic links to help on widely used Forms tasks. To view other categories of
 -  [How to: Control the Extent of Scrolling in a Scroll Bar](how-to-control-the-extent-of-scrolling-in-a-scroll-bar.md) Describes how to control the range of scrolling in a stand-alone scroll bar.
     
 
--  [How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form](how-to-control-the-focus-when-the-user-cycles-through-controls-in-a-frame-or-multipage-control-on-a-form.md) Describes how to control the focus for a frame and two page objects in a multi-page control.
+-  [How to: Control the Focus When the User Cycles through Controls in a Frame or MultiPage Control on a Form](how-to-control-the-focus-when-the-user-cycles-through-controls-in-a-frame-or-mul.md) Describes how to control the focus for a frame and two page objects in a multi-page control.
     
 -  [How to: Control the Selection Behavior and Drag Behavior When Entering a Text Box](how-to-control-the-selection-behavior-and-drag-behavior-when-entering-a-text-box.md) Demonstrates the different effects that you can provide when entering a control and when dragging information from one control to another.
     
@@ -80,15 +80,15 @@ This topic links to help on widely used Forms tasks. To view other categories of
     
 -  [How to: Display the List Portion of a Combo Box](how-to-display-the-list-portion-of-a-combo-box.md) Describes how to display the list in a combo box.
     
--  [How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control](how-to-display-the-name-of-each-control-on-a-form-or-a-page-of-a-multipage-control.md) Describes how to access individual controls in a collection of controls and in a collection of pages and display the name.
+-  [How to: Display the Name of Each Control on a Form or a Page of a MultiPage Control](how-to-display-the-name-of-each-control-on-a-form-or-a-page-of-a-multipage-contr.md) Describes how to access individual controls in a collection of controls and in a collection of pages and display the name.
     
 -  [How to: Display the Name of Each Control on a Page](how-to-display-the-name-of-each-control-on-a-page.md) Describes how to display of each control on a form.
     
--  [How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form](how-to-display-the-number-of-pages-and-tabs-in-multipage-and-tabstrip-controls-on-a-form.md) Describes how to display the number of controls in a collection of controls, and the number of pages and tabs of each multi-page and tab strip control.
+-  [How to: Display the Number of Pages and Tabs in MultiPage and TabStrip Controls on a Form](how-to-display-the-number-of-pages-and-tabs-in-multipage-and-tabstrip-controls-o.md) Describes how to display the number of controls in a collection of controls, and the number of pages and tabs of each multi-page and tab strip control.
     
 -  [How to: Enable and Lock a Text Box from User Entry](how-to-enable-and-lock-a-text-box-from-user-entry.md) Describes how to enable and lock a text box.
     
--  [How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control](how-to-enhance-the-border-style-color-and-special-effects-of-a-text-box-control.md) Demonstrates the borders and special effects available for a text box.
+-  [How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control](how-to-enhance-the-border-stylecolor-and-special-effects-of-a-text-box-control.md) Demonstrates the borders and special effects available for a text box.
     
 -  [How to: Give a Control a 3-D Appearance Programmatically](how-to-give-a-control-a-3-d-appearance-programmatically.md)Describes how to give special effects to a check box.
     
@@ -102,7 +102,7 @@ This topic links to help on widely used Forms tasks. To view other categories of
     
 -  [How to: Place an Image and a Caption on a Command Button](how-to-place-an-image-and-a-caption-on-a-command-button.md) Shows the picture placement options for a control.
     
--  [How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control](how-to-reference-a-custom-property-that-has-the-same-name-as-a-built-in-property-of-the-control.md) Describes how to support a custom property that has the same name as a standard, built-in property of the control.
+-  [How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control](how-to-reference-a-custom-property-that-has-the-same-name-as-a-built-in-property.md) Describes how to support a custom property that has the same name as a standard, built-in property of the control.
     
 -  [How to: Reference the Parent Object of a Control](how-to-reference-the-parent-object-of-a-control.md) Describes how to refer to the control, form, or other object that contains a specific control or object.
     
@@ -140,7 +140,7 @@ This topic links to help on widely used Forms tasks. To view other categories of
     
 -  [How to: Specify the Column in a Multi-Column List Box to Display to the User](how-to-specify-the-column-in-a-multi-column-list-box-to-display-to-the-user.md) Describes how to identify the column of data in a multi-column list box that is to be displayed.
     
--  [How to: Specify the Column in a Multi-Column List Box to Store Data for the Control](how-to-specify-the-column-in-a-multi-column-list-box-to-store-data-for-the-control.md) Describes how to identify the column in a multi-column list box that is to store data for the list box.
+-  [How to: Specify the Column in a Multi-Column List Box to Store Data for the Control](how-to-specify-the-column-in-a-multi-column-list-box-to-store-data-for-the-contr.md) Describes how to identify the column in a multi-column list box that is to store data for the list box.
     
 -  [How to: Specify the Number of Rows in a Combo Box](how-to-specify-the-number-of-rows-in-a-combo-box.md) Describes how to control the number of rows in the drop-down list of a combo box.
     

@@ -43,6 +43,6 @@ You can also set this value in the  **Margin** box under **Footer** in the **Hea
 
 Automation constants for representing units are declared by the Microsoft Visio type library in member  **[VisUnitCodes](visunitcodes-enumeration-visio.md)** .
 
-For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/about-units-of-measure-visio%28Office.15%29.aspx).
+For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
 
 

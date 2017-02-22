@@ -29,7 +29,7 @@ MsoLineDashStyle
 
 ## Remarks
 
-The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](http://msdn.microsoft.com/library/msolinedashstyle-enumeration-office%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

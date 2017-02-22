@@ -31,7 +31,7 @@ MsoGradientColorType
 
 Use the  [OneColorGradient](fillformat-onecolorgradient-method-publisher.md),  [PresetGradient](fillformat-presetgradient-method-publisher.md), or  **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient type for the fill.
 
-The  **GradientColorType** property value can be one of the ** [MsoGradientColorType](http://msdn.microsoft.com/library/msogradientcolortype-enumeration-office%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **GradientColorType** property value can be one of the ** [MsoGradientColorType](http://msdn.microsoft.com/library/0940fc83-d089-8b1d-dcf1-73773d0e21c5%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

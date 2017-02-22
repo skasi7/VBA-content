@@ -12,7 +12,7 @@ ms.assetid: 431cc1a8-dd05-d813-6ba6-a6a78ee2472b
 
 # PictureFormat.Crop Property (Word)
 
-Returns or sets a [Crop](http://msdn.microsoft.com/library/crop-object-office%28Office.15%29.aspx) object that represents an image cropping. Read/write.
+Returns or sets a [Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-bf38fbced5a3%28Office.15%29.aspx) object that represents an image cropping. Read/write.
 
 
 ## Syntax

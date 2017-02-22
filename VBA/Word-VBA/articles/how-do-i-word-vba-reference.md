@@ -13,7 +13,7 @@ How Do I is your gateway to key task-based topics about programming and applicat
 
 -  [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
     
--  [Bind Controls to a Specific Row in the Data Store When Inserting a Building Block](bind-controls-to-a-specific-row-in-the-data-store-when-inserting-a-building-block.md)
+-  [Bind Controls to a Specific Row in the Data Store When Inserting a Building Block](bind-controls-to-a-specific-row-in-the-data-store-when-inserting-a-building-bloc.md)
     
 -  [Capture and Respond to Events in the Data Store](capture-and-respond-to-events-in-the-data-store.md)
     

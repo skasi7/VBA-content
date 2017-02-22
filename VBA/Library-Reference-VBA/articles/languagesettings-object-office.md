@@ -17,7 +17,7 @@ Returns information about the language settings in a Microsoft Office applicatio
 
 ## Remarks
 
-Use Application.LanguageSettings.LanguageID( _MsoAppLanguageID_ ), where[MsoAppLanguageID](http://msdn.microsoft.com/library/msoapplanguageid-enumeration-office%28Office.15%29.aspx) is a constant used to return locale identifier (LCID) information to the specified application.
+Use Application.LanguageSettings.LanguageID( _MsoAppLanguageID_ ), where[MsoAppLanguageID](http://msdn.microsoft.com/library/78196ded-10d3-2088-f263-44a771ee78b4%28Office.15%29.aspx) is a constant used to return locale identifier (LCID) information to the specified application.
 
 
 ## Example
@@ -54,11 +54,11 @@ End If
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/languagesettings-application-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/languagesettings-creator-property-office%28Office.15%29.aspx)|
-|[LanguageID](http://msdn.microsoft.com/library/languagesettings-languageid-property-office%28Office.15%29.aspx)|
-|[LanguagePreferredForEditing](http://msdn.microsoft.com/library/languagesettings-languagepreferredforediting-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/languagesettings-parent-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/48bd707e-4dac-df46-fa5b-e8d1159aa19d%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/6c7f0a01-af17-c246-5b52-4c70d45568e7%28Office.15%29.aspx)|
+|[LanguageID](http://msdn.microsoft.com/library/a1efbab6-000f-d87e-296b-b58be9ad5194%28Office.15%29.aspx)|
+|[LanguagePreferredForEditing](http://msdn.microsoft.com/library/345e29df-6cb7-13cc-a8ec-22196f38fc62%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/5f10ab2b-bbab-7a91-a298-42f12e1c1b22%28Office.15%29.aspx)|
 
 ## See also
 
@@ -66,5 +66,5 @@ End If
 #### Other resources
 
 
-[LanguageSettings Object Members](http://msdn.microsoft.com/library/languagesettings-members-office%28Office.15%29.aspx)
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[LanguageSettings Object Members](http://msdn.microsoft.com/library/068383c2-78f1-2299-2087-9eaa3409e6fe%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)

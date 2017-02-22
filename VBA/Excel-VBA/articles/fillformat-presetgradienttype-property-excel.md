@@ -12,7 +12,7 @@ ms.assetid: e9cb1ba6-9c40-3fef-7014-68069be4da1f
 
 # FillFormat.PresetGradientType Property (Excel)
 
-Returns the preset gradient type for the specified fill. Read-only  **[MsoPresetGradientType](http://msdn.microsoft.com/library/msopresetgradienttype-enumeration-office%28Office.15%29.aspx)** .
+Returns the preset gradient type for the specified fill. Read-only  **[MsoPresetGradientType](http://msdn.microsoft.com/library/d0ee19e7-bdd3-3102-61b4-dbb17d5c0363%28Office.15%29.aspx)** .
 
 
 ## Syntax

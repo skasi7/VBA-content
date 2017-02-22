@@ -10,11 +10,11 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
 ## In this section
 
 
-- [#Else clause must be preceded by a matching #If](else-clause-must-be-preceded-by-a-matching-if.md)
+- [#Else clause must be preceded by a matching #If](-else-clause-must-be-preceded-by-a-matching-if.md)
     
-- [#Else If, #Else, or #End If must be preceded by a matching #If](else-if-else-or-end-if-must-be-preceded-by-a-matching-if.md)
+- [#Else If, #Else, or #End If must be preceded by a matching #If](-else-ifelse-or-end-if-must-be-preceded-by-a-matching-if.md)
     
-- [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseif-else-or-end-if.md)
+- [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](-elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseifels.md)
     
 - [<Item> is not a valid control type (Error 720)](-item-is-not-a-valid-control-type-error-720.md)
     
@@ -28,9 +28,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [A procedure with a ParamArray argument cannot be called with named arguments](a-procedure-with-a-paramarray-argument-cannot-be-called-with-named-arguments.md)
     
-- [A property or method call cannot include a reference to a private object, either as an argument or as a return value (Error 98)](a-property-or-method-call-cannot-include-a-reference-to-a-private-object-either-as-an-argument-or-as-a-return-value-error-98.md)
+- [A property or method call cannot include a reference to a private object, either as an argument or as a return value (Error 98)](a-property-or-method-call-cannot-include-a-reference-to-a-private-object-either.md)
     
-- [ActiveX component can't create object or return reference to this object (Error 429)](activex-component-can-t-create-object-or-return-reference-to-this-object-error-429.md)
+- [ActiveX component can't create object or return reference to this object (Error 429)](activex-component-can-t-create-object-or-return-reference-to-this-object-error-4.md)
     
 - [ActiveX Component did not run correctly (Error 338)](activex-component-did-not-run-correctly-error-338.md)
     
@@ -66,7 +66,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Bad interface for Implements: interface contains data fields](bad-interface-for-implements-interface-contains-data-fields.md)
     
-- [Bad interface for Implements: interface is derived from another pure interface with non-restricted methods](bad-interface-for-implements-interface-is-derived-from-another-pure-interface-with-non-restricted-methods.md)
+- [Bad interface for Implements: interface is derived from another pure interface with non-restricted methods](bad-interface-for-implements-interface-is-derived-from-another-pure-interface-wi.md)
     
 - [Bad interface for Implements: interface is not derived from Iunknown](bad-interface-for-implements-interface-is-not-derived-from-iunknown.md)
     
@@ -74,17 +74,17 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Bad interface for Implements: method has out-only or LCID parameter](bad-interface-for-implements-method-has-out-only-or-lcid-parameter.md)
     
-- [Bad interface for Implements: method has parameter with too many levels of indirection](bad-interface-for-implements-method-has-parameter-with-too-many-levels-of-indirection.md)
+- [Bad interface for Implements: method has parameter with too many levels of indirection](bad-interface-for-implements-method-has-parameter-with-too-many-levels-of-indire.md)
     
 - [Bad interface for Implements: method has underscore in name](bad-interface-for-implements-method-has-underscore-in-name.md)
     
-- [Bad interface for Implements: methods uses type that is not supported by Visual Basic](bad-interface-for-implements-methods-uses-type-that-is-not-supported-by-visual-basic.md)
+- [Bad interface for Implements: methods uses type that is not supported by Visual Basic](bad-interface-for-implements-methods-uses-type-that-is-not-supported-by-visual-b.md)
     
 - [Bad record length (Error 59)](bad-record-length-error-59.md)
     
 - [Bad record number (Error 63)](bad-record-number-error-63.md)
     
-- [Beginning of search scope has been reached; do you want to continue from the end?](beginning-of-search-scope-has-been-reached;-do-you-want-to-continue-from-the-end.md)
+- [Beginning of search scope has been reached; do you want to continue from the end?](beginning-of-search-scope-has-been-reached-do-you-want-to-continue-from-the-end.md)
     
 - [Block If without End If](block-if-without-end-if.md)
     
@@ -100,15 +100,15 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Cannot handle events for the object specified](cannot-handle-events-for-the-object-specified.md)
     
-- [Cannot jump to specified type because it is in the specified library, which is not currently referenced](cannot-jump-to-specified-type-because-it-is-in-the-specified-library-which-is-not-currently-referenced.md)
+- [Cannot jump to specified type because it is in the specified library, which is not currently referenced](cannot-jump-to-specified-type-because-it-is-in-the-specified-library-which-is-no.md)
     
 - [Can't add a reference to the specified file](can-t-add-a-reference-to-the-specified-file.md)
     
-- [Can't assign or coerce array of fixed-length string or user-defined type to Variant](can-t-assign-or-coerce-array-of-fixed-length-string-or-user-defined-type-to-variant.md)
+- [Can't assign or coerce array of fixed-length string or user-defined type to Variant](can-t-assign-or-coerce-array-of-fixed-length-string-or-user-defined-type-to-vari.md)
     
 - [Can't assign to an array](can-t-assign-to-an-array.md)
     
-- [Can't call Friend procedure on an object that isn't an instance of the defining class (Error 97)](can-t-call-friend-procedure-on-an-object-that-isn-t-an-instance-of-the-defining-class-error-97.md)
+- [Can't call Friend procedure on an object that isn't an instance of the defining class (Error 97)](can-t-call-friend-procedure-on-an-object-that-isn-t-an-instance-of-the-defining.md)
     
 - [Can't change data types of array elements](can-t-change-data-types-of-array-elements.md)
     
@@ -136,13 +136,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Can't find project or library](can-t-find-project-or-library.md)
     
-- [Can't find Windows Help .exe file](can-t-find-windows-help--exe-file.md)
+- [Can't find Windows Help .exe file](can-t-find-windows-help-exe-file.md)
     
 - [Can't Get or Put user-defined type containing object reference](can-t-get-or-put-user-defined-type-containing-object-reference.md)
     
 - [Can't have paramarrays with optional arguments](can-t-have-paramarrays-with-optional-arguments.md)
     
-- [Can't load module; invalid format](can-t-load-module;-invalid-format.md)
+- [Can't load module; invalid format](can-t-load-module-invalid-format.md)
     
 - [Can't load or unload this object (Error 361)](can-t-load-or-unload-this-object-error-361.md)
     
@@ -166,9 +166,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Can't record into running module](can-t-record-into-running-module.md)
     
-- [Can't ReDim, Erase, or assign to Variant that contains array whose element is With object](can-t-redim-erase-or-assign-to-variant-that-contains-array-whose-element-is-with-object.md)
+- [Can't ReDim, Erase, or assign to Variant that contains array whose element is With object](can-t-redim-erase-or-assign-to-variant-that-contains-array-whose-element-is-with.md)
     
-- [Can't remove control or reference; in use](can-t-remove-control-or-reference;-in-use.md)
+- [Can't remove control or reference; in use](can-t-remove-control-or-reference-in-use.md)
     
 - [Can't remove default reference](can-t-remove-default-reference.md)
     
@@ -180,11 +180,11 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Can't show non-modal form when modal form is displayed](can-t-show-non-modal-form-when-modal-form-is-displayed.md)
     
-- [Can't sink this object's events because it's already firing events to the maximum number of supported event recipients (Error 96)](can-t-sink-this-object-s-events-because-it-s-already-firing-events-to-the-maximum-number-of-supported-event-recipients-error-96.md)
+- [Can't sink this object's events because it's already firing events to the maximum number of supported event recipients (Error 96)](can-t-sink-this-object-s-events-because-it-s-already-firing-events-to-the-maximu.md)
     
 - [Can't start new recording until current session is ended](can-t-start-new-recording-until-current-session-is-ended.md)
     
-- [Can't use character device names in file names: 'item' (Error 320)](can-t-use-character-device-names-in-file-names--item--error-320.md)
+- [Can't use character device names in file names: 'item' (Error 320)](can-t-use-character-device-names-in-file-namesitemerror-320.md)
     
 - [Case Else outside Select Case](case-else-outside-select-case.md)
     
@@ -198,7 +198,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Class not registered on local machine (Error 463)](class-not-registered-on-local-machine-error-463.md)
     
-- [Class not registered. 'item 1'](class-not-registered--item-1.md)
+- [Class not registered. 'item 1'](class-not-registereditem-1.md)
     
 - [Code execution has been interrupted](code-execution-has-been-interrupted.md)
     
@@ -206,29 +206,29 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Code resource not found (Error 454)](code-resource-not-found-error-454.md)
     
-- [Compile error in hidden module: <module name>](compile-error-in-hidden-module--module-name.md)
+- [Compile error in hidden module: <module name>](compile-error-in-hidden-modulemodule-name.md)
     
 - [Component could not successfully create requested object](component-could-not-successfully-create-requested-object.md)
     
-- [Component 'item' or one of its dependencies not correctly registered: a file is missing or invalid](component-item-or-one-of-its-dependencies-not-correctly-registered-a-file-is-missing-or-invalid.md)
+- [Component 'item' or one of its dependencies not correctly registered: a file is missing or invalid](component-item-or-one-of-its-dependencies-not-correctly-registered-a-file-is-mis.md)
     
 - [Component not correctly registered](component-not-correctly-registered.md)
     
 - [Component not found in registered location](component-not-found-in-registered-location.md)
     
-- [Conflicting attributes were found in 'item'. The defaults will be used](conflicting-attributes-were-found-in-item---the-defaults-will-be-used.md)
+- [Conflicting attributes were found in 'item'. The defaults will be used](conflicting-attributes-were-found-in-itemthe-defaults-will-be-used.md)
     
-- [Conflicting names were found in 'item1'. The name 'item2' will be used](conflicting-names-were-found-in-item1---the-name-item2-will-be-used.md)
+- [Conflicting names were found in 'item1'. The name 'item2' will be used](conflicting-names-were-found-in-item1the-name-item2-will-be-used.md)
     
-- [Connection to type library or object library for remote process has been lost (Error 442)](connection-to-type-library-or-object-library-for-remote-process-has-been-lost-error-442.md)
+- [Connection to type library or object library for remote process has been lost (Error 442)](connection-to-type-library-or-object-library-for-remote-process-has-been-lost-er.md)
     
 - [Constant expression required](constant-expression-required.md)
     
-- [Constants, fixed-length strings, arrays, user-defined types, and Declare statements not allowed as Public members of an object module](constants-fixed-length-strings-arrays-user-defined-types-and-declare-statements-not-allowed-as-public-members-of-an-object-module.md)
+- [Constants, fixed-length strings, arrays, user-defined types, and Declare statements not allowed as Public members of an object module](constants-fixed-length-strings-arrays-user-defined-types-and-declare-statements.md)
     
 - [Could not access system registry (Error 335)](could-not-access-system-registry-error-335.md)
     
-- [Could not create reference: 'item'](could-not-create-reference--item.md)
+- [Could not create reference: 'item'](could-not-create-referenceitem.md)
     
 - [Could not execute specified program](could-not-execute-specified-program.md)
     
@@ -244,7 +244,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Deftype statements must precede declarations](deftype-statements-must-precede-declarations.md)
     
-- [Destination label too far away; loop, Select Case, or block If too large](destination-label-too-far-away;-loop-select-case-or-block-if-too-large.md)
+- [Destination label too far away; loop, Select Case, or block If too large](destination-label-too-far-away-loop-select-case-or-block-if-too-large.md)
     
 - [Device I/O error (Error 57)](device-i-o-error-error-57.md)
     
@@ -284,13 +284,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [End If without block If](end-if-without-block-if.md)
     
-- [End of search scope has been reached; do you want to continue from the beginning?](end-of-search-scope-has-been-reached;-do-you-want-to-continue-from-the-beginning.md)
+- [End of search scope has been reached; do you want to continue from the beginning?](end-of-search-scope-has-been-reached-do-you-want-to-continue-from-the-beginning.md)
     
 - [End Select without Select Case](end-select-without-select-case.md)
     
 - [End With without With](end-with-without-with.md)
     
-- [Enum types defined in standard modules or private classes cannot be used in public object modules as parameters or return types for public procedures, as public data members, or as fields of public user defined types](enum-types-defined-in-standard-modules-or-private-classes-cannot-be-used-in-public-object-modules-as-parameters-or-return-types-for-public-procedures-as-public-data-members-or-as-fields-of-public-user-defined-types.md)
+- [Enum types defined in standard modules or private classes cannot be used in public object modules as parameters or return types for public procedures, as public data members, or as fields of public user defined types](enum-types-defined-in-standard-modules-or-private-classes-cannot-be-used-in-publ.md)
     
 - [Error accessing the system registry](error-accessing-the-system-registry.md)
     
@@ -298,13 +298,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Error loading from file (Error 31037)](error-loading-from-file-error-31037.md)
     
-- [Error loading 'item'. A control could not be loaded due to load error. Continue?](error-loading-item---a-control-could-not-be-loaded-due-to-load-error--continue.md)
+- [Error loading 'item'. A control could not be loaded due to load error. Continue?](error-loading-itema-control-could-not-be-loaded-due-to-load-error-continue.md)
     
-- [Error loading 'item'. An error was encountered loading a property. Continue?](error-loading-item---an-error-was-encountered-loading-a-property--continue.md)
+- [Error loading 'item'. An error was encountered loading a property. Continue?](error-loading-iteman-error-was-encountered-loading-a-property-continue.md)
     
 - [Error saving to file (Error 31036)](error-saving-to-file-error-31036.md)
     
-- [Errors during load. Refer to 'item' for details](errors-during-load--refer-to-item-for-details.md)
+- [Errors during load. Refer to 'item' for details](errors-during-load-refer-to-item-for-details.md)
     
 - [Errors occurred during load](errors-occurred-during-load.md)
     
@@ -312,9 +312,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Event not found](event-not-found.md)
     
-- [Exit Do not within Do...Loop](exit-do-not-within-do---loop.md)
+- [Exit Do not within Do...Loop](exit-do-not-within-doloop.md)
     
-- [Exit For not within For...Next](exit-for-not-within-for---next.md)
+- [Exit For not within For...Next](exit-for-not-within-fornext.md)
     
 - [Exit Function not allowed in Sub or Property](exit-function-not-allowed-in-sub-or-property.md)
     
@@ -352,15 +352,15 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Expected variable or procedure, not project](expected-variable-or-procedure-not-project.md)
     
-- [Expected: <various>](expected--various.md)
+- [Expected: <various>](expectedvarious.md)
     
 - [Expression too complex (Error 16)](expression-too-complex-error-16.md)
     
 - [External name not defined](external-name-not-defined.md)
     
-- [Failed to activate control 'item 1'. This control may be incompatible with your application. Make sure you are using the version of the control that was provided with your application.](failed-to-activate-control-item-1---this-control-may-be-incompatible-with-your-application--make-sure-you-are-using-the-version-of-the-control-that-was-provided-with-your-application.md)
+- [Failed to activate control 'item 1'. This control may be incompatible with your application. Make sure you are using the version of the control that was provided with your application.](failed-to-activate-control-item-1this-control-may-be-incompatible-with-your-appl.md)
     
-- [Failed to load control 'item1' from 'item2'. Your version of 'item2' may be outdated. Make sure you are using the version of the control that was provided with your application.](failed-to-load-control-item1-from-item2---your-version-of-item2-may-be-outdated--make-sure-you-are-using-the-version-of-the-control-that-was-provided-with-your-application.md)
+- [Failed to load control 'item1' from 'item2'. Your version of 'item2' may be outdated. Make sure you are using the version of the control that was provided with your application.](failed-to-load-control-item1-from-item2your-version-of-item2-may-be-outdated-mak.md)
     
 - [File already exists (Error 58)](file-already-exists-error-58.md)
     
@@ -378,9 +378,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Fixed or static data can't be larger than 64K](fixed-or-static-data-can-t-be-larger-than-64k.md)
     
-- [Fixed-length strings and use of the 'new' qualifier are not allowed for fields in a public user defined type defined in an object module](fixed-length-strings-and-use-of-the-new-qualifier-are-not-allowed-for-fields-in-a-public-user-defined-type-defined-in-an-object-module.md)
+- [Fixed-length strings and use of the 'new' qualifier are not allowed for fields in a public user defined type defined in an object module](fixed-length-strings-and-use-of-the-new-qualifier-are-not-allowed-for-fields-in.md)
     
-- [Fixed-length strings not allowed as the type of a public member of an object module; private object modules not allowed as the type of a public member of a public object module](fixed-length-strings-not-allowed-as-the-type-of-a-public-member-of-an-object-module;-private-object-modules-not-allowed-as-the-type-of-a-public-member-of-a-public-object-module.md)
+- [Fixed-length strings not allowed as the type of a public member of an object module; private object modules not allowed as the type of a public member of a public object module](fixed-length-strings-not-allowed-as-the-type-of-a-public-member-of-an-object-mod.md)
     
 - [For control variable already in use](for-control-variable-already-in-use.md)
     
@@ -396,7 +396,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [For without Next](for-without-next.md)
     
-- [Form already displayed; can't show modally (Error 400)](form-already-displayed;-can-t-show-modally-error-400.md)
+- [Form already displayed; can't show modally (Error 400)](form-already-displayed-can-t-show-modally-error-400.md)
     
 - [Form not found (Error 424)](form-not-found-error-424.md)
     
@@ -410,11 +410,11 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Identifier under cursor isn't a procedure name](identifier-under-cursor-isn-t-a-procedure-name.md)
     
-- [Illegal parameter. Can't write arrays (Error 328)](illegal-parameter--can-t-write-arrays-error-328.md)
+- [Illegal parameter. Can't write arrays (Error 328)](illegal-parameter-can-t-write-arrays-error-328.md)
     
-- [Illegal parameter. Can't write object because it does not support persistence.](illegal-parameter--can-t-write-object-because-it-does-not-support-persistence.md)
+- [Illegal parameter. Can't write object because it does not support persistence.](illegal-parameter-can-t-write-object-because-it-does-not-support-persistence.md)
     
-- [Illegal parameter. Can't write user-defined type.](illegal-parameter--can-t-write-user-defined-type.md)
+- [Illegal parameter. Can't write user-defined type.](illegal-parameter-can-t-write-user-defined-type.md)
     
 - [Incorrect DLL version](incorrect-dll-version.md)
     
@@ -426,7 +426,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Insufficient memory to save Undo information](insufficient-memory-to-save-undo-information.md)
     
-- [Insufficient project information to load project on platform or with version now being used](insufficient-project-information-to-load-project-on-platform-or-with-version-now-being-used.md)
+- [Insufficient project information to load project on platform or with version now being used](insufficient-project-information-to-load-project-on-platform-or-with-version-now.md)
     
 - [Interface not valid for Implements](interface-not-valid-for-implements.md)
     
@@ -440,9 +440,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Invalid character](invalid-character.md)
     
-- [Invalid Clipboard format (Error 460) [1 of 2]](invalid-clipboard-format-error-460--1-of-2.md)
+- [Invalid Clipboard format (Error 460) [1 of 2]](invalid-clipboard-format-error-4601-of-2.md)
     
-- [Invalid Clipboard format (Error 460) [2 of 2]](invalid-clipboard-format-error-460--2-of-2.md)
+- [Invalid Clipboard format (Error 460) [2 of 2]](invalid-clipboard-format-error-4602-of-2.md)
     
 - [Invalid data format](invalid-data-format.md)
     
@@ -450,9 +450,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Invalid event name](invalid-event-name.md)
     
-- [Invalid file format (Error 321) [1 of 2]](invalid-file-format-error-321--1-of-2.md)
+- [Invalid file format (Error 321) [1 of 2]](invalid-file-format-error-3211-of-2.md)
     
-- [Invalid file format (Error 321) [2 of 2]](invalid-file-format-error-321--2-of-2.md)
+- [Invalid file format (Error 321) [2 of 2]](invalid-file-format-error-3212-of-2.md)
     
 - [Invalid format in resource file (Error 325)](invalid-format-in-resource-file-error-325.md)
     
@@ -482,9 +482,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Invalid pattern string (Error 93)](invalid-pattern-string-error-93.md)
     
-- [Invalid picture (Error 481) [1 of 2]](invalid-picture-error-481--1-of-2.md)
+- [Invalid picture (Error 481) [1 of 2]](invalid-picture-error-4811-of-2.md)
     
-- [Invalid picture (Error 481) [2 of 2]](invalid-picture-error-481--2-of-2.md)
+- [Invalid picture (Error 481) [2 of 2]](invalid-picture-error-4812-of-2.md)
     
 - [Invalid picture type (Error 485)](invalid-picture-type-error-485.md)
     
@@ -494,9 +494,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Invalid property name](invalid-property-name.md)
     
-- [Invalid property value (Error 380) [1 of 2]](invalid-property-value-error-380--1-of-2.md)
+- [Invalid property value (Error 380) [1 of 2]](invalid-property-value-error-3801-of-2.md)
     
-- [Invalid property value (Error 380) [2 of 2]](invalid-property-value-error-380--2-of-2.md)
+- [Invalid property value (Error 380) [2 of 2]](invalid-property-value-error-3802-of-2.md)
     
 - [Invalid property-array index (Error 381)](invalid-property-array-index-error-381.md)
     
@@ -526,11 +526,11 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Item' already exists in project](item-already-exists-in-project.md)
     
-- ['item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.](-item-cannot-be-added-because-it-is-referenced-but-not-in-use-by-any-items-in-the-project--to-correct-this-uncheck-remove-information-about-unused-activex-controls-in-project-options.md)
+- ['item' cannot be added because it is referenced but not in use by any items in the project. To correct this, uncheck 'Remove information about unused ActiveX Controls' in Project Options.](-item-cannot-be-added-because-it-is-referenced-but-not-in-use-by-any-items-in-th.md)
     
 - [Item' could not be loaded](item-could-not-be-loaded.md)
     
-- ['Item' could not be loaded. Remove it from the list of available add-ins?](-item-could-not-be-loaded--remove-it-from-the-list-of-available-add-ins.md)
+- ['Item' could not be loaded. Remove it from the list of available add-ins?](-item-could-not-be-loaded-remove-it-from-the-list-of-available-add-ins.md)
     
 - [Item' could not be registered](item-could-not-be-registered.md)
     
@@ -542,15 +542,15 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - ['item' designers must be public and cannot be used in Standard EXE projects](-item-designers-must-be-public-and-cannot-be-used-in-standard-exe-projects.md)
     
-- ['Item' has an old file format. When saved, it will be saved in a newer format.](-item-has-an-old-file-format--when-saved-it-will-be-saved-in-a-newer-format.md)
+- ['Item' has an old file format. When saved, it will be saved in a newer format.](-item-has-an-old-file-format-when-saved-it-will-be-saved-in-a-newer-format.md)
     
-- ['item' has caused an access violation. Remove it from the list of available Add-Ins?](-item-has-caused-an-access-violation--remove-it-from-the-list-of-available-add-ins.md)
+- ['item' has caused an access violation. Remove it from the list of available Add-Ins?](-item-has-caused-an-access-violation-remove-it-from-the-list-of-available-add-in.md)
     
 - ['Item' is a binary form and can't be loaded into Visual Basic](-item-is-a-binary-form-and-can-t-be-loaded-into-visual-basic.md)
     
 - ['Item' is a read-only file](-item-is-a-read-only-file.md)
     
-- ['item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.](-item-is-a-single-threaded-component-and-cannot-be-used-in-multi-threaded-projects--change-the-threading-model-for-item-or-contact-the-component-vendor-for-an-updated-version.md)
+- ['item' is a single-threaded component and cannot be used in multi-threaded projects. Change the threading model for 'item' or contact the component vendor for an updated version.](-item-is-a-single-threaded-component-and-cannot-be-used-in-multi-threaded-projec.md)
     
 - ['Item' property can't be read at run time (Error 393)](-item-property-can-t-be-read-at-run-time-error-393.md)
     
@@ -560,9 +560,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - ['Item' property is write-only (Error 394)](-item-property-is-write-only-error-394.md)
     
-- ['Item' will not be loaded. Name is already in use](-item-will-not-be-loaded--name-is-already-in-use.md)
+- ['Item' will not be loaded. Name is already in use](-item-will-not-be-loaded-name-is-already-in-use.md)
     
-- ['item1' is an invalid key. The file 'item2' can't be loaded](-item1-is-an-invalid-key--the-file-item2-can-t-be-loaded.md)
+- ['item1' is an invalid key. The file 'item2' can't be loaded](-item1-is-an-invalid-key-the-file-item2-can-t-be-loaded.md)
     
 - ['item1' is referenced by 'item2' project and cannot be updated.](-item1-is-referenced-by-item2-project-and-cannot-be-updated.md)
     
@@ -570,71 +570,71 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Language/region setting has changed](language-region-setting-has-changed.md)
     
-- [License information for this component not found. You don't have an appropriate license to use this functionality in the design environment (Error 429)](license-information-for-this-component-not-found--you-don-t-have-an-appropriate-license-to-use-this-functionality-in-the-design-environment-error-429.md)
+- [License information for this component not found. You don't have an appropriate license to use this functionality in the design environment (Error 429)](license-information-for-this-component-not-found-you-don-t-have-an-appropriate-l.md)
     
 - [Line isn't an executable statement](line-isn-t-an-executable-statement.md)
     
-- [Line 'item1': All controls must precede menus; can't load control 'item2'.](line-item1--all-controls-must-precede-menus;-can-t-load-control-item2-.md)
+- [Line 'item1': All controls must precede menus; can't load control 'item2'.](line-item1all-controls-must-precede-menus-can-t-load-control-item2.md)
     
-- [Line 'item1': Can't create embedded object in 'item2'](line-item1--can-t-create-embedded-object-in-item2.md)
+- [Line 'item1': Can't create embedded object in 'item2'](line-item1can-t-create-embedded-object-in-item2.md)
     
-- [Line 'item1': Can't create embedded object in 'item2'; license not found](line-item1--can-t-create-embedded-object-in-item2-;-license-not-found.md)
+- [Line 'item1': Can't create embedded object in 'item2'; license not found](line-item1can-t-create-embedded-object-in-item2license-not-found.md)
     
-- [Line 'item1': Can't load control 'item2'; containing control not a valid container.](line-item1--can-t-load-control-item2-;-containing-control-not-a-valid-container.md)
+- [Line 'item1': Can't load control 'item2'; containing control not a valid container.](line-item1can-t-load-control-item2containing-control-not-a-valid-container.md)
     
-- [Line 'item1': Can't load control 'item2'; license not found](line-item1--can-t-load-control-item2-;-license-not-found.md)
+- [Line 'item1': Can't load control 'item2'; license not found](line-item1can-t-load-control-item2license-not-found.md)
     
-- [Line 'item1': Can't load control 'item2'; name already in use.](line-item1--can-t-load-control-item2-;-name-already-in-use.md)
+- [Line 'item1': Can't load control 'item2'; name already in use.](line-item1can-t-load-control-item2name-already-in-use.md)
     
-- [Line 'item1': Can't set checked property in menu 'item2'. Parent menu can't be checked.](line-item1--can-t-set-checked-property-in-menu-item2---parent-menu-can-t-be-checked.md)
+- [Line 'item1': Can't set checked property in menu 'item2'. Parent menu can't be checked.](line-item1can-t-set-checked-property-in-menu-item2parent-menu-can-t-be-checked.md)
     
-- [Line 'item1': Can't set Shortcut property in menu 'item2'. Parent menu cannot have a shortcut key.](line-item1--can-t-set-shortcut-property-in-menu-item2---parent-menu-cannot-have-a-shortcut-key.md)
+- [Line 'item1': Can't set Shortcut property in menu 'item2'. Parent menu cannot have a shortcut key.](line-item1can-t-set-shortcut-property-in-menu-item2parent-menu-cannot-have-a-sho.md)
     
-- [Line 'item1': Class 'item2' of control 'item3' was not a loaded control class.](line-item1--class-item2-of-control-item3-was-not-a-loaded-control-class.md)
+- [Line 'item1': Class 'item2' of control 'item3' was not a loaded control class.](line-item1class-item2-of-control-item3-was-not-a-loaded-control-class.md)
     
-- [Line 'item1': Class name too long; truncated to 'item2'.](line-item1--class-name-too-long;-truncated-to-item2-.md)
+- [Line 'item1': Class name too long; truncated to 'item2'.](line-item1class-name-too-long-truncated-to-item2.md)
     
-- [Line 'item1': Control name too long; truncated to 'item2'.](line-item1--control-name-too-long;-truncated-to-item2-.md)
+- [Line 'item1': Control name too long; truncated to 'item2'.](line-item1control-name-too-long-truncated-to-item2.md)
     
-- [Line 'item1': Could not create reference: 'item2'](line-item1--could-not-create-reference--item2.md)
+- [Line 'item1': Could not create reference: 'item2'](line-item1could-not-create-referenceitem2.md)
     
-- [Line 'item1': Did not find an index property, and control 'item2' already exists.](line-item1--did-not-find-an-index-property-and-control-item2-already-exists.md)
+- [Line 'item1': Did not find an index property, and control 'item2' already exists.](line-item1did-not-find-an-index-property-and-control-item2-already-exists.md)
     
-- [Line 'item1': 'item2' has a quoted string where the property name should be.](line-item1--item2-has-a-quoted-string-where-the-property-name-should-be.md)
+- [Line 'item1': 'item2' has a quoted string where the property name should be.](line-item1item2-has-a-quoted-string-where-the-property-name-should-be.md)
     
-- [Line 'item1': Maximum nesting level for controls exceeded with 'item2'.](line-item1--maximum-nesting-level-for-controls-exceeded-with-item2-.md)
+- [Line 'item1': Maximum nesting level for controls exceeded with 'item2'.](line-item1maximum-nesting-level-for-controls-exceeded-with-item2.md)
     
-- [Line 'item1': Missing or invalid control class in file 'item2 '.](line-item1--missing-or-invalid-control-class-in-file-item2-.md)
+- [Line 'item1': Missing or invalid control class in file 'item2 '.](line-item1missing-or-invalid-control-class-in-file-item2.md)
     
-- [Line 'item1': Missing or invalid control name in file 'item2'.](line-item1--missing-or-invalid-control-name-in-file-item2-.md)
+- [Line 'item1': Missing or invalid control name in file 'item2'.](line-item1missing-or-invalid-control-name-in-file-item2.md)
     
-- [Line 'item1': Parent menu 'item2' can't be loaded as a separator.](line-item1--parent-menu-item2-can-t-be-loaded-as-a-separator.md)
+- [Line 'item1': Parent menu 'item2' can't be loaded as a separator.](line-item1parent-menu-item2-can-t-be-loaded-as-a-separator.md)
     
-- [Line 'item1': Property 'item2' in control 'item3' had an invalid property index.](line-item1--property-item2-in-control-item3-had-an-invalid-property-index.md)
+- [Line 'item1': Property 'item2' in control 'item3' had an invalid property index.](line-item1property-item2-in-control-item3-had-an-invalid-property-index.md)
     
-- [Line 'item1': Property 'item2' in 'item3' could not be loaded.](line-item1--property-item2-in-item3-could-not-be-loaded.md)
+- [Line 'item1': Property 'item2' in 'item3' could not be loaded.](line-item1property-item2-in-item3-could-not-be-loaded.md)
     
-- [Line 'item1': Property 'item2' in 'item3' could not be set.](line-item1--property-item2-in-item3-could-not-be-set.md)
+- [Line 'item1': Property 'item2' in 'item3' could not be set.](line-item1property-item2-in-item3-could-not-be-set.md)
     
-- [Line 'item1': Property 'item2' in 'item3' had an invalid file reference.](line-item1--property-item2-in-item3-had-an-invalid-file-reference.md)
+- [Line 'item1': Property 'item2' in 'item3' had an invalid file reference.](line-item1property-item2-in-item3-had-an-invalid-file-reference.md)
     
-- [Line 'item1': Property 'item2' in 'item3' had an invalid value.](line-item1--property-item2-in-item3-had-an-invalid-value.md)
+- [Line 'item1': Property 'item2' in 'item3' had an invalid value.](line-item1property-item2-in-item3-had-an-invalid-value.md)
     
-- [Line 'item1': Property 'item2' in 'item3' must be a quoted string.](line-item1--property-item2-in-item3-must-be-a-quoted-string.md)
+- [Line 'item1': Property 'item2' in 'item3' must be a quoted string.](line-item1property-item2-in-item3-must-be-a-quoted-string.md)
     
-- [Line 'item1': Syntax error: property 'item2' in 'item3' was missing an equal sign (=).](line-item1--syntax-error-property-item2-in-item3-was-missing-an-equal-sign-=-.md)
+- [Line 'item1': Syntax error: property 'item2' in 'item3' was missing an equal sign (=).](line-item1syntax-error-property-item2-in-item3-was-missing-an-equal-signequals.md)
     
-- [Line 'item1': The CLSID 'item2' for 'item3' is invalid.](line-item1--the-clsid-item2-for-item3-is-invalid.md)
+- [Line 'item1': The CLSID 'item2' for 'item3' is invalid.](line-item1the-clsid-item2-for-item3-is-invalid.md)
     
-- [Line 'item1': The control name 'item2' is invalid.](line-item1--the-control-name-item2-is-invalid.md)
+- [Line 'item1': The control name 'item2' is invalid.](line-item1the-control-name-item2-is-invalid.md)
     
-- [Line 'item1': The file 'item2' could not be loaded.](line-item1--the-file-item2-could-not-be-loaded.md)
+- [Line 'item1': The file 'item2' could not be loaded.](line-item1the-file-item2-could-not-be-loaded.md)
     
-- [Line 'item1': The Form or MDIForm name 'item2' is already in use; can't load this form.](line-item1--the-form-or-mdiform-name-item2-is-already-in-use;-can-t-load-this-form.md)
+- [Line 'item1': The Form or MDIForm name 'item2' is already in use; can't load this form.](line-item1the-form-or-mdiform-name-item2-is-already-in-use-can-t-load-this-form.md)
     
-- [Line 'item1': The Form or MDIForm name 'item2' is not valid; can't load this form.](line-item1--the-form-or-mdiform-name-item2-is-not-valid;-can-t-load-this-form.md)
+- [Line 'item1': The Form or MDIForm name 'item2' is not valid; can't load this form.](line-item1the-form-or-mdiform-name-item2-is-not-valid-can-t-load-this-form.md)
     
-- [Line 'item1': The property name 'item2' in 'item3' is invalid.](line-item1--the-property-name-item2-in-item3-is-invalid.md)
+- [Line 'item1': The property name 'item2' in 'item3' is invalid.](line-item1the-property-name-item2-in-item3-is-invalid.md)
     
 - [Line too long](line-too-long.md)
     
@@ -646,9 +646,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Maximum number of watch expressions added](maximum-number-of-watch-expressions-added.md)
     
-- [MDI forms are not allowed in multithreaded projects. Any MDI form will be removed from this project. To keep the MDI form in the project select Cancel and change threading model to Thread Pool with only 1 thread.](mdi-forms-are-not-allowed-in-multithreaded-projects--any-mdi-form-will-be-removed-from-this-project--to-keep-the-mdi-form-in-the-project-select-cancel-and-change-threading-model-to-thread-pool-with-only-1-thread.md)
+- [MDI forms are not allowed in multithreaded projects. Any MDI form will be removed from this project. To keep the MDI form in the project select Cancel and change threading model to Thread Pool with only 1 thread.](mdi-forms-are-not-allowed-in-multithreaded-projects-any-mdi-form-will-be-removed.md)
     
-- [Member identifier already exists in object module from which this object module derives](member-identifier-already-exists-in-object-module-from-which-this-object-module-derives.md)
+- [Member identifier already exists in object module from which this object module derives](member-identifier-already-exists-in-object-module-from-which-this-object-module.md)
     
 - [Method not valid without suitable object](method-not-valid-without-suitable-object.md)
     
@@ -680,7 +680,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Next without For](next-without-for.md)
     
-- [No creatable public component detected. Press F1 for more information.](no-creatable-public-component-detected--press-f1-for-more-information.md)
+- [No creatable public component detected. Press F1 for more information.](no-creatable-public-component-detected-press-f1-for-more-information.md)
     
 - [No Help available](no-help-available.md)
     
@@ -690,13 +690,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [No watch expression selected](no-watch-expression-selected.md)
     
-- [Not a legal object name: 'item](not-a-legal-object-name--item.md)
+- [Not a legal object name: 'item](not-a-legal-object-nameitem.md)
     
 - [Not enough memory to completely save project](not-enough-memory-to-completely-save-project.md)
     
 - [Not enough memory to load file](not-enough-memory-to-load-file.md)
     
-- [Not enough memory to run; quitting](not-enough-memory-to-run;-quitting.md)
+- [Not enough memory to run; quitting](not-enough-memory-to-run-quitting.md)
     
 - [Object already loaded (Error 360)](object-already-loaded-error-360.md)
     
@@ -716,7 +716,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Object library for Visual Basic for Applications not found](object-library-for-visual-basic-for-applications-not-found.md)
     
-- [Object library invalid or contains references to object definitions that could not be found](object-library-invalid-or-contains-references-to-object-definitions-that-could-not-be-found.md)
+- [Object library invalid or contains references to object definitions that could not be found](object-library-invalid-or-contains-references-to-object-definitions-that-could-n.md)
     
 - [Object library not registered](object-library-not-registered.md)
     
@@ -732,15 +732,15 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Object was unloaded (Error 364)](object-was-unloaded-error-364.md)
     
-- [One or more files in the project have changed. Do you want to save the changes now?](one-or-more-files-in-the-project-have-changed--do-you-want-to-save-the-changes-now.md)
+- [One or more files in the project have changed. Do you want to save the changes now?](one-or-more-files-in-the-project-have-changed-do-you-want-to-save-the-changes-no.md)
     
-- [One or more instances of this object are running. Can't remove it at this time.](one-or-more-instances-of-this-object-are-running--can-t-remove-it-at-this-time.md)
+- [One or more instances of this object are running. Can't remove it at this time.](one-or-more-instances-of-this-object-are-running-can-t-remove-it-at-this-time.md)
     
-- [One or more of the properties in 'item' was bad. Some or all of the properties might not be set correctly.](one-or-more-of-the-properties-in-item-was-bad--some-or-all-of-the-properties-might-not-be-set-correctly.md)
+- [One or more of the properties in 'item' was bad. Some or all of the properties might not be set correctly.](one-or-more-of-the-properties-in-item-was-bad-some-or-all-of-the-properties-migh.md)
     
 - [Only comments may appear after End Sub, End Function, or End Property](only-comments-may-appear-after-end-sub-end-function-or-end-property.md)
     
-- [Only public user defined types defined in public object modules can be used as parameters or return types for public procedures of class modules or as fields of public user defined types](only-public-user-defined-types-defined-in-public-object-modules-can-be-used-as-parameters-or-return-types-for-public-procedures-of-class-modules-or-as-fields-of-public-user-defined-types.md)
+- [Only public user defined types defined in public object modules can be used as parameters or return types for public procedures of class modules or as fields of public user defined types](only-public-user-defined-types-defined-in-public-object-modules-can-be-used-as-p.md)
     
 - [Only valid in object module](only-valid-in-object-module.md)
     
@@ -750,13 +750,13 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Optional argument must be Variant](optional-argument-must-be-variant.md)
     
-- [Other applications are currently accessing an object in your program. Ending the program now could cause errors in those programs. End program at this time?](other-applications-are-currently-accessing-an-object-in-your-program--ending-the-program-now-could-cause-errors-in-those-programs--end-program-at-this-time.md)
+- [Other applications are currently accessing an object in your program. Ending the program now could cause errors in those programs. End program at this time?](other-applications-are-currently-accessing-an-object-in-your-program-ending-the.md)
     
 - [Out of memory (Error 31001)](out-of-memory-error-31001.md)
     
 - [Out of memory (Error 7)](out-of-memory-error-7.md)
     
-- [Out of memory; some watches might have been deleted](out-of-memory;-some-watches-might-have-been-deleted.md)
+- [Out of memory; some watches might have been deleted](out-of-memory-some-watches-might-have-been-deleted.md)
     
 - [Out of resources](out-of-resources.md)
     
@@ -780,25 +780,25 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Printer driver does not support specified property (Error 483)](printer-driver-does-not-support-specified-property-error-483.md)
     
-- [Printer error (Error 482) [1 of 2]](printer-error-error-482--1-of-2.md)
+- [Printer error (Error 482) [1 of 2]](printer-error-error-4821-of-2.md)
     
-- [Printer error (Error 482) [2 of 2]](printer-error-error-482--2-of-2.md)
+- [Printer error (Error 482) [2 of 2]](printer-error-error-4822-of-2.md)
     
-- [Private Enum and user-defined types cannot be used as parameters or return types for public procedures, public data members, or fields of public user-defined types](private-enum-and-user-defined-types-cannot-be-used-as-parameters-or-return-types-for-public-procedures-public-data-members-or-fields-of-public-user-defined-types.md)
+- [Private Enum and user-defined types cannot be used as parameters or return types for public procedures, public data members, or fields of public user-defined types](private-enum-and-user-defined-types-cannot-be-used-as-parameters-or-return-types.md)
     
-- [Private object modules cannot be used in public object modules as parameters or return types for public procedures, as public data members, or as fields of public user defined types](private-object-modules-cannot-be-used-in-public-object-modules-as-parameters-or-return-types-for-public-procedures-as-public-data-members-or-as-fields-of-public-user-defined-types.md)
+- [Private object modules cannot be used in public object modules as parameters or return types for public procedures, as public data members, or as fields of public user defined types](private-object-modules-cannot-be-used-in-public-object-modules-as-parameters-or.md)
     
-- [Problem getting printer information from the system; make sure the printer is set up correctly. (Error 484)](problem-getting-printer-information-from-the-system;-make-sure-the-printer-is-set-up-correctly--error-484.md)
+- [Problem getting printer information from the system; make sure the printer is set up correctly. (Error 484)](problem-getting-printer-information-from-the-system-make-sure-the-printer-is-set.md)
     
-- [Procedure declaration does not match description of event or procedure having same name](procedure-declaration-does-not-match-description-of-event-or-procedure-having-same-name.md)
+- [Procedure declaration does not match description of event or procedure having same name](procedure-declaration-does-not-match-description-of-event-or-procedure-having-sa.md)
     
 - [Procedure too large](procedure-too-large.md)
     
 - [Procedure type mismatch](procedure-type-mismatch.md)
     
-- [Programmatic ID string too long 'item'. The Programmatic ID must be 39 characters or less.](programmatic-id-string-too-long-item---the-programmatic-id-must-be-39-characters-or-less.md)
+- [Programmatic ID string too long 'item'. The Programmatic ID must be 39 characters or less.](programmatic-id-string-too-long-itemthe-programmatic-id-must-be-39-characters-or.md)
     
-- [Project <name> has been modified. Do you wish to save the changes now?](project-name-has-been-modified--do-you-wish-to-save-the-changes-now.md)
+- [Project <name> has been modified. Do you wish to save the changes now?](project-name-has-been-modified-do-you-wish-to-save-the-changes-now.md)
     
 - [Project contains too many procedure, variable, and constant names](project-contains-too-many-procedure-variable-and-constant-names.md)
     
@@ -812,7 +812,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Property Get can't be executed on write-only property (Error 394)](property-get-can-t-be-executed-on-write-only-property-error-394.md)
     
-- [Property let procedure not defined and property get procedure did not return an object (Error 451)](property-let-procedure-not-defined-and-property-get-procedure-did-not-return-an-object-error-451.md)
+- [Property let procedure not defined and property get procedure did not return an object (Error 451)](property-let-procedure-not-defined-and-property-get-procedure-did-not-return-an.md)
     
 - [Property not found (Error 422)](property-not-found-error-422.md)
     
@@ -878,7 +878,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Statements or labels invalid between Select Case and first Case](statements-or-labels-invalid-between-select-case-and-first-case.md)
     
-- [String value too long to process; form load aborted](string-value-too-long-to-process;-form-load-aborted.md)
+- [String value too long to process; form load aborted](string-value-too-long-to-process-form-load-aborted.md)
     
 - [Sub, Function, or Property not defined (Error 35)](sub-function-or-property-not-defined-error-35.md)
     
@@ -890,53 +890,53 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [System error 'item'](system-error-item.md)
     
-- [The .VBP file for this project contains an invalid or corrupt library references ID](the--vbp-file-for-this-project-contains-an-invalid-or-corrupt-library-references-id.md)
+- [The .VBP file for this project contains an invalid or corrupt library references ID](the-vbp-file-for-this-project-contains-an-invalid-or-corrupt-library-references.md)
     
-- [The ActiveX Designer's Type Information does not match what was saved. Unable to Load.](the-activex-designer-s-type-information-does-not-match-what-was-saved--unable-to-load.md)
+- [The ActiveX Designer's Type Information does not match what was saved. Unable to Load.](the-activex-designer-s-type-information-does-not-match-what-was-saved-unable-to.md)
     
 - [The application description can't be more than 2000 characters long](the-application-description-can-t-be-more-than-2000-characters-long.md)
     
-- [The binary compatibility DLL or EXE contains a parameter type or return type whose definition cannot be found](the-binary-compatibility-dll-or-exe-contains-a-parameter-type-or-return-type-whose-definition-cannot-be-found.md)
+- [The binary compatibility DLL or EXE contains a parameter type or return type whose definition cannot be found](the-binary-compatibility-dll-or-exe-contains-a-parameter-type-or-return-type-who.md)
     
-- [The binary compatibility DLL or EXE contains an Implements type whose definition cannot be found](the-binary-compatibility-dll-or-exe-contains-an-implements-type-whose-definition-cannot-be-found.md)
+- [The binary compatibility DLL or EXE contains an Implements type whose definition cannot be found](the-binary-compatibility-dll-or-exe-contains-an-implements-type-whose-definition.md)
     
 - [The code in this project must be updated for use on 64-bit systems](the-code-in-this-project-must-be-updated-for-use-on-64-bit-systems.md)
     
 - [The current project does not support files of this type](the-current-project-does-not-support-files-of-this-type.md)
     
-- [The edit may make the object module incompatible with the previously specified compatible ActiveX component](the-edit-may-make-the-object-module-incompatible-with-the-previously-specified-compatible-activex-component.md)
+- [The edit may make the object module incompatible with the previously specified compatible ActiveX component](the-edit-may-make-the-object-module-incompatible-with-the-previously-specified-c.md)
     
-- [The file 'item' is marked as a version not supported by the current version of Visual Basic and won't be loaded](the-file-item-is-marked-as-a-version-not-supported-by-the-current-version-of-visual-basic-and-won-t-be-loaded.md)
+- [The file 'item' is marked as a version not supported by the current version of Visual Basic and won't be loaded](the-file-item-is-marked-as-a-version-not-supported-by-the-current-version-of-vis.md)
     
-- [The file 'item' is out of date. This program requires a later version (Error 368)](the-file-item-is-out-of-date--this-program-requires-a-later-version-error-368.md)
+- [The file 'item' is out of date. This program requires a later version (Error 368)](the-file-item-is-out-of-date-this-program-requires-a-later-version-error-368.md)
     
 - [The file 'item' was not registerable as an ActiveX Component.](the-file-item-was-not-registerable-as-an-activex-component.md)
     
-- [The form class contained in the specified file is not supported in Visual Basic for Applications; the file can't be loaded.](the-form-class-contained-in-the-specified-file-is-not-supported-in-visual-basic-for-applications;-the-file-can-t-be-loaded.md)
+- [The form class contained in the specified file is not supported in Visual Basic for Applications; the file can't be loaded.](the-form-class-contained-in-the-specified-file-is-not-supported-in-visual-basic.md)
     
-- [The library containing this symbol is not referenced by the current project, so the symbol is undefined. Would you like to add a reference to the containing library now?](the-library-containing-this-symbol-is-not-referenced-by-the-current-project-so-the-symbol-is-undefined--would-you-like-to-add-a-reference-to-the-containing-library-now.md)
+- [The library containing this symbol is not referenced by the current project, so the symbol is undefined. Would you like to add a reference to the containing library now?](the-library-containing-this-symbol-is-not-referenced-by-the-current-project-so-t.md)
     
-- [The load behavior for 'item' could not be updated because of current registry permissions.](the-load-behavior-for-item-could-not-be-updated-because-of-current-registry-permissions.md)
+- [The load behavior for 'item' could not be updated because of current registry permissions.](the-load-behavior-for-item-could-not-be-updated-because-of-current-registry-perm.md)
     
 - [The project file 'item' is corrupt and can't be loaded](the-project-file-item-is-corrupt-and-can-t-be-loaded.md)
     
 - [The project file 'item1' contains invalid 'item2' key value](the-project-file-item1-contains-invalid-item2-key-value.md)
     
-- [The project file 'item1' contains invalid 'item2' key value. Valid range is 0 to 'item3'](the-project-file-item1-contains-invalid-item2-key-value--valid-range-is-0-to-item3.md)
+- [The project file 'item1' contains invalid 'item2' key value. Valid range is 0 to 'item3'](the-project-file-item1-contains-invalid-item2-key-value-valid-range-is-0-to-item.md)
     
-- [The project file 'item1' contains invalid key 'item2'.](the-project-file-item1-contains-invalid-key-item2-.md)
+- [The project file 'item1' contains invalid key 'item2'.](the-project-file-item1-contains-invalid-key-item2.md)
     
-- [The project file 'item1' contains invalid key 'item2'. The project can't be loaded](the-project-file-item1-contains-invalid-key-item2---the-project-can-t-be-loaded.md)
+- [The project file 'item1' contains invalid key 'item2'. The project can't be loaded](the-project-file-item1-contains-invalid-key-item2the-project-can-t-be-loaded.md)
     
-- [The project name is too long. Name has been truncated](the-project-name-is-too-long--name-has-been-truncated.md)
+- [The project name is too long. Name has been truncated](the-project-name-is-too-long-name-has-been-truncated.md)
     
 - [The remote server machine does not exist or is unavailable (Error 462)](the-remote-server-machine-does-not-exist-or-is-unavailable-error-462.md)
     
-- [The selected Add-In has not been confirmed to be 'Command Line Safe,' and may require some user intervention (possible UI)](the-selected-add-in-has-not-been-confirmed-to-be-command-line-safe--and-may-require-some-user-intervention-possible-ui.md)
+- [The selected Add-In has not been confirmed to be 'Command Line Safe,' and may require some user intervention (possible UI)](the-selected-add-in-has-not-been-confirmed-to-be-command-line-safeand-may-requir.md)
     
 - [The specified file could not be loaded.](the-specified-file-could-not-be-loaded.md)
     
-- [The specified object can't be used as an owner form for Show() (Error 371)](the-specified-object-can-t-be-used-as-an-owner-form-for-show--error-371.md)
+- [The specified object can't be used as an owner form for Show() (Error 371)](the-specified-object-can-t-be-used-as-an-owner-form-for-showerror-371.md)
     
 - [The specified region has been searched](the-specified-region-has-been-searched.md)
     
@@ -944,7 +944,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [The specified region has been searched and the replacements were made](the-specified-region-has-been-searched-and-the-replacements-were-made.md)
     
-- [Translation failed. Please check the trnslate.log file for more information.](translation-failed--please-check-the-trnslate-log-file-for-more-information.md)
+- [Translation failed. Please check the trnslate.log file for more information.](translation-failed-please-check-the-trnslate-log-file-for-more-information.md)
     
 - [This action will reset your project, proceed anyway?](this-action-will-reset-your-project-proceed-anyway.md)
     
@@ -960,21 +960,21 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [This control cannot be used with 'item' designers](this-control-cannot-be-used-with-item-designers.md)
     
-- [This designer cannot be used because it uses features that are not supported in this version of Visual Basic](this-designer-cannot-be-used-because-it-uses-features-that-are-not-supported-in-this-version-of-visual-basic.md)
+- [This designer cannot be used because it uses features that are not supported in this version of Visual Basic](this-designer-cannot-be-used-because-it-uses-features-that-are-not-supported-in.md)
     
 - [This document was opened with Macros Disabled](this-document-was-opened-with-macros-disabled.md)
     
 - [This edit requires a Reset](this-edit-requires-a-reset.md)
     
-- [This feature requires Internet Explorer 'item' or greater. You can obtain the latest version from www.microsoft.com](this-feature-requires-internet-explorer-item-or-greater--you-can-obtain-the-latest-version-from-www-microsoft-com.md)
+- [This feature requires Internet Explorer 'item' or greater. You can obtain the latest version from www.microsoft.com](this-feature-requires-internet-explorer-item-or-greater-you-can-obtain-the-lates.md)
     
-- [This interaction between compiled and design environment components is not supported](this-interaction-between-compiled-and-design-environment-components-is-not-supported.md)
+- [This interaction between compiled and design environment components is not supported](this-interaction-between-compiled-and-design-environment-components-is-not-suppo.md)
     
 - [This key is already associated with an element of this collection (Error 457)](this-key-is-already-associated-with-an-element-of-this-collection-error-457.md)
     
 - [This project is currently referenced by another project and cannot be closed](this-project-is-currently-referenced-by-another-project-and-cannot-be-closed.md)
     
-- [This VBA project was created while running VBA in a different application. You may only open it from inside the same application in which it was created.](this-vba-project-was-created-while-running-vba-in-a-different-application--you-may-only-open-it-from-inside-the-same-application-in-which-it-was-created.md)
+- [This VBA project was created while running VBA in a different application. You may only open it from inside the same application in which it was created.](this-vba-project-was-created-while-running-vba-in-a-different-application-you-ma.md)
     
 - [Too many arguments](too-many-arguments.md)
     
@@ -1014,7 +1014,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Unable to unload within this context (Error 365)](unable-to-unload-within-this-context-error-365.md)
     
-- [Unable to write Designer cache file 'item'; will just use regular files on Load](unable-to-write-designer-cache-file-item-;-will-just-use-regular-files-on-load.md)
+- [Unable to write Designer cache file 'item'; will just use regular files on Load](unable-to-write-designer-cache-file-itemwill-just-use-regular-files-on-load.md)
     
 - [Unable to write to the disk](unable-to-write-to-the-disk.md)
     
@@ -1024,9 +1024,9 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Unexpected error occurred in code generator or linker](unexpected-error-occurred-in-code-generator-or-linker.md)
     
-- [Unexpected error; please contact Microsoft Technical Support](unexpected-error;-please-contact-microsoft-technical-support.md)
+- [Unexpected error; please contact Microsoft Technical Support](unexpected-error-please-contact-microsoft-technical-support.md)
     
-- [Unexpected error; quitting](unexpected-error;-quitting.md)
+- [Unexpected error; quitting](unexpected-error-quitting.md)
     
 - [Unmatched brackets in search string](unmatched-brackets-in-search-string.md)
     
@@ -1048,15 +1048,15 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Variable not yet created in this context](variable-not-yet-created-in-this-context.md)
     
-- [Variable required. Can't assign to this expression](variable-required--can-t-assign-to-this-expression.md)
+- [Variable required. Can't assign to this expression](variable-required-can-t-assign-to-this-expression.md)
     
 - [Variable uses a type not supported in Visual Basic (Error 458)](variable-uses-a-type-not-supported-in-visual-basic-error-458.md)
     
-- [Version number missing or invalid; Visual Basic 5.0 assumed](version-number-missing-or-invalid;-visual-basic-5-0-assumed.md)
+- [Version number missing or invalid; Visual Basic 5.0 assumed](version-number-missing-or-invalid-visual-basic-5-0-assumed.md)
     
 - [Version numbers must be in the range 0 to 9999](version-numbers-must-be-in-the-range-0-to-9999.md)
     
-- [Visual Basic can't load 'item' because it is not in the system registry. Please ensure that all add-ins have been installed correctly.](visual-basic-can-t-load-item-because-it-is-not-in-the-system-registry--please-ensure-that-all-add-ins-have-been-installed-correctly.md)
+- [Visual Basic can't load 'item' because it is not in the system registry. Please ensure that all add-ins have been installed correctly.](visual-basic-can-t-load-item-because-it-is-not-in-the-system-registry-please-ens.md)
     
 - [Warning: custom language settings not portable](warning-custom-language-settings-not-portable.md)
     
@@ -1074,7 +1074,7 @@ ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
     
 - [Wrong number of dimensions](wrong-number-of-dimensions.md)
     
-- [Wrong version of operating system; requires Windows NT 3.51 (build 'item1' or later) or Windows 95 (build 'item2' or later)](wrong-version-of-operating-system;-requires-windows-nt-3-51-build-item1-or-later-or-windows-95-build-item2-or-later.md)
+- [Wrong version of operating system; requires Windows NT 3.51 (build 'item1' or later) or Windows 95 (build 'item2' or later)](wrong-version-of-operating-system-requires-windows-nt-3-51-build-item1-or-later.md)
     
 - [You must save a project before you can reference it.](you-must-save-a-project-before-you-can-reference-it.md)
     

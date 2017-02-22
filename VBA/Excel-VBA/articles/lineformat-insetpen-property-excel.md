@@ -21,7 +21,7 @@ Returns or sets whether lines are drawn inside the specified shape's boundaries.
 
 ### Return Value
 
- **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)**
+ **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**
 
 
 ## Remarks

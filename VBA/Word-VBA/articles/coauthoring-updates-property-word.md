@@ -12,7 +12,7 @@ ms.assetid: 89c99cbd-1b97-24b1-f614-d7ade4f383bc
 
 # CoAuthoring.Updates Property (Word)
 
-Returns a  **[CoAuthUpdates](http://msdn.microsoft.com/library/coauthupdates-object-word%28Office.15%29.aspx)** collection that represents the most recent updates that were merged into the document. Read-only.
+Returns a  **[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx)** collection that represents the most recent updates that were merged into the document. Read-only.
 
 
 ## Syntax

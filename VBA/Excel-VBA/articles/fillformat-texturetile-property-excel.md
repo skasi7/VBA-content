@@ -9,7 +9,7 @@ ms.assetid: 581322d3-0e54-c214-2f95-dc95e9961fab
 
 # FillFormat.TextureTile Property (Excel)
 
-Returns the texture tile style for the specified fill. Read/write  **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** .
+Returns the texture tile style for the specified fill. Read/write  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax

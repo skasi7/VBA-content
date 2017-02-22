@@ -29,5 +29,5 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 
 
-[Pages Object](http://msdn.microsoft.com/library/pages-object-outlook-forms-script%28Office.15%29.aspx)
+[Pages Object](http://msdn.microsoft.com/library/20a5339d-1dc7-9b61-d725-d13db72c5f65%28Office.15%29.aspx)
 

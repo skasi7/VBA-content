@@ -19,7 +19,7 @@ ms.assetid: 9498889e-0f61-ddad-df6b-6defb11dc566
 
  _expression_ . **EvenlySpaced**
 
- _expression_ A variable that represents a **[TextColumns](textcolumns-object-word.md)** object.
+ _expression_ A variable that represents a **[TextColumns](textcolumns-objectword.md)** object.
 
 
 ## Remarks
@@ -62,5 +62,5 @@ lngSpaced = ActiveDocument.PageSetup.TextColumns.EvenlySpaced
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

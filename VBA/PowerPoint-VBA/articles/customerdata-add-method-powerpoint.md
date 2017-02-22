@@ -10,7 +10,7 @@ ms.assetid: f39bc83a-4c3b-6803-12d1-9ae72e601b49
 
 # CustomerData.Add Method (PowerPoint)
 
- Adds a **[CustomXMLPart](http://msdn.microsoft.com/library/customxmlpart-object-office%28Office.15%29.aspx)** to the **[CustomerData](customerdata-object-powerpoint.md)** collection of a **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, or **[Slide](slide-object-powerpoint.md)** object and returns the **CustomXMLPart** object created.
+ Adds a **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** to the **[CustomerData](customerdata-object-powerpoint.md)** collection of a **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, or **[Slide](slide-object-powerpoint.md)** object and returns the **CustomXMLPart** object created.
 
 
 ## Syntax

@@ -28,7 +28,7 @@ You cannot create a new built-in dialog box or add one to the  **Dialogs** colle
 dlgAnswer = Dialogs(wdDialogFileOpen).Show
 ```
 
-For more information, see [Displaying built-in Word dialog boxes](http://msdn.microsoft.com/library/displaying-built-in-word-dialog-boxes%28Office.15%29.aspx).
+For more information, see [Displaying built-in Word dialog boxes](http://msdn.microsoft.com/library/abe465f9-09a1-72ea-2e2d-9de14fc02434%28Office.15%29.aspx).
 
 
 ## See also
@@ -37,6 +37,6 @@ For more information, see [Displaying built-in Word dialog boxes](http://msdn.mi
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/object-model-word-vba-reference%28Office.15%29.aspx)
+[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 
 

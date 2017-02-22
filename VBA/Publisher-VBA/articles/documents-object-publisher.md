@@ -78,7 +78,7 @@ Next objDocument
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/documents-add-method-publisher%28Office.15%29.aspx)|
+|[Add](http://msdn.microsoft.com/library/1e3536c8-8fc0-8c95-3a4c-b16fe8a99098%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -86,8 +86,8 @@ Next objDocument
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/documents-application-property-publisher%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/documents-count-property-publisher%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/documents-item-property-publisher%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/documents-parent-property-publisher%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/41a2db19-5d56-be9b-a183-707d5e9e7e25%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/fe637a72-a96c-abfb-fa17-421848db5396%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/61cf3002-26d4-a678-abcb-940e7c385287%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/a0bca15f-39a0-f7f0-9b68-f6ba30414d50%28Office.15%29.aspx)|
 

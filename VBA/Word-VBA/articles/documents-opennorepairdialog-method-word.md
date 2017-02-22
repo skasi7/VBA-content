@@ -38,7 +38,7 @@ Opens the specified document and adds it to the [Documents](documents-object-wor
 | _WritePasswordDocument_|Optional| **Variant**|The password for saving changes to the document.|
 | _WritePasswordTemplate_|Optional| **Variant**|The password for saving changes to the template.|
 | _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **[WdOpenFormat](wdopenformat-enumeration-word.md)** constants. The default is **wdOpenFormatAuto** .|
-| _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Word when you view the saved document. Can be any valid  **[MsoEncoding](http://msdn.microsoft.com/library/msoencoding-enumeration-office%28Office.15%29.aspx)** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default is the system code page.|
+| _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Word when you view the saved document. Can be any valid  **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default is the system code page.|
 | _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default is **True** .|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
 | _DocumentDirection_|Optional| **Variant**|Indicates the horizontal flow of text in a document. Can be any valid  **[WdDocumentDirection](wddocumentdirection-enumeration-word.md)** constant. The default is **wdLeftToRight** .|

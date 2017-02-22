@@ -49,12 +49,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ActivateTab](http://msdn.microsoft.com/library/iribbonui-activatetab-method-office%28Office.15%29.aspx)|
-|[ActivateTabMso](http://msdn.microsoft.com/library/iribbonui-activatetabmso-method-office%28Office.15%29.aspx)|
-|[ActivateTabQ](http://msdn.microsoft.com/library/iribbonui-activatetabq-method-office%28Office.15%29.aspx)|
-|[Invalidate](http://msdn.microsoft.com/library/iribbonui-invalidate-method-office%28Office.15%29.aspx)|
-|[InvalidateControl](http://msdn.microsoft.com/library/iribbonui-invalidatecontrol-method-office%28Office.15%29.aspx)|
-|[InvalidateControlMso](http://msdn.microsoft.com/library/iribbonui-invalidatecontrolmso-method-office%28Office.15%29.aspx)|
+|[ActivateTab](http://msdn.microsoft.com/library/32f5205c-6ab1-e3a6-6bae-5f36706c4d0d%28Office.15%29.aspx)|
+|[ActivateTabMso](http://msdn.microsoft.com/library/74096b3b-c2a7-0247-f3a1-d5e5dc7286e1%28Office.15%29.aspx)|
+|[ActivateTabQ](http://msdn.microsoft.com/library/bf664b52-2660-2ce7-a01b-83b459f66e09%28Office.15%29.aspx)|
+|[Invalidate](http://msdn.microsoft.com/library/068cd459-76c2-b1d3-ed7d-50fa88c4db73%28Office.15%29.aspx)|
+|[InvalidateControl](http://msdn.microsoft.com/library/33af7933-66f7-51e9-895e-07a6222973d2%28Office.15%29.aspx)|
+|[InvalidateControlMso](http://msdn.microsoft.com/library/bfcca0e9-8696-6a0e-ff27-6dfde41dff93%28Office.15%29.aspx)|
 
 ## See also
 
@@ -62,5 +62,5 @@ End Sub
 #### Other resources
 
 
-[IRibbonUI Object Members](http://msdn.microsoft.com/library/iribbonui-members-office%28Office.15%29.aspx)
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[IRibbonUI Object Members](http://msdn.microsoft.com/library/c6f6ec3b-3132-da29-ea08-70f20923d013%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)

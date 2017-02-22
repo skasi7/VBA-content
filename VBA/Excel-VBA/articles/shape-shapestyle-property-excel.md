@@ -12,7 +12,7 @@ ms.assetid: 7ec2cf87-324d-a37d-34ce-1110a9213fd7
 
 # Shape.ShapeStyle Property (Excel)
 
-Returns or sets an  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/msoshapestyleindex-enumeration-office%28Office.15%29.aspx)** that represents the shape style of shape range. Read/write.
+Returns or sets an  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/61f34054-28e7-6891-5442-3598d64284a0%28Office.15%29.aspx)** that represents the shape style of shape range. Read/write.
 
 
 ## Syntax

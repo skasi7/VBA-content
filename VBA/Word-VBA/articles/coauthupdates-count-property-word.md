@@ -12,7 +12,7 @@ ms.assetid: a0918742-9fbf-2a57-8efd-1487dd56d451
 
 # CoAuthUpdates.Count Property (Word)
 
-Returns the number of items in the [CoAuthUpdates](http://msdn.microsoft.com/library/coauthupdates-object-word%28Office.15%29.aspx) collection. Read-only.
+Returns the number of items in the [CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx) collection. Read-only.
 
 
 ## Syntax
@@ -39,6 +39,6 @@ MsgBox "The active document contains " &; _
 #### Other resources
 
 
-[CoAuthUpdates Object](http://msdn.microsoft.com/library/coauthupdates-object-word%28Office.15%29.aspx)
+[CoAuthUpdates Object](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx)
 
 

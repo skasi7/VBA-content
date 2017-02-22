@@ -12,7 +12,7 @@ ms.assetid: d84b0e36-7ce1-d34a-45d6-8ab9895cf617
 
 # Shape.Visible Property (Excel)
 
-Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/msotristate-enumeration-office%28Office.15%29.aspx)** value that determines whether the object is visible. Read/write.
+Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax

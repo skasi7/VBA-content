@@ -7,7 +7,7 @@ ms.assetid: 03e0b693-5446-ca62-f868-69a583087966
 
 # Sharing Calendars
 
- You can share calendar information in Microsoft Outlook by either sharing a calendar folder, if you have an Exchange Server account, or by exporting the contents of a calendar folder to an iCalendar calendar (.ics) file. Calendar information can also be shared online using a variety of protocols. For more information about sharing online calendars, see [Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders](sharing-online-calendars-rss-feeds-microsoft-sharepoint-foundation-folders-and-exchange-folders.md).
+ You can share calendar information in Microsoft Outlook by either sharing a calendar folder, if you have an Exchange Server account, or by exporting the contents of a calendar folder to an iCalendar calendar (.ics) file. Calendar information can also be shared online using a variety of protocols. For more information about sharing online calendars, see [Sharing Online Calendars, RSS Feeds, Microsoft SharePoint Foundation Folders, and Exchange Folders](sharing-online-calendars-rss-feeds-microsoft-sharepoint-foundation-folders-and-e.md).
 
 
 ## Sharing Calendar Folders

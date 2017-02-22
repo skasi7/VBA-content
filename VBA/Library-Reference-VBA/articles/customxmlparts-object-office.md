@@ -41,9 +41,9 @@ End Sub
 
 |**Name**|
 |:-----|
-|[PartAfterAdd](http://msdn.microsoft.com/library/customxmlparts-partafteradd-event-office%28Office.15%29.aspx)|
-|[PartAfterLoad](http://msdn.microsoft.com/library/customxmlparts-partafterload-event-office%28Office.15%29.aspx)|
-|[PartBeforeDelete](http://msdn.microsoft.com/library/customxmlparts-partbeforedelete-event-office%28Office.15%29.aspx)|
+|[PartAfterAdd](http://msdn.microsoft.com/library/c1a263a5-94cb-f563-145b-151a52a31d52%28Office.15%29.aspx)|
+|[PartAfterLoad](http://msdn.microsoft.com/library/d59fe837-27b5-300f-133f-ffb01f5f95b9%28Office.15%29.aspx)|
+|[PartBeforeDelete](http://msdn.microsoft.com/library/50fa1172-3eac-e091-660e-693a91aaf330%28Office.15%29.aspx)|
 
 ## Methods
 
@@ -51,9 +51,9 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/customxmlparts-add-method-office%28Office.15%29.aspx)|
-|[SelectByID](http://msdn.microsoft.com/library/customxmlparts-selectbyid-method-office%28Office.15%29.aspx)|
-|[SelectByNamespace](http://msdn.microsoft.com/library/customxmlparts-selectbynamespace-method-office%28Office.15%29.aspx)|
+|[Add](http://msdn.microsoft.com/library/f2c1588b-c11b-49ca-5db6-4fa4c26d10c5%28Office.15%29.aspx)|
+|[SelectByID](http://msdn.microsoft.com/library/e9c0d3a1-c625-bb86-b4ca-6916d4a8a6b0%28Office.15%29.aspx)|
+|[SelectByNamespace](http://msdn.microsoft.com/library/39dcce9c-4354-0211-c2cf-393917bf6aef%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -61,11 +61,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/customxmlparts-application-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/customxmlparts-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/customxmlparts-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/customxmlparts-item-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/customxmlparts-parent-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/716a8209-ac4f-1cd3-353c-03552ea53035%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/e5c8962f-3f93-8d2c-c5cf-8b485c1b2664%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/b230333f-1bf4-95d6-71d5-089ce884df98%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/801a4462-ccf9-8aa7-f894-4ed89ae09c62%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/6d158523-0297-b823-687c-5b6f3985616b%28Office.15%29.aspx)|
 
 ## See also
 
@@ -73,5 +73,5 @@ End Sub
 #### Other resources
 
 
-[CustomXMLParts Object Members](http://msdn.microsoft.com/library/customxmlparts-members-office%28Office.15%29.aspx)
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
+[CustomXMLParts Object Members](http://msdn.microsoft.com/library/4e77b5ea-b73c-020f-4abf-25adc200de23%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)

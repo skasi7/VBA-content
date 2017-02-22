@@ -18,13 +18,13 @@ ms.assetid: bdf58ab1-20bd-416a-bd11-95447a3ef143
     
 -  [Specify a Layout File for a Form Region](specify-a-layout-file-for-a-form-region.md)
     
--  [Prevent the Inspector from Displaying a Form Region When You are Composing a Message](prevent-the-inspector-from-displaying-a-form-region-when-you-are-composing-a-message.md)
+-  [Prevent the Inspector from Displaying a Form Region When You are Composing a Message](prevent-the-inspector-from-displaying-a-form-region-when-you-are-composing-a-mes.md)
     
--  [Prevent the Inspector from Displaying a Form Region When You are Reading a Message](prevent-the-inspector-from-displaying-a-form-region-when-you-are-reading-a-message.md)
+-  [Prevent the Inspector from Displaying a Form Region When You are Reading a Message](prevent-the-inspector-from-displaying-a-form-region-when-you-are-reading-a-messa.md)
     
--  [Prevent the Reading Pane from Displaying a Form Region When You are Previewing a Message](prevent-the-reading-pane-from-displaying-a-form-region-when-you-are-previewing-a-message.md)
+-  [Prevent the Reading Pane from Displaying a Form Region When You are Previewing a Message](prevent-the-reading-pane-from-displaying-a-form-region-when-you-are-previewing-a.md)
     
--  [Prevent a Replacement Form Region from Being Used to Create a New Item or from Being Modified in the Forms Designer](prevent-a-replacement-form-region-from-being-used-to-create-a-new-item-or-from-being-modified-in-the-forms-designer.md)
+-  [Prevent a Replacement Form Region from Being Used to Create a New Item or from Being Modified in the Forms Designer](prevent-a-replacement-form-region-from-being-used-to-create-a-new-item-or-from-b.md)
     
 -  [Specify a Form Region to be Used Only for the Exact Message Class](specify-a-form-region-to-be-used-only-for-the-exact-message-class.md)
     

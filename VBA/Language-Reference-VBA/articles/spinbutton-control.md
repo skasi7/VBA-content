@@ -21,6 +21,6 @@ The default event for a  **SpinButton** is the Change event.
 
 ## Related Topics
 
-[SpinButton Object](http://msdn.microsoft.com/library/spinbutton-object-reference-outlook-forms-script%28Office.15%29.aspx)
+[SpinButton Object](http://msdn.microsoft.com/library/6d6e1bf8-56d9-480f-aeb6-102b646374ed%28Office.15%29.aspx)
 
 

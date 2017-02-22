@@ -12,7 +12,7 @@ ms.assetid: bd31f001-0e5d-691b-e69e-4cb91a6dbb0e
 
 # Workbook.CustomXMLParts Property (Excel)
 
-Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/customxmlparts-object-office%28Office.15%29.aspx)** collection that represents the custom XML in the XML data store. Read-only.
+Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** collection that represents the custom XML in the XML data store. Read-only.
 
 
 ## Syntax

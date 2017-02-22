@@ -19,7 +19,7 @@ Returns a  **TextColumn** object that represents a new text column added to a se
 
  _expression_ . **Add**( **_Width_** , **_Spacing_** , **_EvenlySpaced_** )
 
- _expression_ Required. A variable that represents a **[TextColumns](textcolumns-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[TextColumns](textcolumns-objectword.md)** collection.
 
 
 ### Parameters
@@ -66,5 +66,5 @@ ActiveDocument.PageSetup.TextColumns.Add _
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

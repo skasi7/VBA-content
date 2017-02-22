@@ -12,7 +12,7 @@ ms.assetid: 732f1bda-f6ad-e1e0-6f8f-b5f6e4c70549
 
 # ColorFormat.Type Property (Excel)
 
-Returns a  **[MsoColorType](http://msdn.microsoft.com/library/msocolortype-enumeration-office%28Office.15%29.aspx)** value that represents the color format type.
+Returns a  **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08-b703-aaa1f69516dc%28Office.15%29.aspx)** value that represents the color format type.
 
 
 ## Syntax

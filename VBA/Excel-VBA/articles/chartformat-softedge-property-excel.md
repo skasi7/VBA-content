@@ -12,7 +12,7 @@ ms.assetid: daeff636-bd76-b11e-0fe6-d7cf85df28c7
 
 # ChartFormat.SoftEdge Property (Excel)
 
-Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/softedgeformat-object-office%28Office.15%29.aspx)** object for a specified chart that contains soft edge formatting properties for the chart. Read-only.
+Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e56-b9ea-89c7ecce0370%28Office.15%29.aspx)** object for a specified chart that contains soft edge formatting properties for the chart. Read-only.
 
 
 ## Syntax

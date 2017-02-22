@@ -19,7 +19,7 @@ ms.assetid: 102b2ff8-b727-32b4-cd2f-9f9d6e0f0385
 
  _expression_ . **LineBetween**
 
- _expression_ An expression that returns a **[TextColumns](textcolumns-object-word.md)** collection object.
+ _expression_ An expression that returns a **[TextColumns](textcolumns-objectword.md)** collection object.
 
 
 ## Remarks
@@ -49,5 +49,5 @@ Next s
 #### Concepts
 
 
-[TextColumns Collection Object](textcolumns-object-word.md)
+[TextColumns Collection Object](textcolumns-objectword.md)
 

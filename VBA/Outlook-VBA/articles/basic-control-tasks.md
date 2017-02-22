@@ -16,7 +16,7 @@ ms.assetid: edb53163-86c0-4769-9b71-b6c1413f7503
     
 -  [Adjust Spacing for Controls](adjust-spacing-for-controls.md)
     
--  [Align Controls](align-controls-1.md)
+-  [Align Controls](align-controls.md)
     
 -  [Center Controls in a Form](center-controls-in-a-form.md)
     

@@ -26,8 +26,8 @@ There is only one  **FileTypes** collection for all searches so it's important t
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/filetypes-add-method-office%28Office.15%29.aspx)|
-|[Remove](http://msdn.microsoft.com/library/filetypes-remove-method-office%28Office.15%29.aspx)|
+|[Add](http://msdn.microsoft.com/library/4febf3e9-8ed5-b92b-ae0c-e5f804b27039%28Office.15%29.aspx)|
+|[Remove](http://msdn.microsoft.com/library/1c2d55c5-9f57-e9aa-f145-3ff61c69fb69%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -35,10 +35,10 @@ There is only one  **FileTypes** collection for all searches so it's important t
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/filetypes-application-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/filetypes-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/filetypes-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/filetypes-item-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/fcb569ba-c8ad-f9df-f943-b2d678f90cda%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/e286f224-9186-6198-717e-30604829287c%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/c3e9d104-e60b-4b8b-eb1c-95553dcefd89%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/89a9a9b1-1161-9dff-84db-064fc45aa022%28Office.15%29.aspx)|
 
 ## See also
 
@@ -46,5 +46,5 @@ There is only one  **FileTypes** collection for all searches so it's important t
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[FileTypes Object Members](http://msdn.microsoft.com/library/filetypes-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[FileTypes Object Members](http://msdn.microsoft.com/library/c2ecfe17-b2bb-23ef-1c2b-e5b8b5ff4fe1%28Office.15%29.aspx)

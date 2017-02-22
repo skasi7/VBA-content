@@ -12,7 +12,7 @@ ms.assetid: 8f5a23a9-0245-224f-2827-982ef2814ad0
 
 # Shape.Reflection Property (Excel)
 
-Returns a  **[ReflectionFormat](http://msdn.microsoft.com/library/reflectionformat-object-office%28Office.15%29.aspx)** object for a specified shape that contains reflection formatting properties for the shape. Read-only.
+Returns a  **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-113b-9808-1173fdd719a9%28Office.15%29.aspx)** object for a specified shape that contains reflection formatting properties for the shape. Read-only.
 
 
 ## Syntax

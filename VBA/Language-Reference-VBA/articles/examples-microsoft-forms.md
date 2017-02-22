@@ -18,7 +18,7 @@ ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
     
 - [AutoSize, MultiLine, WordWrap, ScrollBars Properties, TextBox Control Example](autosize-multiline-wordwrap-scrollbars-properties-textbox-control-example.md)
     
-- [BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect Properties Example](backcolor-backstyle-bordercolor-borderstyle-forecolor-specialeffect-properties-example.md)
+- [BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect Properties Example](backcolor-backstyle-bordercolor-borderstyle-forecolor-specialeffect-properties-e.md)
     
 - [CanUndo, CanRedo Properties, UndoAction, RedoAction Methods Example](canundo-canredo-properties-undoaction-redoaction-methods-example.md)
     
@@ -56,7 +56,7 @@ ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
     
 - [GroupName Property Example](groupname-property-example.md)
     
-- [Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop Properties, TabStrip, Image Control Example](height-width-left-top-clientheight-clientwidth-clientleft-clienttop-properties-tabstrip-image-control-example.md)
+- [Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop Properties, TabStrip, Image Control Example](height-width-left-top-clientheight-clientwidth-clientleft-clienttop-properties-t.md)
     
 - [Index Property Example](index-property-example.md)
     
@@ -74,7 +74,7 @@ ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
     
 - [Layout Event, OldLeft, OldTop, OldHeight, OldWidth Properties Example](layout-event-oldleft-oldtop-oldheight-oldwidth-properties-example.md)
     
-- [ListBox Control, AddItem, RemoveItem Methods, ListIndex, ListCount Properties Example](listbox-control-additem-removeitem-methods-listindex-listcount-properties-example.md)
+- [ListBox Control, AddItem, RemoveItem Methods, ListIndex, ListCount Properties Example](listbox-control-additem-removeitem-methods-listindex-listcount-properties-exampl.md)
     
 - [ListBox Control, BoundColumn Property Example](listbox-control-boundcolumn-property-example.md)
     
@@ -84,7 +84,7 @@ ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
     
 - [ListBox Control, ColumnCount, ColumnWidths Properties Example](listbox-control-columncount-columnwidths-properties-example.md)
     
-- [ListBox Control, DataObject Object, MouseMove Event, StartDrag, SetText Methods Example](listbox-control-dataobject-object-mousemove-event-startdrag-settext-methods-example.md)
+- [ListBox Control, DataObject Object, MouseMove Event, StartDrag, SetText Methods Example](listbox-control-dataobject-object-mousemove-event-startdrag-settext-methods-exam.md)
     
 - [ListBox Control, List Property Example](listbox-control-list-property-example.md)
     
@@ -156,7 +156,7 @@ ms.assetid: bef53a48-4af9-4633-8009-b2dcd38fef3e
     
 - [TextBox Control, AutoSize, Text Properties Example](textbox-control-autosize-text-properties-example.md)
     
-- [TextBox Control, SetFocus Method, EnterFieldBehavior, HideSelection, MultiLine, Value Properties Example](textbox-control-setfocus-method-enterfieldbehavior-hideselection-multiline-value-properties-example.md)
+- [TextBox Control, SetFocus Method, EnterFieldBehavior, HideSelection, MultiLine, Value Properties Example](textbox-control-setfocus-method-enterfieldbehavior-hideselection-multiline-value.md)
     
 - [TextColumn Property Example](textcolumn-property-example.md)
     

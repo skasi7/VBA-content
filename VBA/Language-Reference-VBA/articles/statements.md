@@ -32,7 +32,7 @@ ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
     
 - [Dim Statement](dim-statement.md)
     
-- [Do...Loop Statement](do---loop-statement.md)
+- [Do...Loop Statement](doloop-statement.md)
     
 - [End Statement](end-statement.md)
     
@@ -48,29 +48,29 @@ ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
     
 - [FileCopy Statement](filecopy-statement.md)
     
-- [For Each...Next Statement](for-each---next-statement.md)
+- [For Each...Next Statement](for-eachnext-statement.md)
     
-- [For...Next Statement](for---next-statement.md)
+- [For...Next Statement](fornext-statement.md)
     
 - [Function Statement](function-statement.md)
     
 - [Get Statement](get-statement.md)
     
-- [GoSub...Return Statement](gosub---return-statement.md)
+- [GoSub...Return Statement](gosubreturn-statement.md)
     
 - [GoTo Statement](goto-statement.md)
     
-- [If...Then...Else Statement](if---then---else-statement.md)
+- [If...Then...Else Statement](ifthenelse-statement.md)
     
 - [Implements Statement](implements-statement.md)
     
-- [Input # Statement](input-statement.md)
+- [Input # Statement](inputstatement.md)
     
 - [Kill Statement](kill-statement.md)
     
 - [Let Statement](let-statement.md)
     
-- [Line Input # Statement](line-input-statement.md)
+- [Line Input # Statement](line-inputstatement.md)
     
 - [Load Statement](load-statement.md)
     
@@ -86,7 +86,7 @@ ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
     
 - [On Error Statement](on-error-statement.md)
     
-- [On...GoSub, On...GoTo Statements](on---gosub-on---goto-statements.md)
+- [On...GoSub, On...GoTo Statements](ongosub-ongoto-statements.md)
     
 - [Open Statement](open-statement.md)
     
@@ -98,7 +98,7 @@ ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
     
 - [Option Private Statement](option-private-statement.md)
     
-- [Print # Statement](print-statement.md)
+- [Print # Statement](printstatement.md)
     
 - [Private Statement](private-statement.md)
     
@@ -152,13 +152,13 @@ ms.assetid: c97fefeb-9133-4762-8cf1-a3810cef8b30
     
 - [Unload Statement](unload-statement.md)
     
-- [While...Wend Statement](while---wend-statement.md)
+- [While...Wend Statement](whilewend-statement.md)
     
-- [Width # Statement](width-statement.md)
+- [Width # Statement](widthstatement.md)
     
 - [With Statement](with-statement.md)
     
-- [Write # Statement](write-statement.md)
+- [Write # Statement](writestatement.md)
     
 - [Deftype Statements](deftype-statements.md)
     

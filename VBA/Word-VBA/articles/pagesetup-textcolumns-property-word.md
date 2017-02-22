@@ -12,7 +12,7 @@ ms.assetid: 85fb6b50-1c2e-a96e-e56d-3a1caacaabc5
 
 # PageSetup.TextColumns Property (Word)
 
-Returns a  **[TextColumns](textcolumns-object-word.md)** collection that represents the set of text columns for the specified **PageSetup** object.
+Returns a  **[TextColumns](textcolumns-objectword.md)** collection that represents the set of text columns for the specified **PageSetup** object.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Returns a  **[TextColumns](textcolumns-object-word.md)** collection that represe
 
 There will always be at least one text column in the collection. When you create new text columns, you are adding to a collection of one column.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/returning-an-object-from-a-collection-word%28Office.15%29.aspx).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example

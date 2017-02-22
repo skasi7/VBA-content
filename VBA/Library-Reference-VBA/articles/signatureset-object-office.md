@@ -72,8 +72,8 @@ End Function
 
 |**Name**|
 |:-----|
-|[AddNonVisibleSignature](http://msdn.microsoft.com/library/signatureset-addnonvisiblesignature-method-office%28Office.15%29.aspx)|
-|[AddSignatureLine](http://msdn.microsoft.com/library/signatureset-addsignatureline-method-office%28Office.15%29.aspx)|
+|[AddNonVisibleSignature](http://msdn.microsoft.com/library/f8d3a749-9507-628f-2192-552bd4cbb00c%28Office.15%29.aspx)|
+|[AddSignatureLine](http://msdn.microsoft.com/library/e887431f-8a01-99d7-6c9b-21aaf3d9198d%28Office.15%29.aspx)|
 
 ## Properties
 
@@ -81,14 +81,14 @@ End Function
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/signatureset-application-property-office%28Office.15%29.aspx)|
-|[CanAddSignatureLine](http://msdn.microsoft.com/library/signatureset-canaddsignatureline-property-office%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/signatureset-count-property-office%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/signatureset-creator-property-office%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/signatureset-item-property-office%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/signatureset-parent-property-office%28Office.15%29.aspx)|
-|[ShowSignaturesPane](http://msdn.microsoft.com/library/signatureset-showsignaturespane-property-office%28Office.15%29.aspx)|
-|[Subset](http://msdn.microsoft.com/library/signatureset-subset-property-office%28Office.15%29.aspx)|
+|[Application](http://msdn.microsoft.com/library/55eb69e8-f7d0-ed4c-ef9f-91e374b4f658%28Office.15%29.aspx)|
+|[CanAddSignatureLine](http://msdn.microsoft.com/library/e5b54883-4ac5-b239-b17c-efbdcd4bc849%28Office.15%29.aspx)|
+|[Count](http://msdn.microsoft.com/library/6918bb9c-775e-241d-c126-6e4a3a63c654%28Office.15%29.aspx)|
+|[Creator](http://msdn.microsoft.com/library/0fc2f22f-57b8-0dc9-1e31-48b5a66b01bf%28Office.15%29.aspx)|
+|[Item](http://msdn.microsoft.com/library/f55249e6-22e1-84bd-175f-e615533a37cd%28Office.15%29.aspx)|
+|[Parent](http://msdn.microsoft.com/library/88fd9392-e2f3-e84e-9f7c-c2fce32de296%28Office.15%29.aspx)|
+|[ShowSignaturesPane](http://msdn.microsoft.com/library/1aa332cd-5b4e-06e8-2ebb-3c64128ded04%28Office.15%29.aspx)|
+|[Subset](http://msdn.microsoft.com/library/0ce176cb-9869-19ed-a3bc-e17b04c59255%28Office.15%29.aspx)|
 
 ## See also
 
@@ -96,5 +96,5 @@ End Function
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/reference-object-library-reference-for-office%28Office.15%29.aspx)
-[SignatureSet Object Members](http://msdn.microsoft.com/library/signatureset-members-office%28Office.15%29.aspx)
+[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[SignatureSet Object Members](http://msdn.microsoft.com/library/abe810a3-ffe4-ee26-8df7-d68cfbf3bf1e%28Office.15%29.aspx)
