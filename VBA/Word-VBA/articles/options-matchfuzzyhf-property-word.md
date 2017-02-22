@@ -14,9 +14,21 @@ ms.assetid: fc818d98-8cdc-2dfe-9898-d019a01b2077
 
  **True** if Microsoft Word ignores the distinction between "
 
-![Symbol](./images/fe283_ZA06051762.gif)
+![Symbol 1.1](./images/fe283_ZA06051762.gif)
 
-![Symbol](.\images\fe284_ZA06051763.gif)
+![Symbol 1.1](.\images\fe283_ZA06051762.gif)
+
+![Symbol 1.2](../images/fe283_ZA06051762.gif)
+
+![Symbol 1.3](..\images\fe283_ZA06051762.gif)
+
+![Symbol 2.1](.\images\fe284_ZA06051763.gif)
+
+![Symbol 2.2](images\fe284_ZA06051763.gif)
+
+![Symbol 2.3](./images/fe284_ZA06051763.gif)
+
+![Symbol 2.4](images/fe284_ZA06051763.gif)
 
 ![Symbol](images/fe238_ZA06051718.gif)
 
