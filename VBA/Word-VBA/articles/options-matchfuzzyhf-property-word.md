@@ -14,7 +14,7 @@ ms.assetid: fc818d98-8cdc-2dfe-9898-d019a01b2077
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](./images/fe283_ZA06051762.gif)
-![Symbol](images/fe284_ZA06051763.gif)" and "
+![Symbol](.\images\fe284_ZA06051763.gif)" and "
 ![Symbol](images/fe238_ZA06051718.gif)
 ![Symbol](images/fe284_ZA06051763.gif)" and between "
 ![Symbol](images/fe285_ZA06051764.gif)
