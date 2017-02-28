@@ -30,5 +30,5 @@ The  **SmartDocument** object model is available whether or not a document has a
 #### Concepts
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
 

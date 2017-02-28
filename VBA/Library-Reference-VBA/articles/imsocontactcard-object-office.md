@@ -26,5 +26,5 @@ You cannot create a new instance of a  **ContactCard** object programmatically. 
 #### Concepts
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
 

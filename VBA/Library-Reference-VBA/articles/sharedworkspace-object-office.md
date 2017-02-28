@@ -80,5 +80,5 @@ The following example displays the properties of the shared workspace to which t
 #### Concepts
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
 

@@ -56,5 +56,5 @@ The following example determines whether the active document has restricted perm
 #### Concepts
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
 

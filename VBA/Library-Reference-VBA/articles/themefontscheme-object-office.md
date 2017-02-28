@@ -31,5 +31,5 @@ Set tfsThemeFontScheme = tTheme.ThemeFontScheme
 #### Concepts
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
 

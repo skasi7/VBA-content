@@ -28,5 +28,5 @@ You can use the  **Add** method of the **SearchFolders** collection to add a **S
 #### Concepts
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
 
