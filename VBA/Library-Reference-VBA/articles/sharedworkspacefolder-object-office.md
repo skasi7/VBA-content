@@ -49,5 +49,5 @@ Use the  **FolderName** property to return the name of the shared workspace fold
 #### Concepts
 
 
-[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office.md)
 

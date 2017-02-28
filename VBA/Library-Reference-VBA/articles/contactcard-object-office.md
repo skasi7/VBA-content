@@ -26,5 +26,5 @@ You can create a new instance of a  **ContactCard** object by calling the Micros
 #### Concepts
 
 
-[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office.md)
 

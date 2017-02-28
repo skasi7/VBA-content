@@ -26,5 +26,5 @@ Encryption providers are implemented through custom COM add-ins. You are provide
 #### Concepts
 
 
-[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office.md)
 

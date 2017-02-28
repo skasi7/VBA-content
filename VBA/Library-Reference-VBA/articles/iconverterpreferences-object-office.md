@@ -21,5 +21,5 @@ This feature is only available in the Open XML Format SDK.
 #### Concepts
 
 
-[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office.md)
 

@@ -26,5 +26,5 @@ You can't add or remove  **SearchScope** objects from the **SearchScopes** colle
 #### Concepts
 
 
-[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office.md)
 

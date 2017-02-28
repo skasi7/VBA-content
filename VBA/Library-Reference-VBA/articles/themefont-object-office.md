@@ -33,5 +33,5 @@ Set tfThemeFont = tfThemeFontScheme.MajorFont(msoThemeLatin)
 #### Concepts
 
 
-[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office)
+[Object Model Reference](../../Office-Shared-VBA/articles/reference-object-library-reference-for-office.md)
 
